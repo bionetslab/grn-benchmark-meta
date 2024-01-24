@@ -10,8 +10,10 @@
 5. Check if tutorials exist by external authors
 6. Find which data has been used by the authors and how it was preprocessed.
 7. If available, find the code used for the preprocessing.
-8. Find the settings the authors used in the publication to generate the figures.
-9. Update the data set information sheet with the relevant information.
+8. Check if the authors simulate benchmark data
+
+11. Find the settings the authors used in the publication to generate the figures.
+12. Update the data set information sheet with the relevant information.
 
 ### 1.1.2 Software assessment
 
@@ -28,6 +30,8 @@
 11. Create markdown  README in project folder
 12. Wiki page with methodology, rationale, parameters, etc.
 13. Update secondary evaluation criteria list 
+14.  Find the code of benchmark simulation if available
+10. Generate benchmark data. 
 
 
 #### 1.1.2.2 Troubleshooting:
@@ -70,4 +74,22 @@
 - [ ] #task Introduction to R/tidyverse/bioconductor
 - [ ] #task Checklist deliverables
 
+
+Tag 1: 8.04
+Morgens 
+Introductoin Mol
+tidy data
+
+Nachmittags:
+Project selection
+
+Tag 2:
+Introdutction to Introduction to R/tidyverse/bioconductor
+
+Tag 3:
+Hack
+
+Tag 4: 11.04.
+
+Tag 5 Presentation:
 

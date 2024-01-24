@@ -1,0 +1,797 @@
+GSE96769	1	2018	bone marrow	yes	single cell/bulk	2784	1		
+GSE176367	1	2022	tonsil	?	single cell/bulk RNA/ATAC		1		1 = heatlth available
+GSE227729	1	2023	post mortem brain	yes/HD	Facs+bulk	344	2	yes	3 = only case?
+GSE130408	1	2020	Prostate	yes/cancer	CHIP/ATAC	249	1		
+GSE85246	1	2016	Monocytes	baseline/stimulus	RNA/ATAC/CHIP	239	2		
+GSE206284	1	2022	PBMC	healthy covid	RNA.ATAC /scRNA	224	1		
+GSE211822	1	2022	brain	healthy co	bulk RNA bullk ATAC	210	1	yes	
+GSE183279	1	2023	kidney	case/control	slideseq2/ snare seq.scCv3	199	?		
+GSE162515	1	2020	thyroid	normal/tumor/mtastasis	ATAC/RNA	178	1,2		
+GSE165303	1	2022	heart	DCM/control?	ATAC/CHIP/RNA	177	1,2		
+GSE130119	1	2020	post mortem brain	healthy/ms	RNA/ATAC/CHIP	163	1,2	yes	
+GSE147672	1	2020	post mortem brain	healthy	bulk ATAC/scATAC/hiCHIP	162	1	yes	
+GSE151075	1	2020	postnatal human thymocyte	healthy		23			
+GSE244618	1	2023	post mortem brain	healthy	snATAC	128		yes	
+GSE86886	1	2018	activated T cells	stimulated/control	ATAC	117	1,2		Tcells
+GSE96615	1	2018	post mortem brain	healthy	ATAC/RNA/Bisulfile	114	1	yes	
+GSE119734	1	2021	GM-CSF producing and memory T helper	healthy	ATAC/RNA	83	1		
+GSE183806	1	2021	B cells tonsils	B cells sorted	ATAC	25	1		
+GSE201336	1	2022	colon	 normal/ polyp/ crc	ATAC	89	1?,2		
+GSE207954	1	2022	colorectal cancer	 normal/ polyp/ crc	ATAC/RNA/HIC	80	2		
+GSE150130	1	2021	post moretem brain	healthy/diseas	ATAC/RNA/HIC	78	1,2	yes	
+GSE153520	1	2020	blood	health pertrubed	ATAC	84	1?, 2		
+GSE116698	1	2019	PBMC	healty/perturbed	ATAC/ChIP/RNA	76	1?, 2		
+GSE99287	1	2018	Postmortem eye fresh	case/control	ATAC	58	1,2		
+GSE190004	1	2023	PBMC	covid/control	ATAC	57	1,2		
+GSE172329	1	2022	human trophoblast stem cells						
+GSE139914	1	2020	postmortem brain		ATAC, scATAC, ScRNA	56		yes	
+GSE158499	1	2021	Human pancreatic islets						
+GSE130089	1	2021	T cells stimulation	healthy/perturbed		48	1,2		
+GSE158485	1	2020	freshly isolated cells from human Liver tissue	healthy/perturbed		47	?		
+GSE143666	1	2020	postmortem brain	healthy/schizophrenia		47		yes?	
+GSE129041	1	2019	postmmortem brain	heatly/AD		47		yes	
+GSE202087	1	2022	peripheral blood	MD treated/untreated	ATAC	46			
+GSE79468	1	2018	pancreas	healthy	ATAC/CHIP/	46			
+GSE246785	1	2023	cerebellum crus 1	healthy	ATAC, drip seq	42			
+GSE210943	1	2022	Blood PBMC	healthy, previous malaria exp/	ATAC	42			
+GSE206455	1	2022	PBMC	healthy/covid stages	ATAC	42	1, 2		
+GSE219012	1	2023	blood B cells	culture, stimulation series					
+GSE196987	1	2023	PBMC	healty/covid, after recovert	multiome	40	1		
+GSE226108	1	2023	healty retina		atac/RNA				
+GSE226428	1	2023	skin	Healthy/HS	ATA/RNA/CUTnRUN	36			
+GSE237729	1	2023	PBMC	heatly/HIV					
+GSE168838	1	2023	breast tissue	cis/trans female	ATAC/RNA	35	1		
+GSE188422	1	2022	Coronary artery disease	transplant/donor	ATAC/RNA	35			
+GSE193642	1	2022	Antibody secreting cells	probably healthy	ATAC/RNA	189	1?		
+GSE169453	1	2023	pancreatic islet	heatly/prediabetic/T2D	snATAC/snRNA	34			
+GSE183273	1	2022	kidney	healthy	snareSeq2	34			
+GSE216176	1	2023	bone marrow ganglioneuroblastoma	case/control		33	1,2		
+GSE101609	1	2017	PBMC	naive/vaccinated	ATAC	31			
+GSE124219	1	2020	CD14+ monocytes blood, bone marrow	naive/vaccinated	ATAC/RNA		1,2		
+GSE159314	1	2021	cell type: Naive B	naive/treaated	ATAC		1		
+GSE216241	1	2023	Primary breast epithelial cells	normal/TONSL	ATAC/RNA		1,2		
+GSE203273	1	2022	heart	case/control	ATAC/RNA		1,2		
+GSE220251	1	2022	human kidney	heatly?	ATAC/RNA		1		
+GSE151075	1	2020	Tcells	healthy	ATAC/RNA				
+GSE205055	1	2023	brain	healthy	ATAC RNA	2	1		
+GSE173277	1	2021	Liver	healthy/T2d	ATAC				
+GSE96614	1	2018	brain	healty/	ATAC/RNA/WBS				
+GSE164870	1	2021	liver	healtz	ATAC/RNA/genotype				
+GSE196235	1	2022	tissue: Retina	health	ATAC				
+GSE175694	1	2022	PBMC	trauma/control	ATAC	16			
+GSE182180	1	2021	pituitary tissues 	control/cancer	ATAC/RNASeq				
+GSE83345	1	2017	postmortem brain	control	ATAC			glia	
+GSE71338	1	2016	CD19+ B cells	B cells sorted	ATAC				
+GSE129383	1	2019	pancreatic islet	health/t2d	ATAC				
+GSE173734	1	2022	liver	health/nash/	ATAC/RNA				
+GSE212448	1	2023	scalp skin	healthy/AA	scATAC/scRAN	1,2			
+GSE183771	1	2023	endometrium	healthy cycle	ATAC				
+GSE202474	1	2022	retina	healty/	ATAC/RNA/cutnRun				
+GSE192772	1	2023	postmortem brain 	healthy/apes	ATAC/RNA	1			
+GSE163160	1	2021	pancreas, PBMC	healthy?	ATAC				
+GSE167488	1	2021	esopahrgus	normal/cancer from patient	ATAC/RNA				
+GSE165037	1	2021	postmortem brain	glioblastoma/healtht	ATAC/RNA	1			
+GSE129040	1	2019	postmortem brain	healthy/AD	ATAC/CHIP/	1			
+GSE231950	1	2023	cell type: CD34+ hematopoietic stem and progenitor cells						
+GSE207334	1	2022	dorsolateral prefrontal cortex	health	multiome				
+GSE209659	1	2022	PBMC	healthy/ciliopathy	ATAC/RNA/CUTnTAG/wES				
+GSE157970	1	2022	cell type: CD14+ monocytes	control/lupus	ATAC/RNA				
+GSE165414	1	2021	tissue: skeletal muscle	healthy	ATAC				
+GSE218918	1	2022	PBMC	healthy/covid/flu	ATAC				
+GSE212908	1	2023	Kidney Medulla, cortex	health	ATAC				
+GSE226529	1	2023	postmortem brain		ATAC				
+GSE202315	1	2022	tissue: Liver	healthy/cancer					
+GSE202905	1	2022	tissue: Naive CD4 T cells	fetal/adult	ATAC				
+GSE152300	1	2022	kidney cortex and medulla	health	ATAC				
+GSE153266	1	2022	tissue: Trachea-Bronchi	normal/TO	ATAC/RNA?				
+GSE200547	1	2022	kidney	healthy?	snATAC				
+GSE171841	1	2022	CD14+ monocyte tissue: peripheral blood	culture, stimulation series					
+GSE154066	1	2021	post moretem human brain	health	ATAC				
+GSE147113	1	2021	Hematopoietic stem cells						
+GSE120507	1	2018	sperm	healtht	ATAC				
+GSE239799	1	2023	PBMC infants	healthy/covid stages	multiome	1,2			
+GSE211785	1	2024	kidney	healthy, diabetic, and hypertensive diseased human kidneys.	ATAC. RNA	1,2			
+GSE148981	1	2020	thymus		ATAC/RNA	1?			
+GSE194028	1	2023	PBMCs	healthy	different protocols				
+GSE221427	1	2023	PBMC	heatlth/control					
+GSE226267	1	2024	Peripheral blood mononuclear cells	ad/controls					
+GSE130871	1	2019	brain	human/other					
+GSE229169	1	2023	postmortem brain	human/other	multiome				
+GSE247038	1	2023	placenta	early/late					
+GSE247157	1	2023	retina	healthy					
+GSE219015	1	2023	blood	old young	ATAC				
+GSE224997	1	2023	heart	helathy? postmortem?					
+GSE214085	1	2023	lung 	healthy?					
+GSE232222	1	2024	kidney	health/LOY					
+GSE212109	1	2022	lung 	healthy/SSCILD	RNA/ATAC				
+GSE212910	1	2023	kidney	health	rNA/ATAC/HIC				
+GSE227265	1	2023	liver	tumor	ATAC				
+GSE220155	1	2023	retina	healthy periphery,macula					
+GSE165860	1	2021	tonsil	routine tonsillectomy					
+GSE193304	1	2023	skin	health/tumor	RNA/ATAC				
+GSE216462	1	2023	cell type: Bone marrow mononuclear cells	healhty	ATAC/RNA				
+GSE207337	1	2022	epidermis/skin	healthy/cancer					
+GSE165637	1	2022	tissue: follicles derived from ovarian cortex	fresh/cryopreserved					
+GSE148223	1	2022	cell type: CD8 T cells	healthy					
+GSE226926	1	2023	skin	hip, palm					
+GEO	selected	Year	Tissue	tissue sample	technology	samples	potential	glia	
+GSE224942		2023	T98G human cancer				2		2 = case/control with atac and RNA
+GSE224613		2023	Cancer cell line	no	RNA/ATAC/CHIP	254	2		
+GSE110684		2019	lymph node	HIV	bulk RNA bullk ATAC	27	3		
+GSE186589		2023	RPE-1 cells	cell line					
+GSE163853		2022	glioblastoma stem cell	cell line					
+GSE102441		2018	Drosophila						
+GSE224770		2024	Human adipose derived stem cells (hASC)		ATAC/CHIP/RNA	172	?		
+GSE174280		2022	GM12878			168			
+GSE241428		2023	AML cell lines	AML cell line	atac/CUTnRU/ttsqe	160			
+GSE185241		2023	cell line						
+GSE174360		2022	cell lines	ccm tumor		158			
+GSE178869		2022	cultrered cells	cancer cell lines					
+GSE159886		2022	Human bone marrow mononuclear cells	ASXL1 mutant vs WT (cancer)					
+GSE163001		2022	exprimental model of renal carcinoma						
+GSE148695		2021	duodenal and colonic organoids						
+GSE221690		2023	RC43T cell line						
+GSE188486		2022	rcc cancer	cancer					
+GSE80154		2018	neuroblastoma cell lines	cancer		144			
+GSE131817		2021	in vitro pancreatic tissue						
+GSE180175		2022	GM12878	 K562 and mESC	cell line				
+GSE137656		2019	LUHMES-derived neurons	cripser cell line					
+GSE181554		2022	cell lines						
+GSE136656		2020	iPSC-derived GABAergic neurons.						
+GSE136209		2023	MCF-7 cell line 	cancer cell lines					
+GSE135756		2020	neuroblastoma						
+GSE112856		2019	metastasis model						
+GSE199701		2023	leukemia and cell lines	cancer tissue and cell lines					
+GSE167163		2023	DMSO- and BETi-treated KASUMI-1	cell lines					
+GSE202448		2023	ALL tissue	cancer tissue					
+GSE208046		2022	monocyte cell line	cell line					
+GSE116862		2019	hESCs 	cell line					
+GSE161853		2021	breast cancer cell line	cancer					
+GSE159297		2023	ipsc 	cell lines					
+GSE214678		2023	pancreas	stimulated cells	ATAC/RNA				
+GSE92585		2017	medulloblastoma cell line						
+GSE114102		2019	ESC derived cell line						
+GSE139117		2020	Mouse G1E-ER4 cells						
+GSE100383		2017	monocyte derived macrophages						
+GSE144329		2020	HIV PBMC						
+GSE144718		2022	Mus musculus brain						
+GSE134432		2020	melanoma cell lines						
+GSE202864		2023	lung tumor						
+GSE162294		2022	prostate adenocarcinoma						
+GSE70482		2015	K562 cells						
+GSE167367		2021	human esophageal squamous cell cancer						
+GSE138191		2022	mostly mouse 						
+GSE157452		2021	mouse knockouts						
+GSE169246		2021	human lympy node triple negative breast cancer						
+GSE119731		2021	GSE119734						
+GSE218472		2023	mouse/human synthetic construct						
+GSE137034		2021	CD4 T cells		ATAC/CHIP/Beadchip				
+GSE144844		2020	lung cancer, transgenic mice						
+GSE149267		2021	mostly mouse 						
+GSE125986		2023	breast cancer cell line						
+GSE205853		2022	pancreatic islets cell line						
+GSE144454		2022	eHAP cell line						
+GSE156788		2021	sqamous cell carcinoma cell line						
+GSE118207		2018	cancer cell lines	perturbed	ATAC/RNA/CnR	74	2		
+GSE95864		2019	cancer cell line GIST						
+GSE247777		2023	Cancer cell line						
+GSE141356		2020	bladder organioid						
+GSE204956		2023	blood and T skin cells cell cultures		ATAC/RNA				
+GSE102209		2018	mouse, mouse xenographts						
+GSE207266		2022	medulloblastoma sample and others		ATAC/RNA/methylation				
+GSE167606		2021	pancreas differentiation						
+GSE163306		2021	FFPE-ATAC of mouse liver,cerebellum, and human colonrectal cancer samples. Omni-ATAC of mouse liver sample.						
+GSE131604		2020	Cancer cell line						
+GSE197527		2022	Human Aortic Endothelial Cell culture						
+GSE193810		2022	ESC H9 derived fibroblasts H9F						
+GSE203082		2023	ESC derived neurons	case/control	ATAC?cutnRun/scRNA	67	2	yes	
+GSE114981		2019	MOLM13 cell line						
+GSE211178		2023	Mouse T cells						
+GSE125203		2019	mouse cell lines						
+GSE245187		2023	CAR Tcells 	edited/unedited					
+GSE174376		2022	patient xenographts						
+GSE181064		2021	human immune cells from blood, normal adjacent kidney, and malignant tissues from early stage clear cell renal cell carcinoma patients at baseline		scATAC/scRNA TCR				
+GSE109949		2019	ALL xenograft						
+GSE202706		2022	BE(2)-C, neuroblastoma cell line						
+GSE202438		2022	PSN1 pancreatic cancer cell line						
+GSE183432		2022	mouse spleen						
+GSE166439		2021	transfected hematopoetic progenitor cells						
+GSE111930		2020	ESC differentiation experiment						
+GSE125214		2019	blood cell culture						
+GSE178668		2021	HEK293T, cell lines						
+GSE178668		2021	HEK293T						
+GSE214245		2023	cell line, treated	cell line					
+GSE79965		2022	iPSC derived human cortical neuron					yes	
+GSE98758		2018	 human secondary fibroblasts cell culture						
+GSE89418		2018	Human MSCiPS1-derived 5F hematopoietic cells						
+GSE120945		2019	Primary human monocyte-derived macrophages						
+GSE108458		2017	Induced pluripotent stem cell						
+GSE186462		2023	CD4 EM T cell, stimulated cells						
+GSE167366		2021	mostly mouse 						
+GSE100377		2021	cell type: monocyte derived dendritic cells	HIV timeseries					
+GSE122326		2018	HIV ILC						
+GSE101571		2018	Preimplantation embryo						
+GSE197851		2022	CARTells	timeseries	ATAC	24			
+GSE84365		2017	human leukemia cell line						
+GSE207071		2023	AKPS organoid						
+GSE180550		2023	cell line: Human HeLa cells						
+GSE192365		2022	Embryonic stem cell						
+GSE180532		2022	lymph node	HIV					
+GSE168178		2021	cell line: Huh7.5						
+GSE162048		2020	Primary cortical neurons mouse model						
+GSE131577		2020	mouse CHip seq						
+GSE220114		2023	cell lines						
+GSE165049		2023	cell lines						
+GSE223182		2023	breast cancer cell line	normoxia/hypoxya					
+GSE219199		2023	RH4 cell line						
+GSE155117		2021	human lung adenocarcinoma cell line						
+GSE156829		2023	IMR90 fibroblasts						
+GSE231708		2023	mostly mouse 						
+GSE211153		2022	human tumor tCells	diseased					
+GSE129229		2019	Primary human monocyte-derived macrophages culture		ATAC				
+GSE224702		2023	mostly mouse 						
+GSE184219		2022	mouse xenograft						
+GSE138359		2021	mostly mouse 						
+GSE180762		2023	cell culture dendritic cells					yes	
+GSE175621		2021	Coronary artery disease	CAD stages	ATAC				
+GSE130135		2019	HEK293						
+GSE115327		2019	cell type: ES-derived pancreatic progenitor cells						
+GSE222116		2023	tissue: Breast Cancer	breast cancer	ATAC	42			
+GSE192575		2022	mostly mouse 						
+GSE138460		2021	SKO GEMM prostate cell line						
+GSE124190		2018	mostly mouse 						
+GSE97178		2021	Primary human Barretts metaplasia biopsy sample						
+GSE115096		2021	mostly mouse 						
+GSE100383		2017	blood	stimulation series		40			
+GSE231364		2023	cell line: MDA-MB-231, breast cancer			39			
+GSE218798		2023	ES2, ovarian cancer cell line		ATAC/CHIP/RNA				
+GSE153379		2021	multiple myleoma	diseased	ATAC/RNA	77			
+GSE214676		2023	pancreatic islet	perturbation series					
+GSE167250		2021	tissue: pancreatic islets	perturbation series					
+GSE126074		2019	mostly mouse 						
+GSE104676		2019	human umbilical cord blood-derived erythroid progenitor (HUDEP)						
+GSE106690		2018	cell type: cardiac progenitor (CP)	differentiation series					
+GSE100381		2022	ChipSeq						
+GSE125212		2019	lineage depleted human cord blood cells	differentiation series	ATAC/RNA	35			
+GSE241969		2023	not human						
+GSE150768		2020	Human Coronary Artery Smooth Muscle Cells (HCASMC) cell line						
+GSE116695		2019	PBMC	perturbation series					
+GSE84131		2023	mostly mouse 						
+GSE137032		2021	CD4 T cells	stimulation series					
+GSE149031		2020	KMS27, cell lines						
+GSE156735		2020	Umbilical cord blood	stimulation series					
+GSE208022		2023	leukemia and cell lines						
+GSE202857		2023	PC9 cell lines						
+GSE211790		2023	cell type: Basal stem cell						
+GSE205879		2022	Ishikawa ER-Y537S Clone 1 breast cancer cell line						
+GSE142604		2021	gastric cancer CD8 cells		ATAC	32			
+GSE118204		2018	cancer tissue		ATAC	32			
+GSE109653		2018	mostly mouse 						
+GSE245830		2023	MDA-MB-231 triple-negative breast cancer cells. 						
+GSE210489		2022	Vascular cell line	stimulation series	ATAC				
+GSE179059		2022	cell line: BxPC-3						
+GSE157979		2022	cultured immune cells						
+GSE126117		2021	tissue: Peripheral blood	stimulation series	ATAC	30			
+GSE128275		2019	cell lines brain tumors						
+GSE129339		2019	cell line: ACI_126, gynecological cancers						
+GSE126543		2019	postmortem brain	FTD ALS	ATAC/RNA	30		yes	
+GSE175860		2023	cell line bronachialcell line: BEP2D	raditation stimulation series	ATAC/RNA				
+GSE178529		2022	Human fetal lung	differentiation series	ATAC/RNA				
+GSE144448		2022	eHAP cell line						
+GSE156215		2021	human cell line, mouse cell line						
+GSE135026		2020	Mostly cell line						
+GSE138794		2019	brain	glioma	ATAC/RNA	28			
+GSE240830		2023	medulloblastoma 		ATAC/RNA/HIC				
+GSE213597		2023	cell lines						
+GSE196731		2023	cell type: bone marrow derived erythroblasts	differentiation series					
+GSE203112		2023	B cells post influenze		ATAC	27			
+GSE198565		2022	hNSCs and MB004	perturbation series	ATAC				
+GSE156291		2021	human cancer, prostate	diseased	ATAC/RNA/CHIP	73			
+GSE156704		2021	human left ventricle heart muscle	healthy	ATAC	27			
+GSE227779		2023	cell lines						
+GSE212699		2022	CD8 T cells PBMC	perturbation series	ATAC/RNA				
+GSE203587		2022	Osteoclast cell line	perturbation series	aTAC/RNA				
+GSE176104		2022	Acute Myeloid leukemia cell line NB4	perturbation series	ATAC/CHIP/RNA				
+GSE111824		2019	mostly mouse 						
+GSE248562		2023	 HepG2 cell line						
+GSE196919		2023	HCT116 cell line						
+GSE216325		2022	ESC	stimulation series	ATAC/RNA				
+GSE146252		2020	OCI-AML2 cells	cell culture	ATAC/RNA				
+GSE240246		2023	breast cancer cell line						
+GSE237071		2023	transgenic mice, prostate cancer cell line						
+GSE214040		2023	hTERT-immortalized retinal pigment epithelial cell line						
+GSE223610		2023	GSE223610						
+GSE221708		2023	prostate cancer cell line						
+GSE197849		2022	CAR Tcells 	timeseries	ATAC/RNA				
+GSE163199		2022	Dermal microvascular endothelial cells	heatly/SSc	ATAC				
+GSE201928		2022	endometrical tissue	disease, 2 conditions	ATAC/RNA				
+GSE201681		2022	iPCS	differentiation series	ATAC/HIC/ChipSeq				
+GSE167232		2021	mostly mouse , scRNA healthy lung						
+GSE162170		2021	Embryonic cotex		ATAC/RNA				
+GSE157691		2020	primary airway epithelial cells	cell culture					
+GSE162856		2020	rectosigmoid mucosa colonic organoid						
+GSE135320		2020	cell line						
+GSE114964		2019	breast cancer cell line						
+GSE207950		2022	colorectal cancer	CRC progression	ATAC/RNA/HIC				
+GSE236249		2023	hela cell line						
+GSE233796		2023	mostly mouse 						
+GSE240435		2023	WA09 cell line						
+GSE224866		2023	CARTcells						
+GSE214394		2022	Cartilage	fetal/oa	ATAC				
+GSE173682		2021	Ovarian Tumor	tumor	ATAC/RNA				
+GSE164212		2021	Active Juvenile Idiopathic Arthritis	disease	ATAc				
+GSE143145		2020	Purified AT2 alveolar epithelial cells cell line	disease					
+GSE153779		2020	breast cancer cell line						
+GSE116696		2019	T cell activation	timeseries	ATAC/RNA/CHIP				
+GSE126300		2019	Human B-ALL cell line						
+GSE247822		2023	cell line: MCF-10A						
+GSE207068		2023	AKPS organoid						
+GSE223359		2023	HEK293T						
+GSE191029		2023	mouse and zebrafish cell lines						
+GSE105077		2018	Adipose derived stem cells, fibroblast derived stem cells						
+GSE241424		2023	cell lines						
+GSE217881		2023	cell lines						
+GSE222768		2023	colorectal cancer	disease	ATAC/RNA/CHIP				
+GSE197928		2022	endometrical cancer	disease stages					
+GSE181062		2021	renal cancer and normal sample	normal?/cancer	ATAC/RNA				
+GSE124409		2020	breast cancer cell line						
+GSE148819		2020	cancer organoids		ATAC/RNA/Chip				
+GSE141354		2020	GSE148819						
+GSE122877		2020	mostly mouse 						
+GSE128272		2019	U87, T98G, LN229, LNZ308, SF767 cell lines 						
+GSE109945		2019	ALL xenograft cells						
+GSE132532		2019	cell type: Human iPS cells, cell 	differentiation series					
+GSE129457		2019	tissue: liver ductal organoids						
+GSE108460		2017	tissue: Lymphoblastoid Cell Line						
+GSE225816		2023	cell type: iPSC derived neuron		schizo				
+GSE219009		2023	PBMC	pertrubation series					
+GSE190200		2021	cell source: PBMC derived						
+GSE161920		2021	cell lines, transgenic mice						
+GSE131257		2020	cell line: HepG2-derived cell line HepAD38						
+GSE118588		2019	cell line: EndoC-BH1 human pancreatic beta cell line						
+GSE95023		2018	developing neocortex						
+GSE225736		2023	iPSC-Derived Cardiac Fibroblasts ATAC						
+GSE217698		2023	MCF10A, breast cancer cell line						
+GSE218796		2023	tissue: ovarian cancer cells	WT/mutated	ATAC/RNA				
+GSE232815		2023	genotype: RFP-tNGFR knockin	culture, stimulation series					
+GSE169633		2022	Lung squamous cell carcinoma, cell line						
+GSE164932		2021	CUTLL3_1						
+GSE163896		2021	CLL 102 cells						
+GSE173201		2021	A2780 and A2780cis						
+GSE156140		2020	subcutaneous adipose tissue cell culture	PCOS					
+GSE137552		2019	Myometrium	ATAC/RNA/CHIP					
+GSE168837		2023	GSE168838						
+GSE202076		2022	mouse and cell lines						
+GSE122777		2019	mostly mouse 						
+GSE128645		2019	fibroblast cell culture						
+GSE246426		2023	cell type: multiple myeloma						
+GSE202511		2023	cell line: AU-565						
+GSE212412		2023	Lung tissue	Covid stimulation					
+GSE216175		2023	GSE216176						
+GSE196904		2022	tissue: peripheral blood	stimulation experiment					
+GSE215891		2022	tissue: brain organoids						
+GSE207607		2022	tissue: T cell leukemia, cell line						
+GSE192771		2022	cell line: Huh7 cells						
+GSE138657		2021	cell type: HCT116 cells, cell line crc						
+GSE136857		2021	AFE ND2.0	differentiation series					
+GSE164214		2021	CD4+ T cell	caseJIA/control cultured??	ATAC/RNA				
+GSE141351		2020	GSE141356						
+GSE128266		2019	Human umbilical cord derived CD34+ human hematopoietic stem 						
+GSE108301		2018	Human knee articular cartilage						
+GSE97055		2018	mostly mouse 						
+GSE160396		2023	cell type: osteoblasts		ATAC/RNA/HIC				
+GSE206580		2022	rimary and metastatic pediatric posterior fossa ependymal tumors 		RNA/ATAC/CHIP				
+GSE205386		2022	cell line: MCF10A, breast cancer cell line	cell culture					
+GSE193643		2022	GSE193642						
+GSE162798		2021	mostly mouse 						
+GSE146617		2020	tissue: localized prostate tissue	cancer					
+GSE127733		2019	mouse and human cell lines						
+GSE130791		2019	CD4 T cells, lymph nodes, TDL, PBMC	healthy	ATAC/RNA				
+GSE250422		2024	cell lines, prostate cancer						
+GSE226670		2023	cell lines						
+GSE218385		2023	MRT tumor	disease	ATAC/RNA				
+GSE243430		2023	cell type: Lymphoblastoid Cell Line						
+GSE228428		2023	cell line: Primary human aortic endothelial cells	cell culture					
+GSE209835		2023	car T cells	cell culture	ATAC				
+GSE195443		2022	Primary RPTEC (Lonza, P4), kidney cell culture		ATAC				
+GSE156786		2021	GSE156788						
+GSE153016		2021	HT29, cell culture		ATAC/RNA/CnR				
+GSE165837		2021	heart failure??		ATAC/RNA				
+GSE168212		2021	HIV blood	wild mix					
+GSE120618		2020	cell type: naive CD8 T cell, umbillical cord blood	stimulation series, cell culture	ATAC				
+GSE114101		2019	Embryonic Stem cells	differentiation series	ATAC/RNA/CHIP				
+GSE126541		2019	GSE126543						
+GSE121755		2019	lung cancer cell line cell line: H1703						
+GSE100757		2018	mouse xenograft and cell lines						
+GSE89668		2018	blood treated						
+GSE108459		2017	immortalized cell lines						
+GSE230313		2023	cell line: Jurkat Cm6	stimulation experiment					
+GSE210749		2023	scenic, mostly mouse						
+GSE181346		2023	developing heart		ATAC				
+GSE123038		2019	adipose tissue		ATAC				
+GSE96771		2018	blood, cd34 pos		ATAC	1			
+GSE87218		2016	GSE85246	stimulations eries					
+GSE252754		2024	cell type: Large intestine; colon, epithelial						
+GSE234003		2023	developing retina						
+GSE244058		2023	cell line: dental pulp stem cells	differentiation series	ATAC/RNA				
+GSE208077		2023	GSE185241						
+GSE229068		2023	cell type: Carcinoma Non-Small Cell	cell culture					
+GSE219163		2023	cell line: B80T17, breast cancer		ATAC/RNA/HICHIP				
+GSE224251		2023	cell type: mesenchymal stem cells	cell culture					
+GSE223608		2023	GSE223610						
+GSE198434		2023	colonic organoid	cell culture	ATAC				
+GSE179534		2022	tissue: cord blood	cell culture					
+GSE218440		2022	ATL  cell line	cell culture					
+GSE197523		2022	GSE197527						
+GSE202072		2022	cell type: Human colorectal cancer, cell line						
+GSE205821		2022	bone marrow	before after treatment healthy??					
+GSE190878		2022	U937 cell line						
+GSE201927		2022	GSE201928						
+GSE173582		2022	tissue: Immortalized Human Erythroid Progenitor						
+GSE181977		2022	Cultured AML Cell Line						
+GSE162227		2022	GSE162294						
+GSE193644		2022	GSE193643						
+GSE174669		2021	HDF - DMSO-treated (4 h)	cell culture					
+GSE161782		2021	GSE161853						
+GSE139950		2021	mouse and cell lines						
+GSE178733		2021	human skeletal muscle		ATAC/RNA				
+GSE156733		2020	GSE156735						
+GSE144518		2020	cell type: iPSC-derived medium spiny neuron-like						
+GSE145182		2020	tissue: Human small intestine organoid						
+GSE122319		2018	induced pluripotent stem cell line						
+GSE118500		2018	tissue: adipose cell culture						
+GSE92871		2017	human erythroleukemic cell line						
+GSE175857		2023	cell line: BERP35T1		ATAC/RNA/HIC				
+GSE213594		2023	mostly mouse 						
+GSE166174		2021	retinal neoplasm, mouse models						
+GSE226215		2023	cell line: HMEC, breast cancer cell line, liver cancer cell line		ATAC/HIC				
+GSE180754		2023	cultured dendritic cells		ATAC				
+GSE180753		2023	GSE180762						
+GSE222766		2023	colorectal cancer	disease	ATAC/RNA/HIC				
+GSE222220		2023	cell line U20S						
+GSE171943		2022	various human, mouse						
+GSE195836		2022	tissue: Umbilical cord blood CD14+ monocyte	healthy	ATAC				
+GSE155115		2021	GSE155117						
+GSE168438		2021	developing liver						
+GSE149563		2021	mostly mouse 						
+GSE157606		2020	GSE157691						
+GSE138571		2019	cell type: KP tumor cells						
+GSE130640		2019	developing skin						
+GSE116854		2019	sperm	human/other	ATAC	2			
+GSE218795		2023	cell line: ES2, ovarian cancer cell line						
+GSE238139		2023	cell type: CD8+ naive T cells, mait, mem	huamn	ATAC/RNA?				
+GSE226287		2023	cell type: Human umbilical cord mesenchymal stem cells						
+GSE214175		2023	cell line: hTERT-immortalized retinal pigment epithelial cell line						
+GSE205635		2022	tissue: Hematopoietic Cells, cell line						
+GSE212698		2022	GSE212699	stimulation series					
+GSE166435		2021	GSE166439						
+GSE151917		2021	tissue: PBMC-derived primary CD8+ T-cells	stimulation series					
+GSE139809		2019	Immortalized human oral epithelial cell line						
+GSE243978		2023	cell line: JJN3, mulitple myeloma						
+GSE240069		2023	heaptic culture, treatment: cultured on soft matrix for 2 days						
+GSE213484		2021	GSE153379						
+GSE211788		2022	GSE203273						
+GSE227588		2023	HUAEC cell line						
+GSE208248		2023	cell line: skeltal muscle stem cells						
+GSE220700		2023	cell type: hepatic stellate cell line						
+GSE211800		2023	MM057 melanoma cells						
+GSE224862		2023	M5 CAR-TCONV and CAR-TRM						
+GSE224194		2023	AAVS1 and EGR2 knockout PSMA CAR T-cells 						
+GSE206658		2022	WT and MLL3-mutant MDA-MB-231 cells						
+GSE210262		2022	CD8+ CAR T-cells 						
+GSE201677		2022	GSE201681						
+GSE201265		2022	Total of four different cell lines each in duplicate						
+GSE163229		2022	Leukemia cell line (SEM)						
+GSE176545		2021	WT or BR LP-1 cells						
+GSE161018		2021	Detroit-562/Patu-8902						
+GSE131915		2020	OVCA429 WT cells, OVCA429 ARID1A						
+GSE144412		2020	cell like K652 and mouse						
+GSE127257		2019	mostly mouse						
+GSE126376		2019	ATAC-seq of dermal BJ fibroblasts						
+GSE110734		2019	whole adipose tissue	adipose	ATAC				
+GSE118499		2018	adipose tissue	adipose different stages	ATAC/RNA				
+GSE235745		2023	GSE235858						
+GSE137446		2020	tissue: Umbilical cord blood	differentiation series	ATAC				
+GSE89416		2018	cell lines, cell cultures						
+GSE231362		2023	GSE231364						
+GSE247821		2023	GSE247822						
+GSE245829		2023	cell type: MDA-MB-231 cells						
+GSE216237		2023	GSE216241						
+GSE245186		2023	  Unedited and SUV39H1-edited human CAR T 						
+GSE226424		2023	GSE226428						
+GSE196883		2023	HSMCs,						
+GSE216782		2023	tissue: sporadic vestibular schwannoma	schwannoma	ATAC/RNA/bulkRNA				
+GSE212763		2023	n MCF10A cells exposed to the Zn2+						
+GSE229064		2023	H226 cells treated with TEAD inhibitor GNE-7883						
+GSE226300		2023	GSE205984						
+GSE215279		2023	GSE215283						
+GSE220257		2022	Unedited and TET2-edited human CAR T 						
+GSE213690		2022	cell type: hESCs	differentiation series					
+GSE203354		2022	GSE203587						
+GSE173607		2022	cell type: CD4+ T cell subsets	stimulation series	ATAC				
+GSE208044		2022	GSE208046						
+GSE169502		2022	DLGAP1-AS2 silenced and control NCI-H1703 cells						
+GSE206579		2022	GSE206580						
+GSE163182		2022	SU-DIPG13, SU-DIPG6 and SU-DIPG48 cells						
+GSE162380		2021	cell lines						
+GSE158495		2021	GSE158499						
+GSE165397		2021	PBMC	AM/treatment					
+GSE159464		2021	cell line: CCC-HEH-2						
+GSE174226		2021	postmortem brain 1 sample		ATAC				
+GSE150018		2020	Bone marrow CD11b+CD16+ neutrophils	healthy/MM/treatment?	ATAC/RNA				
+GSE149155		2020	B ALL cell line						
+GSE143563		2020	Patient derived xenografts 						
+GSE124011		2019	tissue: Cultured HCASMC						
+GSE122548		2019	PBMCs population: CD94-CD56dim						
+GSE137549		2019	GSE137552						
+GSE118470		2019	g 3T3L1 cells						
+GSE139807		2019	HIOEC						
+GSE114864		2019	n accessibility in H69 and H69AR cells						
+GSE128644		2019	Rheumatoid Arthritis (RA) patient derived Fibroblast-like Synoviocytes						
+GSE117089		2018	 HEK293T cells, NIH/3T3 cells, A549 cells 						
+GSE114391		2018	RWPE1 cells infected with either LACZ or SCHLAP1 lentivirus 						
+GSE100762		2017	Breast cancer cell line						
+GSE86393		2017	Erythroid cells, PBMC						
+GSE228830		2023	cell line: HBEC-3KT						
+GSE224045		2023	2228, H1975, A549, H838 and HCC827.						
+GSE235744		2023	GSE235858						
+GSE212410		2023	GSE212412						
+GSE214812		2023	cell lines						
+GSE229928		2023	GSE230314						
+GSE202472		2022	GSE202474						
+GSE165936		2022	developing pelvis		ATAC/RNA				
+GSE164931		2021	CUTLL3 cells treated with Vehicle or Pitavastatin for 48 ho						
+GSE164849		2021	sciMAP brain						
+GSE160472		2021	pancreas and pancreatic islet		ATAC/RNA/HIC				
+GSE144692		2020	tissue: Polyclonal TEM CD8 T cells		ATAC/WGBS				
+GSE140404		2019	GSE115327						
+GSE224610		2023	KJ-PYR-9 in BT549 triple negative breast cancer cells						
+GSE247490		2023	hela cell line						
+GSE200047		2023	kidney cortex  		ATAC				
+GSE240237		2023	GSE240246						
+GSE230799		2023	KMT2A::AFF1+ ALL cell line SEM						
+GSE228176		2023	ARID1A deficient and wild type Hep3B cells.						
+GSE183988		2023	tissue: cord blood	differentiation series					
+GSE201714		2023	cell line: CAL-33	differentiation series	ATAC				
+GSE230654		2023	HaCaT cells and OCT4 						
+GSE196918		2023	HCT116 with FOXD2						
+GSE227400		2023	 shCTL and shC/EBPα MOLM14 						
+GSE224192		2023	AAVS1 and EGR2 knockout PSMA CAR T-cells						
+GSE224199		2023	multiple myeloma cells with PHF19						
+GSE154060		2022	Control glioma stem cells						
+GSE201683		2022	cell line: DLD-1						
+GSE178527		2022	GSE178529						
+GSE210285		2022	cell line: 2BS						
+GSE199479		2022	tissue: cord blood at delivery	healthy/preenclamspia	ATAC				
+GSE192905		2022	CHD7 knockdown and control RKO cells.						
+GSE157969		2022	GSE157969						
+GSE166410		2021	tissue: umbilical cord	stretching					
+GSE159163		2021	shControl Huh7 and shARID1A Huh7 						
+GSE139136		2021	scATAC-seq of primary patient-derived adult glioblastoma tissue		ATAC				
+GSE140251		2021	MCF10A cell type before and after H-RAS transformation						
+GSE153776		2020	GSE153779						
+GSE120942		2019	human macrophages that were cultured with or without IFN-γ and then stimulated with LPS						
+GSE129167		2019	GSE129229						
+GSE124223		2018	T-ALL tumor, tissue: Normal T cell	3 case, 1control	ATAC				
+GSE90547		2017	ASCL1 is compared to genetic knockout of ASCL1 overexpressing ASCL1 (		ATAC				
+GSE98365		2017	human macrophages stimulated with or without IFN-γ.		ATAC/CHIP/RNA				
+GSE84515		2017	cell line: T47D						
+GSE236123		2023	mostly mouse						
+GSE202448		2023	GSE202451						
+GSE212606		2023	Twenty-four post-mortem human brain samples across two regions (h						
+GSE160392		2023	GSE160396						
+GSE224212		2023	cell cultlture endometrium						
+GSE224241		2023	cell line: CLB-GA, brain						
+GSE194221		2022	cell line: TPC2-4, brain tumor						
+GSE163656		2021	patient-derived pediatric glioblastoma	disease					
+GSE165212		2021	Pancreatic Islet	health					
+GSE156477		2020	bone marrow weird						
+GSE131256		2019	developing hippocampus						
+GSE139805		2019	H3K27Ac ChIP-seq for HIOEC cell line.						
+GSE92584		2017	3 medulloblastoma cell line D283 						
+GSE245957		2023	post mortem brain		ATAC				
+GSE228325		2023	issue: Patient-derived xenograft AML cells						
+GSE210745		2023	scenic, mostly mouse						
+GSE220590		2023	cell line: HeLa						
+GSE221947		2023	cell line: HCT116						
+GSE163655		2021	primary patient-derived pediatric glioblastoma	disease	ATAC				
+GSE138656		2021	GSE138657						
+GSE166547		2021	kidney paracancerous tissue	disease?	ATAC				
+GSE154598		2021	ATAC-seq of Turner syndrome amniotic fluid cells						
+GSE100494		2021	Multiple Myeloma KMS-27 cell line.						
+GSE157583		2021	cute myeloid leukemia cell line THP-1 w						
+GSE130638		2021	cell type: acquired resistant cells	brain tumor	ATAC				
+GSE153335		2020	prostate cancer cell line	case/control 1 each					
+GSE153769		2020	human pancreatic tumor cell line Hs700T						
+GSE135025		2019	GSE135026						
+GSE143645		2020	HEK293T						
+GSE142285		2019	lung adenocarcinoma						
+GSE130133		2019	cell line: HEK293						
+GSE115617		2019	cell line: 22RV-1						
+GSE122510		2018	cell line: Z-138						
+GSE95861		2018	GIST cell lines.		ATAC				
+GSE205180		2023	Human hippocampus						
+GSE216430		2022	cell line: CUTLL1						
+GSE203567		2022	Umbilical cord blood	stimulation series					
+GSE96772		2018	GSE221690						
+GSE115218		2019	cell type: hematopoietic cell line						
+GSE112091		2018	GM12878 cells						
+GSE87064		2020	mostly mouse						
+GSE210817		2023	mostly mouse						
+GSE211826		2022	GSE211822						
+GSE86888		2018	GSE86886						
+GSE126006		2020	tissue: Breast cancer cell line						
+GSE89895		2016	GSE108460						
+GSE92280		2017	human SSCs		ATACRNA				
+GSE196990		2023	GSE196987						
+GSE180090		2021	GSE193642						
+GSE210523		2022	GSE210489						
+GSE139817		2019	HUES 8 hESC line						
+GSE134236		2020	mostly mouse						
+GSE126319		2019	cell lines						
+GSE193321		2023	kidney, 3 samples		ATAC				
+GSE180198		2022	cell line						
+GSE195556		2023	mostly mouse						
+GSE214054		2023	cell type: ER+ breast cancer cell line						
+GSE142745		2020	cell type: Peripherial blood mononuclear cells	CLL	ATAC/RNA				
+GSE131583		2020	mostly mouse						
+GSE171153		2023	GSE169453						
+GSE205984		2023	cell type: human colon cancer cells cell line		ATAC/RNA/CHIP/...				
+GSE225817		2023	GSE225816						
+GSE164360		2021	mostly mouse						
+GSE238276		2024	cell lines		bulkRNA,ATAC, scRNA, multiome, chip, cutnrun				
+GSE150530		2020	cell type: CD34+ HSPC derived erythroid precursors						
+GSE222476		2023	GSE203112						
+GSE163049		2020	cell lines						
+GSE230314		2023	cell line: Jurkat Cm6						
+GSE168463		2022	MOLM-13 cultured cells						
+GSE156707		2021	GSE156704						
+GSE168186		2021	cell line: Huh7.5						
+GSE212267		2024	cell type: Human trophoblast stem cells						
+GSE212252		2022	cell type: NPC-derived Neurons						
+GSE164867		2021	GSE161920						
+GSE110472		2019	fetal PMBCs	differentiation series		?			
+GSE153381		2023	GSE211790						
+GSE193621		2023	cell type: H9 human naive pluripotent stem cell derived TE						
+GSE124220		2020	GSE124219						
+GSE145997		2021	GM12878 cell line						
+GSE215283		2023	,cell type: Primordial germ cells						
+GSE145185		2020	GSE145182						
+GSE201056		2023	cell line: Lipo863B						
+GSE164215		2021	GSE164214						
+GSE160444		2021	HPNE cell line						
+GSE252653		2024	GSE252754						
+GSE235858		2023	craniofacial development						
+GSE203275		2022	GSE213484						
+GSE235308		2023	childhood AML						
+GSE156217		2021	GSE156215						
+GSE210568		2022	patient gliomas		ATAC/RNA/multiome/				
+GSE226688		2023	GSE226670						
+GSE179064		2022	cancer 	drug test	ATAC/RNA				
+GSE133417		2021	bone marrow	cell culture					
+GSE164942		2021	GSE164870						
+GSE205481		2023	HESCs						
+GSE146399		2020	GSE144518						
+GSE220289		2023	GSE220251						
+GSE240985		2023	medulloblastoma 						
+GSE230807		2023	cell line: Acute Lymphoblastic Leukemia cell line SEM						
+GSE173936		2023	eripheral blood mononuclear cells	pearsons syndrome					
+GSE156478		2020	PBMC	stimulation series					
+GSE163323		2022	iPSC-derived microglia cells						
+GSE121198		2019	EPCAM+ endometrial epithelium						
+GSE161019		2021	GSE161018						
+GSE128269		2019	GSE128266						
+GSE180871		2022	HUDEP2						
+GSE178562		2022	scarrin	mouse human 					
+GSE126417		2019	GSE126376						
+GSE196922		2023	HCT116						
+GSE212265		2024	GSE212267						
+GSE213444		2022	prostate cancer cell line	cell culture					
+GSE211140		2023	cell line macroglia						
+GSE130663		2020	bone marrow	before/after CART					
+GSE183605		2022	mouse human tumor samples						
+GSE131918		2020	OVCA429 WT cells, OVCA429 ARID1A 						
+GSE124718		2019	developing fetus						
+GSE232003		2023	PBMC	before/after transplant					
+GSE220703		2023	GSE220700						
+GSE207493		2023	Total clear cell renal cell carcinoma Homogenate		ATAC/RNA				
+GSE106626		2018	GIST cell lines.						
+GSE98369		2017	GSE98365						
+GSE202747		2023	retina	Melas					
+GSE182023		2022	Cultured AML Cell Line						
+GSE197289		2022	Trigeminal ganglia						
+GSE104145		2019	strain: C57BL/6		ATAC/RNA/CHIP				
+GSE165209		2021	TALL		multiome/RNA/CHIPSeq/...				
+GSE109172		2019	cell type: Human iPS cells		ATAC/CHIP				
+GSE87254		2018	blood	stimulation series					
+GSE112946		2019	mostly mouse						
+GSE230806		2023	cell line: Acute Lymphoblastic Leukemia cell line SEM						
+GSE191204		2023	cell type: S2-VP10 (human pancreatic adenocarcinoma)	mostly xenografts					
+GSE216464		2023	strain: C57BL6 blood						
+GSE224265		2023	hMSCs	differentiation series					
+GSE196895		2023	HSMCs	stimulation series					
+GSE213152		2023	kidney organoids						
+GSE165499		2021	GSE165397						
+GSE100647		2021	GSE100647						
+GSE140254		2021	GSE100494						
+GSE110468		2021	MCF10A						
+GSE235783		2023	multiple myelome blood	before/after treatment	scRNA/scATAC				
+GSE188367		2022	primary BM cells from SF3B1-mutant MDS-RS samples						
+GSE238275		2024	cell type: Neurog3 Tam-inducible Ileal intestinal stem cells						
+GSE219279		2023	post mortem human brain		scRNA/scATAC/bulkRNA/Chip				
+GSE146469		2021	MOLM cell line						
+GSE185948		2022	kidney	autosomal dominant kidney disease	RNA/ATAC/CHIP				
+GSE148885		2021	human cord blood hematopoietic stem cells	stimualtion series					
+GSE159491		2020	ATF5+PROX1 liver organoid						
+GSE140808		2020	FFPE pancreatic neuroendocrine tumor	ATAC??					
+GSE137718		2020	T cell precursors		ATAC/RNA/CHIP/...				
+GSE237613		2024	PBMC	T1D					
+GSE231361		2023	cell line: MDA-MB-231						
+GSE247036		2023	GSE247038						
+GSE243917		2023	synovial tissue	inflammation					
+GSE241229		2023	cell type: bone marrow progenitors						
+GSE192774		2023	GSE192772						
+GSE141645		2020	cell type: Naive T lymphocytes	stimulation series					
+GSE113853		2019	Mixed CD4 and CD8 CAR-T cells	stimulation series					
+GSE121671		2019	mostly mouse, cell line						
+GSE244059		2023	GSE244058						
+GSE165839		2021	GSE165837						
+GSE228276		2023	age related macular degeneration		RNA/scRNA/scATAc				
+GSE226217		2023	GSE226215						
+GSE202886		2023	retina	control/MELAS					
+GSE210566		2022	diagnosis: high-grade glioma	glioma	multiome				
+GSE120566		2022	cell line: AALE						
+GSE89669		2018	GSE89668						
+GSE178735		2021	GSE178733						
+GSE213695		2022	hESCs						
+GSE247692		2023	tonsil/ileum	Chron’s disease					
+GSE246169		2023	fetal retina precursors	cell line					
+GSE149683		2020	fetal tissues						
+GSE181120		2022	endoderm and gastruloid differentiated human embryonic stem cells						
+GSE154873		2022	breast cancer cell lines						
+GSE197037		2022	tissue: Peripheral Blood, NK	??					
+GSE129066		2019	blood	b and t cell leukemia					
+GSE173339		2022	cell lines						
+GSE224996		2023	GSE224997						
+GSE220259		2022	CART mouse spleen						
+GSE152302		2022	GSE152300						
+GSE120508		2018	GSE120507						
+GSE226726		2024	multiregional profiling, primary glioblastoma tumour	glioblastoma 					
+GSE131258		2019	GSE131256						
+GSE173075		2023	tissue: Young Bone Marrow		ATAC/CIte				
+GSE217450		2023	GSE173936						
+GSE198544		2022	Smooth Muscle Cell	cell culture					
+GSE219248		2023	GSE219015						
+GSE219167		2023	GSE219015						
+GSE219106		2023	GSE219015						
+GSE162337		2021	Multiple myeloma cell line MOLP2						
+GSE140458		2020	colon organoid						
+GSE115619		2019	GSE115617						
+GSE202746		2019	GSE202746						
+GSE214675		2023	GSE214678						
+GSE207308		2022	cell lines						
+GSE203252		2022	huvec cell line						
+GSE159165		2021	huh7 cell line						
+GSE122989		2019	fetal B cell precursors						
+GSE219057		2023	GSE219015						
+GSE219014		2023	GSE219015						
+GSE244608		2023	kidney organoids						
+GSE213150		2023	GSE213152						
+GSE200813		2023	disease state: primary colorectal cancer	CRC/metastasis					
+GSE179705		2023	cancer biopsies						
+GSE197008		2022	GSE197037						
+GSE212479		2023	diagnosis: Hyper-IgE syndrome (HIES), blood						
+GSE150488		2020	GSE150530						
+GSE230389		2023	glioblastoma	tumor wt/mutated					
+GSE207335		2022	GSE197037						
+GSE210565		2022	GSE210568						
+GSE209878		2022	cell type: Mobilized CD34+ Hematopoietic Stem and Progenitor Cells	stimulation series					
+GSE173319		2021	GSE165209						
+GSE225167		2023	healhy PBMC						
+GSE148980		2020	GSE148981						
+GSE240984		2023	GSE240830						
+GSE231380		2023	cell lines						
+GSE213803		2023	tissue: Achilles tendon	inflammation					
+GSE221788		2023	CART						
+GSE146515		2021	MOLM						
+GSE221690		2023	GSE221708						

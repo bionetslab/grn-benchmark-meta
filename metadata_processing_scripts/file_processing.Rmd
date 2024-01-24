@@ -1,0 +1,69 @@
+```{R imports}
+require(data.table)
+```
+
+```{R preprocessing-functions}
+drop_columns<-function(dataframe){
+  dataframe <- dataframe[, c("sample_status", "sample_submission_date", "sample_last_update_date","sample_contact_name","sample_contact_email",          
+                             "sample_contact_institute","sample_contact_address","sample_contact_city", "sample_contact_zip_postal_code", "sample_contact_country", 'sample_data_row_count', 'sample_contact_state', 
+                             'sample_supplementary_file_1',   "protocol", "organism" ,"read_type", "data_source" ,"srr" , "srx" ) := NULL]
+  return(dataframe)
+  
+}
+```
+
+```{R list-of-datasets}
+datasets<-fread('/home/bionets-og86asub/Documents/netmap/grn-benchmark/grn-benchmark-meta/data/metadata/GEO_accessions.txt', header = FALSE)
+geofetch<-list()
+annotation<-list()
+```
+
+## GSE96769
+
+```{R GSE96769}
+i = 1
+filepath<-paste0('/home/bionets-og86asub/Documents/netmap/grn-benchmark/grn-benchmark-meta/data/metadata/GEO_accessions/', datasets$V1[i],'/',datasets$V1[i], '_raw.csv')
+GSE96769<-fread(file = filepath)
+GSE96769<-drop_columns(GSE96769)
+
+
+celltypes <- data.table(
+  ID = c("HSC", "MPP", "LMPP", "CMP", "GMP", "MEP", "CLP", "pDC", "UNK", "GMP-A", "GMP-B", "GMP-C"),
+  Description = c("hematopoetic stem cell", "multipotent progenitor", "lymphoid-primed multipotent progenitors",
+                  "common myeloid progenitor", "granulocyte macrophage progenitor", "megakaryocyte-erythroid progenitor",
+                  "common lymphoid progenitor", "plasmacytoid dendritic cells", "unknown",
+                  "granulocyte macrophage progenitor A", "granulocyte macrophage progenitor B",
+                  "granulocyte macrophage progenitor C")
+)
+geofetch[[datasets$V1[i]]]<- GSE96769[, .(sample_series_id, sample_geo_accession)]
+```
+
+## GSE176367
+Efthymia Kokkinou _et al._ CD45RA+CD62L− ILCs in human tissues represent a quiescent local reservoir for the generation of differentiated ILCs._Sci. Immunol._**7**,eabj8301(2022).DOI:[10.1126/sciimmunol.abj8301](https://doi.org/10.1126/sciimmunol.abj8301)
+
+At least tonsil should be fine
+```{R GSE176367}
+i = 2
+filepath<-paste0('/home/bionets-og86asub/Documents/netmap/grn-benchmark/grn-benchmark-meta/data/metadata/GEO_accessions/', datasets$V1[i],'/',datasets$V1[i], '_raw.csv')
+GSE176367<-fread(file = filepath)
+GSE176367<-drop_columns(GSE176367)
+GSE176367<- GSE176367[tissue == 'Tonsil']
+geofetch[[datasets$V1[i]]]<- GSE176367[, .(sample_series_id, sample_geo_accession)]
+
+
+```
+
+
+```{R GSE227729}
+i = 3
+filepath<-paste0('/home/bionets-og86asub/Documents/netmap/grn-benchmark/grn-benchmark-meta/data/metadata/GEO_accessions/', datasets$V1[i],'/',datasets$V1[i], '_raw.csv')
+GSE227729<-fread(file = filepath)
+GSE227729<-drop_columns(GSE227729)
+GSE227729<-GSE227729[disease == 'CTRL']
+
+geofetch[[datasets$V1[i]]]<- GSE227729[, .(sample_series_id, sample_geo_accession)]
+
+
+```
+
+

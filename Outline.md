@@ -30,6 +30,7 @@ Technologies: Popular HTP sequencing based technologies (10XGenomics, SmartSeq, 
 - [ ] #task Categorize methods by algorithmic methodological approach
 - [ ] #task prioritize methods by popularity, age
 - [ ] #task Create summary table for all methods with name, reference, year, etc; code availability/web page, dependencies, operating system, GUI, tutorial, algorithm category
+- [ ] #task Check benchmark/evaluation strategy of the original papers.
 
 ### 2.2.1 Inclusion criteria:
 1. Any method which constructs differential gene regulatory networks from HTP RNASeq data.
@@ -64,6 +65,17 @@ Find matched RNA and ATAC or other open chromatin data and validate eges in the 
 - [ ] #task Create separate data folder and summary sheet for truly matched data from the same biological sample
 - [ ] #task Create separate data folder for unmatched healthy tissue ATAC and RNA data to do a tissue wise benchmark.
 
+
+### Validation pipeline:
+1. Compute all GRNs possible for a tool within a time budget AND Compute aggregate GRN for each tool over all individual GRNS.
+2. Validate edges using ATAC data. (maybe different levels of evidence): Should we use the indvidual runs, or should we aggregate n runs to form a consensus.
+	1. Evaluate scores of the individual GRNs per tool (Are the GRNs good, although they may differ between runs, or does the tool just sometimes randomly find a good GRN?, or never good solution)
+	2. If tool finds random good nets, what would be the time budget? Probably not a question we want to ask, if we have no possibility of finding the relevant net from our solution space.
+	3. Evaluate scores of the aggregated net (Good consensus, poor consensus.)
+3. Generate tool ranking by aggregating the evidence score of the edges.
+4. Generate metaNet of the tools, and compute the envidence score based on the ATAC data. Questions answered: Is it worth it running several tools, or should we just run the best scoring tool.
+
+
 ##### Use experimentally validated TF target interactions.
 Difficulty here probably will be that we do not see negative interactions and the predicted interactions are not condition specific.
 
@@ -76,8 +88,10 @@ Difficulty here probably will be that we do not see negative interactions and th
 - Single cell RNASeq data
 - [ ] #task Create minimal test datasets in different formats (Seurat, Anndata) for different single cell technologies for testing and development
 - [ ] #task Compile or obtain from an online repository a list of single cell datasets uniformly preprocessed, if possible.
-- [ ] #task Create data information sheet with data used for the evaluation of the studies. (Database, Study Accession, Publication)
+- [ ] #task DO NOT Create data information sheet with data used for the evaluation of the studies. (Database, Study Accession, Publication) Useless.
 - [ ] #task Create folder for evaluation data only.
+- [ ] #task Create different data object with differing subsets of genes, samples, etc. To evaluate tool usability for different data sizes. - Parameter search: Maximal number of comparisons within fixed computational budget
+- [ ] #task Create priorization strategy for staying within the budget for grid search/ parameter search
 
 
 ## 2.4 Choose appropriate parameter values and software versions
@@ -140,11 +154,34 @@ The benchmark will be written as a Nextflow pipeline which will be usable in ben
 - Robustness
 - Null comparisons
 
+##### How to measure stability
+1. Set time budget
+2. Run tool as many times as possible within time budget
+3. Compute deviation of the rank of an edge from the median rank of the edge.
+4. Lower deviation > higher confidence edge.
+5. Threshold median network based on edge standard deviation
+6. Report: Distribution of standard deviations. Which other metrics?
+7. Same can be done for nodes, if tool returns a ranked node list.
+
+Robustness to targeted removal of gene?
+Robustness to random removal of gene?
+
 #### 2.5.2.2 Computational performance
-- Runtime
+- Runtime, per dataset, average over all datasets.
 - Scalability
 - Memory requirements
 - Energy requirements
+
+
+#### Agreement of tools/methods with each other. 
+1. Look at edge intersection of the best networks in pairwise comparison between tools
+2. Compute intersection score I as: Size of intersection set/size of smaller network.
+	1. Make heatmap of the intersection scores. 
+	2. Cluster heatmap and see if tools with similar methods deliver similar results.
+3. Rank similar tools based on network size in comparison to evidence score. 
+	1. Plot size of the best network per tool vs. Atac evidence score
+4. Per edge in aggregated meta network using the top n tools of a tool category, look at ranking of edge in the tool to obtain concordance to the meta net. Probably not very interesting.
+
 
 
 
@@ -158,7 +195,7 @@ The benchmark will be written as a Nextflow pipeline which will be usable in ben
 - Code quality
 - Use of unit testing
 - Use of continuous integration
-- Replicability of the figures from the publication
+- Replicability of the figures from the publication  (Network reproducible or not.)
 - MVE
 -
 
@@ -170,6 +207,11 @@ The benchmark will be written as a Nextflow pipeline which will be usable in ben
 - State limitations
 - Tasks.
 	- [ ] #task Design evaluation metric representation and collect relevant variables that need to be measured to avoid over computation.
+
+
+
+Heatmap: y:tool, x: data
+
 
 ## 2.8 Publication and reporting of results
 - Journal article

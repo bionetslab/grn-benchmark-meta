@@ -1,0 +1,634 @@
+sample_series_id	sample_source_name_ch1
+GSE96769, GSE96772	Bone Marrow CD34+
+GSE176367	Tonsil
+GSE176367	large intestine
+GSE176367	human mucosal tissues
+GSE227729	Anterior caudate
+GSE227729	Posterior putamen
+GSE227729	Anterior putamen
+GSE227729	Posterior caudate
+GSE227729	Caudate
+GSE227729	gDNA extracted from striatal astrocyte nuclei (EAAT1+, IRF8-, NeuN-, OLIG2-) treated with Tn5 transposase
+GSE227729	gDNA extracted from striatal fast-spiking interneuron nuclei (TAC3-, ETV1+, PPP1R1B-) treated with Tn5 transposase
+GSE227729	gDNA extracted from SST-positive striatal interneuron nuclei (SST+, TAC3-, ETV1-) treated with Tn5 transposase
+GSE227729	gDNA extracted from TAC3-positive striatal interneuron nuclei (TAC3+, ETV1+, PPP1R1B-) treated with Tn5 transposase
+GSE227729	gDNA extracted from striatal microglia nuclei (EAAT1-, IRF8+, NeuN-, OLIG2-) treated with Tn5 transposase
+GSE227729	gDNA extracted from striatal oligodendrocyte nuclei (EAAT1-, IRF8-, NeuN-, OLIG2+) treated with Tn5 transposase
+GSE227729	gDNA extracted from DRD1-expressing striatal projection neuron nuclei (PPP1R1B+, DRD1+, DRD2-) treated with Tn5 transposase
+GSE227729	gDNA extracted from DRD2-expressing striatal projection neuron nuclei (PPP1R1B+, DRD1-, DRD2+) treated with Tn5 transposase
+GSE130408	Patient localized prostate tissue
+GSE130408	CRPC PDX
+GSE130408	Patient liver met mCRPC biopsy
+GSE130408	Cell line derived from urogenital sinus tissue
+GSE85243, GSE85246	Adult Human Peripheral Blood
+GSE85245, GSE85246	LPS 1h rep1 H3K27ac
+GSE85245, GSE85246	BG 1h rep1 H3K4me1
+GSE85245, GSE85246	BG d7 rep1 H3K4me3
+GSE85245, GSE85246	RPMI 1h rep1 H3K4me3
+GSE85245, GSE85246	BG 4h rep1 H3K4me3
+GSE85245, GSE85246	don73 LPS d6 H3K4me1
+GSE85245, GSE85246	don74 LPS d6 co iBET H3K27ac
+GSE85245, GSE85246	BG R rep1 H3K27me3
+GSE85245, GSE85246	LPS d1 H3K27me3
+GSE85245, GSE85246	BG d6 rep1 H3K27ac
+GSE85245, GSE85246	LPS d1 rep1 H3K27ac
+GSE85245, GSE85246	LPS d1 rep1 H3K4me3
+GSE85245, GSE85246	LPS d1 rep2 H3K27ac
+GSE85245, GSE85246	d0 rep2 H3K4me3
+GSE85245, GSE85246	BG d1 rep2 H3K27ac
+GSE85245, GSE85246	BG 4h rep1 H3K27ac
+GSE85245, GSE85246	LPS R rep1 H3K27me3
+GSE85245, GSE85246	RPMI d6 rep1 H3K4me3
+GSE85245, GSE85246	LPS 1h rep1 H3K4me1
+GSE85245, GSE85246	RPMI R H3K9me3
+GSE85245, GSE85246	RPMI 1h rep1 H3K4me1
+GSE85245, GSE85246	BG 4h rep2 H3K27ac
+GSE85245, GSE85246	LPS d7 rep1 H3K27ac
+GSE85245, GSE85246	don74 LPS d6 co iBET H3K4me1
+GSE85245, GSE85246	RPMI d7 rep1 H3K4me3
+GSE85245, GSE85246	RPMI 4h rep1 H3K4me1
+GSE85245, GSE85246	don73 RPMI d6 H3K27ac
+GSE85245, GSE85246	LPS d1 rep1 H3K4me1
+GSE85245, GSE85246	RPMI 1h rep2 H3K4me3
+GSE85245, GSE85246	BG 1h rep2 H3K4me3
+GSE85245, GSE85246	LPS d6 rep2 H3K4me1
+GSE85245, GSE85246	don73 RPMI d6 H3K4me1
+GSE85245, GSE85246	BG 1h rep1 H3K4me3
+GSE85245, GSE85246	LPS d6 rep1 H3K27ac
+GSE85245, GSE85246	BG d6 H3K9me3
+GSE85245, GSE85246	LPS R rep2 H3K27me3
+GSE85245, GSE85246	don74 RPMI d6 H3K4me1
+GSE85245, GSE85246	RPMI d6 rep1 H3K27me3
+GSE85245, GSE85246	BG d6 rep2 H3K4me1
+GSE85245, GSE85246	LPS 4h rep2 H3K4me3
+GSE85245, GSE85246	RPMI d6 rep2 H3K27ac
+GSE85245, GSE85246	LPS d6 rep2 H3K27me3
+GSE85245, GSE85246	d0 rep1 H3K4me3
+GSE85245, GSE85246	BG 1h rep2 H3K27ac
+GSE85245, GSE85246	LPS 4h H3K9me3
+GSE85245, GSE85246	RPMI d6 rep2 H3K27me3
+GSE85245, GSE85246	don74 LPS d6 24hr BG H3K27ac
+GSE85245, GSE85246	RPMI d1 rep1 H3K27ac
+GSE85245, GSE85246	BG 4h rep2 H3K4me3
+GSE85245, GSE85246	don74 LPS d6 H3K4me1
+GSE85245, GSE85246	RPMI d1 rep2 H3K4me3
+GSE85245, GSE85246	LPS d1 H3K9me3
+GSE85245, GSE85246	BG d1 H3K27me3
+GSE85245, GSE85246	RPMI 4h rep1 H3K4me3
+GSE85245, GSE85246	RPMI 4h rep2 H3K27ac
+GSE85245, GSE85246	RPMI d1 H3K27me3
+GSE85245, GSE85246	RPMI d7 rep1 H3K4me1
+GSE85245, GSE85246	BG d6 rep1 H3K4me3
+GSE85245, GSE85246	don73 LPS d6 H3K27ac
+GSE85245, GSE85246	LPS d7 rep1 H3K4me1
+GSE85245, GSE85246	don74 LPS d6 24hr BG H3K4me1
+GSE85245, GSE85246	RPMI 1h rep2 H3K4me1
+GSE85245, GSE85246	don74 LPS d6 H3K27ac
+GSE85245, GSE85246	LPS R H3K9me3
+GSE85245, GSE85246	LPS 1h rep1 H3K4me3
+GSE85245, GSE85246	BG d1 rep1 H3K27ac
+GSE85245, GSE85246	RPMI 4h H3K27me3
+GSE85245, GSE85246	RPMI d1 rep2 H3K27ac
+GSE85245, GSE85246	BG d1 rep1 H3K4me1
+GSE85245, GSE85246	RPMI d7 rep1 H3K27ac
+GSE85245, GSE85246	d0 H3K27me3
+GSE85245, GSE85246	BG d1 rep2 H3K4me1
+GSE85245, GSE85246	BG R rep2 H3K27me3
+GSE85245, GSE85246	LPS d6 rep1 H3K4me1
+GSE85245, GSE85246	LPS d7 rep1 H3K4me3
+GSE85245, GSE85246	RPMI 4h rep2 H3K4me3
+GSE85245, GSE85246	LPS 4h rep2 H3K27ac
+GSE85245, GSE85246	BG d6 rep2 H3K27me3
+GSE85245, GSE85246	d0 rep2 H3K27ac
+GSE85245, GSE85246	d0 rep2 H3K4me1
+GSE85245, GSE85246	RPMI d1 rep1 H3K4me1
+GSE85245, GSE85246	RPMI R rep2 H3K27me3
+GSE85245, GSE85246	LPS d6 rep1 H3K27me3
+GSE85245, GSE85246	d0 rep1 H3K4me1
+GSE85245, GSE85246	RPMI d6 rep2 H3K4me1
+GSE85245, GSE85246	BG d7 rep1 H3K4me1
+GSE85245, GSE85246	BG d7 rep1 H3K27ac
+GSE85245, GSE85246	BG 1h rep1 H3K27ac
+GSE85245, GSE85246	LPS 4h rep1 H3K27ac
+GSE85245, GSE85246	RPMI 4h H3K9me3
+GSE85245, GSE85246	BG 4h rep2 H3K4me1
+GSE85245, GSE85246	LPS 4h H3K27me3
+GSE85245, GSE85246	RPMI d6 rep2 H3K4me3
+GSE85245, GSE85246	RPMI d1 rep1 H3K4me3
+GSE85245, GSE85246	BG 4h H3K27me3
+GSE85245, GSE85246	LPS 1h rep2 H3K27ac
+GSE85245, GSE85246	RPMI 4h rep1 H3K27ac
+GSE85245, GSE85246	LPS d1 rep2 H3K4me1
+GSE85245, GSE85246	LPS 1h rep2 H3K4me1
+GSE85245, GSE85246	RPMI d1 H3K9me3
+GSE85245, GSE85246	RPMI 4h rep2 H3K4me1
+GSE85245, GSE85246	Mo d0 H3K9me3
+GSE85245, GSE85246	RPMI d1 rep2 H3K4me1
+GSE85245, GSE85246	RPMI 1h rep1 H3K27ac
+GSE85245, GSE85246	RPMI d6 rep1 H3K27ac
+GSE85245, GSE85246	BG 4h H3K9me3
+GSE85245, GSE85246	BG 1h rep2 H3K4me1
+GSE85245, GSE85246	BG d6 rep1 H3K4me1
+GSE85245, GSE85246	LPS d6 rep1 H3K4me3
+GSE85245, GSE85246	don74 RPMI d6 H3K27ac
+GSE85245, GSE85246	RPMI d6 rep1 H3K4me1
+GSE85245, GSE85246	BG d6 rep2 H3K27ac
+GSE85245, GSE85246	don73 LPS d6 24hr BG H3K27ac
+GSE85245, GSE85246	d0 rep1 H3K27ac
+GSE85245, GSE85246	BG d6 rep1 H3K27me3
+GSE85245, GSE85246	LPS 4h rep1 H3K4me3
+GSE85245, GSE85246	BG d1 rep2 H3K4me3
+GSE85245, GSE85246	BG d1 H3K9me3
+GSE85245, GSE85246	LPS d6 H3K9me3
+GSE85245, GSE85246	RPMI d6 H3K9me3
+GSE85245, GSE85246	BG d1 rep1 H3K4me3
+GSE85245, GSE85246	RPMI 1h rep2 H3K27ac
+GSE85245, GSE85246	BG 4h rep1 H3K4me1
+GSE85245, GSE85246	LPS d6 rep2 H3K4me3
+GSE85245, GSE85246	BG R H3K9me3
+GSE85245, GSE85246	LPS 1h rep2 H3K4me3
+GSE85245, GSE85246	LPS 4h rep1 H3K4me1
+GSE85245, GSE85246	don73 LPS d6 24hr BG H3K4me1
+GSE85245, GSE85246	LPS d1 rep2 H3K4me3
+GSE85245, GSE85246	LPS 4h rep2 H3K4me1
+GSE85245, GSE85246	LPS d6 rep2 H3K27ac
+GSE85245, GSE85246	BG d6 rep2 H3K4me3
+GSE85246, GSE87218	Adult Human Peripheral Blood
+GSE206263, GSE206284	peripheral blood mononuclear cells
+GSE206266, GSE206284	peripheral blood mononuclear cells
+GSE206283, GSE206284	peripheral blood mononuclear cells
+GSE206284, GSE206455	peripheral blood mononuclear cells
+GSE211822, GSE211826	Primary Visual Cortex
+GSE211822, GSE211826	Parahippocampal Cortex/Entorhinal Cortex
+GSE211822, GSE211826	Mediodorsal Thalamus
+GSE211822, GSE211826	Primary Auditory Cortex
+GSE211822, GSE211826	Rostromedial Tegmental Nucl
+GSE211822, GSE211826	Primary Motor Cortex
+GSE211822, GSE211826	Ventrolateral Prefrontal Cortex
+GSE211822, GSE211826	Ventral Tegmental Area
+GSE211822, GSE211826	Cerebellum
+GSE211822, GSE211826	Primary Somatosensory Cortex
+GSE211822, GSE211826	Orbital Frontal Cortex
+GSE211822, GSE211826	Posteroventral (Inferior) Parietal Cortex
+GSE211822, GSE211826	Nucleus Accumbens
+GSE211822, GSE211826	Dorsal Raphe Nucleus
+GSE211822, GSE211826	Caudate Nucleus
+GSE211822, GSE211826	Amygdaloid Complex
+GSE211822, GSE211826	Dorsolateral Prefrontal Cortex
+GSE211822, GSE211826	Posterior Superior Temporal Cortex
+GSE211822, GSE211826	Globus Pallidus
+GSE211822, GSE211826	Habenula
+GSE211822, GSE211826	Hippocampus
+GSE211822, GSE211826	Anterior Cingulate Cortex
+GSE211822, GSE211826	Inferior Temporal Cortex
+GSE211822, GSE211826	Arcuate Nucleus
+GSE211822, GSE211826	Insula
+GSE183273, GSE183279	Kidney Medulla
+GSE183273, GSE183279	Kidney Cortex
+GSE183274, GSE183279	Kidney Cortex
+GSE183276, GSE183279	Kidney
+GSE183277, GSE183279	Kidney Medulla
+GSE183277, GSE183279	Kidney Cortex
+GSE183277, GSE183279	Kidney Papilla
+GSE183279, GSE199711	Kidney Medulla
+GSE183279, GSE199711	Kidney Cortex
+GSE183274, GSE183279	Kidney Medulla
+GSE183274, GSE183279	Kidney Cortex / Medulla
+GSE162515	Thyroid tumor
+GSE162515	Normal thyroid
+GSE162515	Cervical LymphNode Metastases
+GSE165303	heart tissue
+GSE165303	iPSC-derived cardiomyocyte
+GSE129606, GSE130119	WT_astrocytes
+GSE129606, GSE130119	EAE_astrocytes
+GSE129606, GSE130119	KO_astrocytes
+GSE129607, GSE130119	Naive_IP_astrocytes
+GSE129607, GSE130119	EAE_IP_astrocytes
+GSE129607, GSE130119	Naive_Input_astrocytes
+GSE129607, GSE130119	EAE_Input_astrocytes
+GSE129608, GSE130119	MafgKO_astrocytes
+GSE129608, GSE130119	WT_astrocytes
+GSE129609, GSE130119	Priming_CNS
+GSE129609, GSE130119	CFA_CNS
+GSE129609, GSE130119	Acute_CNS
+GSE129609, GSE130119	Naive_CNS
+GSE129609, GSE130119	Remitting_CNS
+GSE129762, GSE130119	CNS Percoll pellet
+GSE129763, GSE130119	Acute_Flow cytometry sorted astrocytes
+GSE129763, GSE130119	Naïve_Flow cytometry sorted astrocytes
+GSE129763, GSE130119	Remitting_Flow cytometry sorted astrocytes
+GSE129773, GSE130119	Csf2_KO_flow cytometry sorted astrocytes
+GSE129773, GSE130119	WT_flow cytometry sorted astrocytes
+GSE129774, GSE130119	Scrmbl_flow cytometry sorted astrocytes
+GSE129774, GSE130119	Nrf_KD_flow cytometry sorted astrocytes
+GSE130105, GSE130119	CNS Percoll pellet
+GSE130118, GSE130119	Acute_Cortex
+GSE130118, GSE130119	Acute_SC
+GSE130118, GSE130119	Acute_Parenchyma
+GSE130118, GSE130119	Acute_Cerebellum
+GSE130118, GSE130119	Acute_Cranialnerves
+GSE130118, GSE130119	Naive_Cortex
+GSE130118, GSE130119	Naive_SC
+GSE130118, GSE130119	Naive_Parenchyma
+GSE130118, GSE130119	Naive_Cerebellum
+GSE130118, GSE130119	Naive_Cranialnerves
+GSE130118, GSE130119	Remitting_Cortex
+GSE130118, GSE130119	Remitting_SC
+GSE130118, GSE130119	Remitting_Parenchyma
+GSE130118, GSE130119	Remitting_Cerebellum
+GSE130118, GSE130119	Remitting_Cranialnerves
+GSE129609, GSE130119	CNS pellet following Percoll gradient
+GSE129763, GSE130119	Flow cytometry sorted astrocytes based on TdTomato fluorscence
+GSE130119, GSE135571	Flow cytometry sorted astrocytes
+GSE130119, GSE137314	IL1b/TNFa-ICV injected mouse
+GSE130119, GSE137314	EAE mouse
+GSE147672	Primary brain samples acquired post-mortem, Caudate
+GSE147672	Primary brain samples acquired post-mortem, Hippocampus
+GSE147672	Primary brain samples acquired post-mortem, Middle Frontal Gyrus
+GSE147672	Primary brain samples acquired post-mortem, Middle Temporal Gyri
+GSE147672	Primary brain samples acquired post-mortem, Parietal Lobe
+GSE147672	Primary brain samples acquired post-mortem, Putamen
+GSE147672	Primary brain samples acquired post-mortem, Substantia Nigra
+GSE147672	Primary brain samples acquired post-mortem, Superior Temporal Gyri
+GSE147672	Primary brain samples acquired post-mortem, Superior and Middle Temporal Gyri
+GSE151075, GSE151081	Human postnatal thymus
+GSE151075, GSE151081	Human cord blood CD34+
+GSE244618	MTG
+GSE244618	M1C
+GSE244618	V2
+GSE244618	FI
+GSE244618	A46
+GSE244618	ACC
+GSE244618	V1C
+GSE244618	A1C
+GSE244618	A44-A45
+GSE244618	A5-A7
+GSE244618	S1C
+GSE244618	Ig
+GSE244618	Pro
+GSE244618	Pir
+GSE244618	LEC
+GSE244618	A19
+GSE244618	TH-TL
+GSE244618	MEC
+GSE244618	ITG
+GSE244618	Idg
+GSE244618	A38
+GSE244618	A25
+GSE244618	IC
+GSE244618	Pul
+GSE244618	MD
+GSE244618	CBV
+GSE244618	CBL
+GSE244618	PN
+GSE244618	Cla
+GSE244618	NAC
+GSE244618	GPe
+GSE244618	Pu
+GSE244618	CaB
+GSE244618	SEP
+GSE244618	SI
+GSE244618	BNST
+GSE244618	CMN
+GSE244618	CMN-CN
+GSE244618	BL-La
+GSE244618	AMY
+GSE244618	HiT
+GSE244618	HiB
+GSE244618	Sub
+GSE86886, GSE86888	activated T cells
+GSE86886, GSE86888	unstimulated T cells
+GSE96612, GSE96615	NeuN negative nuclei sorted from anterior cingulate cortex (BA24)
+GSE96612, GSE96615	NeuN positive nuclei sorted from anterior cingulate cortex (BA24)
+GSE96612, GSE96615	NeuN negative nuclei sorted from prefrontal cortex (BA9)
+GSE96612, GSE96615	NeuN positive nuclei sorted from prefrontal cortex (BA9)
+GSE96612, GSE96615	NeuN negative nuclei sorted from hippocampus (HC)
+GSE96612, GSE96615	NeuN positive nuclei sorted from hippocampus (HC)
+GSE96612, GSE96615	NeuN negative nuclei sorted from nucleus accumbens (NAcc)
+GSE96612, GSE96615	NeuN positive nuclei sorted from nucleus accumbens (NAcc)
+GSE96612, GSE96615	nucleus accumbens (NAcc) tissue
+GSE96612, GSE96615	prefrontal cortex (BA9) tissue
+GSE96612, GSE96615	hippocampus (HC) tissue
+GSE96612, GSE96615	anterior cingulate cortex (BA24) tissue
+GSE96613, GSE96615	NeuN negative nuclei sorted from prefrontal cortex (BA9)
+GSE96613, GSE96615	NeuN positive nuclei sorted from prefrontal cortex (BA9)
+GSE96613, GSE96615	NeuN negative nuclei sorted from nucleus accumbens (NAcc)
+GSE96613, GSE96615	NeuN positive nuclei sorted from nucleus accumbens (NAcc)
+GSE96614, GSE96615	NeuN negative nuclei sorted from nucleus accumbens (NAcc)
+GSE96614, GSE96615	NeuN negative nuclei sorted from prefrontal cortex (BA9)
+GSE96614, GSE96615	NeuN positive nuclei sorted from nucleus accumbens (NAcc)
+GSE96614, GSE96615	NeuN positive nuclei sorted from prefrontal cortex (BA9)
+GSE119731, GSE119734	Peripheral Blood
+GSE119732, GSE119734	Peripheral Blood
+GSE159314, GSE183806	tonsil
+GSE183741, GSE183806	SUDHL4
+GSE183741, GSE183806	OCI-Ly7
+GSE183743, GSE183806	germinal center B-cells
+GSE183743, GSE183806	naïve B-cells
+GSE183743, GSE183806	OCI-Ly7
+GSE183797, GSE183806	OCI-Ly7
+GSE183803, GSE183806	SUDH4
+GSE183803, GSE183806	OCI-Ly7
+GSE183806, GSE245298	splenocytes
+GSE183806, GSE245298	B cells ex vivo from splenocytes
+GSE201336, GSE201349	Colon
+GSE207949, GSE207954	colon
+GSE207949, GSE207954	colon cancer
+GSE207950, GSE207954	colon
+GSE207950, GSE207954	colon cancer
+GSE207951, GSE207954	colon
+GSE207951, GSE207954	colon cancer
+GSE150079, GSE150130	cortical non-neuronal nuclei
+GSE150117, GSE150130	cortical non-neuronal nuclei
+GSE150118, GSE150130	cortical neuronal nuclei
+GSE150121, GSE150130	cortical non-neuronal nuclei
+GSE150121, GSE150130	cortical neuronal nuclei
+GSE150128, GSE150130	Primary neuron
+GSE150129, GSE150130	Primary neuron
+GSE150130, GSE161796	Primary dissociated cortical neuron
+GSE150130, GSE161797	Primary neuron
+GSE150130, GSE167044	Primary neuron
+GSE153520, GSE153522	Healthy primary neutrophils challenged with BGP for 1 hour
+GSE153520, GSE153522	Healthy untreated neutrophils
+GSE153520, GSE153522	Healthy primary neutrophils challenged with FLAG for 1 hour
+GSE153520, GSE153522	Healthy primary neutrophils challenged with  HMGB1 for 1 hour
+GSE153520, GSE153522	Healthy primary neutrophils challenged with HMGB1 for 1 hour
+GSE153520, GSE153522	Healthy primary neutrophils challenged with  LPS for 1 hour
+GSE153520, GSE153522	Healthy primary neutrophils challenged with LPS for 1 hour
+GSE153520, GSE153522	Healthy primary neutrophils challenged with  LTA for 1 hour
+GSE153520, GSE153522	Healthy primary neutrophils challenged with LTA for 1 hour
+GSE153520, GSE153522	Healthy primary neutrophils challenged with  R848 for 1 hour
+GSE153520, GSE153522	Healthy primary neutrophils challenged with R848 for 1 hour
+GSE153520, GSE153522	Untreated whole blood from healthy donor
+GSE153520, GSE153522	Whole blood challenged with 10^1 cells of Staphylococcus aureus
+GSE153520, GSE153522	Whole blood challenged with 10^3 cells of Staphylococcus aureus
+GSE153520, GSE153522	Whole blood challenged with 10^5 cells of Staphylococcus aureus
+GSE153520, GSE153522	Escherichia coli challenged whole blood, 1 hour
+GSE153520, GSE153522	Escherichia coli challenged whole blood, 4 hour
+GSE153520, GSE153522	Untreated whole blood, 1 hour
+GSE153520, GSE153522	Untreated whole blood, 4 hour
+GSE153520, GSE153522	Healthy primary neutrophils challenged with  BGP for 1 hour
+GSE116695, GSE116698	ChIP-seq_H3K27Ac_Naïve
+GSE116695, GSE116698	ChIP-seq_H3K27Ac_Act.5 h
+GSE116695, GSE116698	ChIP-seq_H3K27Ac_Act.5 h_without_CD28
+GSE116695, GSE116698	ChIP-seq_H3K27Ac_Act.24 h
+GSE116695, GSE116698	ChIP-seq_H3K27Ac_Act.24 h_without_CD28
+GSE116695, GSE116698	ChIP-seq_H3K4me3_Naïve
+GSE116695, GSE116698	ChIP-seq_H3K4me3_Act.5 h
+GSE116695, GSE116698	ChIP-seq_H3K4me3_Act.5 h_without_CD28
+GSE116695, GSE116698	ChIP-seq_H3K4me3_Act.24 h
+GSE116695, GSE116698	ChIP-seq_H3K4me3_Act.24 h_without_CD28
+GSE116695, GSE116698	ChIP-seq_NFAT1_Act.5 h
+GSE116695, GSE116698	ChIP-seq_NFAT1_Act.5 h_without_CD28
+GSE116695, GSE116698	ChIP-seq_NFAT2_Act.5 h
+GSE116695, GSE116698	ChIP-seq_cFOS_Act.5 h
+GSE116695, GSE116698	ChIP-seq_JUNB_Act.5 h
+GSE116695, GSE116698	ChIP-seq_cMYC_Act.5 h
+GSE116695, GSE116698	ChIP-seq_NFƘB_Act.5 h
+GSE116696, GSE116698	ATAC-seq_Naïve
+GSE116696, GSE116698	ATAC-seq_Act.5 h
+GSE116696, GSE116698	ATAC-seq_Act.24 h
+GSE116696, GSE116698	ATAC-seq_Act.60 h
+GSE116696, GSE116698	ATAC-seq_Act.5 h_without_CD28
+GSE116696, GSE116698	ATAC-seq_Act.24 h_without_CD28
+GSE116696, GSE116698	ATAC-seq_Act.60 h_without_CD28
+GSE116696, GSE116698	ATAC-seq_Naïve + No protein
+GSE116696, GSE116698	ATAC-seq_Act.5 h + GFP
+GSE116696, GSE116698	ATAC-seq_Act.5 h + A-FOS
+GSE116697, GSE116698	RNA-seq_Naïve
+GSE116697, GSE116698	RNA-seq_Act.5 h
+GSE116697, GSE116698	RNA-seq_Act.24 h
+GSE116697, GSE116698	RNA-seq_Act.60 h
+GSE116697, GSE116698	RNA-seq_Act.5 h_without_CD28
+GSE116697, GSE116698	RNA-seq_Act.24 h_without_CD28
+GSE116697, GSE116698	RNA-seq_Act.60 h_without_CD28
+GSE116697, GSE116698	RNA-seq_Naïve + No protein
+GSE116697, GSE116698	RNA-seq_Act.5 h + GFP
+GSE116697, GSE116698	RNA-seq_Act.5 h + A-FOS
+GSE116695, GSE116698	E5h_GFP_cFOS_060619_with_flyDNA
+GSE116695, GSE116698	E5h_A-FOS_cFOS_060619_with_flyDNA
+GSE116695, GSE116698	E5h_GFP_JunB_060619_with_flyDNA
+GSE116695, GSE116698	E5h_A-FOS_JunB_060619_with_flyDNA
+GSE116695, GSE116698	Naive_cFOS_060619_with_flyDNA
+GSE116695, GSE116698	E5h_cFOS_060619_with_flyDNA
+GSE116695, GSE116698	A5h_cFOS_060619_with_flyDNA
+GSE116695, GSE116698	Naive_JunB_060619_with_flyDNA
+GSE116695, GSE116698	E5h_JunB_060619_with_flyDNA
+GSE116695, GSE116698	A5h_JunB_060619_with_flyDNA
+GSE116695, GSE116698	Naive_NFAT1_060619_with_flyDNA
+GSE116695, GSE116698	E5h_NFAT1_060619_with_flyDNA
+GSE116695, GSE116698	A5h_NFAT1_060619_with_flyDNA
+GSE99287	Fresh postmortem eye
+GSE99287	cell line
+GSE190004, GSE196990	PBMC
+GSE172329	human trophoblast stem cells
+GSE172329	human embryonic stem cells
+GSE172329	human extravillous trophoblast
+GSE172329	human syncytiotrophoblast
+GSE139914	Brodmann Area 38
+GSE158495, GSE158499	Human pancreatic islets
+GSE158496, GSE158499	Human pancreatic islets
+GSE158497, GSE158499	Human pancreatic islets
+GSE158498, GSE158499	Human pancreatic islets
+GSE130089	whole blood
+GSE158485	NK cells
+GSE158485	CD45+ cells
+GSE143666	anterior cingulate cortex
+GSE143666	dorsolateral prefrontal cortex
+GSE143666	primary visual cortex
+GSE129039, GSE129041	brain prefrontal cortex region tissues
+GSE129040, GSE129041	brain prefrontal cortex region tissues
+GSE202087	peripheral blood
+GSE79468	pancreas
+GSE79468	Pancreas
+GSE246785	cerebellum
+GSE246785	cerebral cortex
+GSE246785	cerebellum crus 1
+GSE246785	lateral cerebellum
+GSE210943	peripheral blood -lane1
+GSE210943	peripheral blood -lane2
+GSE210943	Blood
+GSE219009, GSE219012	Peripheral blood
+GSE219011, GSE219012	Peripheral blood
+GSE196987, GSE196990	PBMC
+GSE196987, GSE196990	BAL Fluid
+GSE196987, GSE196990	Bone Marrow
+GSE226108	peripheral region of retina
+GSE226108	macula lutea
+GSE226108	fovea centralis
+GSE226108	macula lutea proper
+GSE226424, GSE226428	skin epidermis
+GSE226425, GSE226428	skin epidermis
+GSE226426, GSE226428	skin epidermis
+GSE226427, GSE226428	skin epidermis
+GSE237729	blood
+GSE168836, GSE168838	reduction mammoplasty
+GSE168836, GSE168838	subcutaneous mastectomy (gender affirmation surgery)
+GSE168837, GSE168838	reduction mammoplasy
+GSE168837, GSE168838	subcutaneous mastectomy (gender affirmation surgery)
+GSE188422	Coronary artery
+GSE180090, GSE193642	ATAC_Pop2
+GSE180090, GSE193642	ATAC_Pop3
+GSE180090, GSE193642	ATAC_PopA
+GSE180090, GSE193642	ATAC_PopB
+GSE180090, GSE193642	ATAC_PopD
+GSE169453, GSE171153	Islets
+GSE216155, GSE216176	bone marrow
+GSE216175, GSE216176	bone marrow
+GSE101609	PBMC
+GSE124219, GSE124220	MACS-enriched CD14+ monocytes
+GSE216237, GSE216241	Breast
+GSE216238, GSE216241	Breast
+GSE216239, GSE216241	Breast
+GSE203273, GSE203275	PBMC
+GSE203273, GSE203275	Cardiac
+GSE220251, GSE220289	Adult human kidney
+GSE205051, GSE205055	Mouse brain P21
+GSE205052, GSE205055	Mouse brain P21
+GSE205052, GSE205055	Mouse embryo E13
+GSE205054, GSE205055	Mouse brain P21
+GSE205054, GSE205055	Mouse embryo E13
+GSE205055, GSE205180	Human hippocampus
+GSE205055, GSE205181	Human hippocampus
+GSE205055, GSE217091	Mouse brain P21
+GSE205055, GSE217091	Mouse brain P22
+GSE205055, GSE218593	Mouse brain P21
+GSE205055, GSE218593	Mouse brain P22
+GSE205052, GSE205055	Mouse brain P22
+GSE173277	Liver
+GSE164870, GSE164942	liver tissue
+GSE196235	adult human retina
+GSE175694	PBMC
+GSE182180	normal pituitary tissues
+GSE182180	pituitary tumors
+GSE83345	Neuronal_Nuclei
+GSE83345	nonNeuronal_Nuclei
+GSE71338	CD19+ B cells
+GSE129383	Human islets
+GSE173734, GSE173736	Human liver tissue
+GSE173734, GSE173736	Mouse hepatocytes
+GSE212448, GSE212450	scalp
+GSE183771	Endometrial cells
+GSE202471, GSE202474	Adult Retina
+GSE202471, GSE202474	HCT116
+GSE202472, GSE202474	Adult Retina
+GSE202473, GSE202474	Adult Retina
+GSE192772, GSE192774	Post-mortem brain, Brodmann Area 23
+GSE163160	whole pancreas
+GSE163160	pancreatic islets
+GSE163160	peripheral blood mononuclear cells
+GSE167488	Normal tissue from patient 1 (RNA-seq)
+GSE167488	Normal tissue from patient 2 (RNA-seq)
+GSE167488	Normal tissue from patient 3 (RNA-seq)
+GSE167488	Tumor tissue from patient 1 (RNA-seq)
+GSE167488	Tumor tissue from patient 2 (RNA-seq)
+GSE167488	Tumor tissue from patient 3 (RNA-seq)
+GSE167488	Normal tissue from patient 1 (ATAC-seq)
+GSE167488	Normal tissue from patient 2 (ATAC-seq)
+GSE167488	Normal tissue from patient 3 (ATAC-seq)
+GSE167488	Tumor tissue from patient 1 (ATAC-seq)
+GSE167488	Tumor tissue from patient 2 (ATAC-seq)
+GSE167488	Tumor tissue from patient 3 (ATAC-seq)
+GSE165037	glioblastoma
+GSE231950, GSE231951	Cord blood
+GSE207334	dorsolateral prefrontal cortex
+GSE209659, GSE209662	Peripheral blood
+GSE209659, GSE209662	RPE1
+GSE157970, GSE157979	primary monocyte
+GSE165414	vastus lateralis muscle
+GSE165414	whole hindlimb
+GSE218918	PBMC
+GSE212908, GSE212910	Kidney Cortex
+GSE212908, GSE212910	Kidney Medulla
+GSE226529	brain
+GSE202315	Liver
+GSE202905	Naive CD4 T cells
+GSE152300, GSE152302	Kidney Cortex
+GSE152300, GSE152302	Kidney Medulla
+GSE153266, GSE153390	Tracheobronchial basal cells
+GSE200547	Kidney
+GSE171841, GSE171843	Primary human monocyte-derived macrophages
+GSE154066, GSE154068	FACS-sorted neuronal (NeuN+) nuclei
+GSE154066, GSE154068	FACS-sorted non-neuronal (NeuN-) nuclei
+GSE147113	Hematopoietic stem cells
+GSE120507, GSE120508	Testicular cells
+GSE239799	PBMCs
+GSE211785	whole kidney tissue
+GSE211785	FFPE kidney tissue
+GSE148973, GSE148981	Thymus
+GSE148974, GSE148981	Thymus
+GSE148975, GSE148981	Thymus
+GSE148976, GSE148981	Thymus
+GSE148981, GSE157286	Thymus
+GSE148977, GSE148981	Thymus
+GSE148978, GSE148981	Thymus
+GSE148979, GSE148981	Thymus
+GSE148980, GSE148981	Thymus
+GSE194028	Mixture of PBMC from 2 donors
+GSE194028	PBMC
+GSE221422, GSE221427	BM Neutrophils
+GSE221422, GSE221427	BM GMPs
+GSE221424, GSE221427	BM Neutrophils
+GSE221425, GSE221427	BM Neutrophils
+GSE221425, GSE221427	BM GMPs
+GSE221426, GSE221427	BM Neutrophils
+GSE221423, GSE221427	PB Neutrophils
+GSE221427, GSE234846	BM GMPs
+GSE221427, GSE234847	BM GMPs
+GSE221427, GSE234847	BM Neutrophils
+GSE226267	Peripheral blood mononuclear cells
+GSE130871	Marmoset Cerebellum
+GSE130871	Marmoset Prefrontal Cortex
+GSE130871	Human Cerebellum
+GSE130871	Human White Matter
+GSE130871	Chimpanzee White Matter
+GSE130871	Macaque White Matter
+GSE130871	Marmoset White Matter
+GSE130871	Human Prefrontal Cortex
+GSE130871	Chimpanzee Prefrontal Cortex
+GSE130871	Macaque Prefrontal Cortex
+GSE229169	primary motor cortex
+GSE247035, GSE247038	STB-BL
+GSE247035, GSE247038	hTSC-BL
+GSE247036, GSE247038	healthy placenta
+GSE247037, GSE247038	hTSC-BL
+GSE247037, GSE247038	hTSC-CT30
+GSE247037, GSE247038	STB-BL
+GSE247037, GSE247038	STB-CT30
+GSE247157	macula lutea
+GSE247157	peripheral region of retina
+GSE219014, GSE219015	Bone Marrow
+GSE219015, GSE219057	Bone Marrow
+GSE219015, GSE219106	Bone Marrow
+GSE219015, GSE219167	Bone Marrow
+GSE219015, GSE219248	Bone Marrow
+GSE224995, GSE224997	Interventricular septum
+GSE224995, GSE224997	Right ventricle
+GSE224995, GSE224997	Left ventricle
+GSE224995, GSE224997	Apex
+GSE224996, GSE224997	Interventricular septum
+GSE224996, GSE224997	Right ventricle
+GSE224996, GSE224997	Left ventricle
+GSE224996, GSE224997	Apex
+GSE214085	lung
+GSE232222	Kidney cortex
+GSE212109	Lung
+GSE212907, GSE212910	Kidney Cortex
+GSE212907, GSE212910	Kidney Medulla
+GSE212909, GSE212910	Kidney Cortex
+GSE212909, GSE212910	Kidney Medulla
+GSE212910, GSE242141	Kidney Cortex
+GSE212910, GSE242141	Kidney Medulla
+GSE227265	Bile Duct
+GSE227265	Liver
+GSE220155	retinal pigment epithelium
+GSE165860	Tonsil_scRNA-seq
+GSE165860	Tonsil_scATAC-seq
+GSE193304	skin
+GSE216462, GSE216464	Bone marrow
+GSE207335, GSE207337	Healthy epidermis
+GSE207336, GSE207337	Healthy epidermis
+GSE207337, GSE208304	Healthy epidermis
+GSE165637	ovarian cortex
+GSE148223	CD8 T cells
+GSE226926	skin
