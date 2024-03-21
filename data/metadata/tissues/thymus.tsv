@@ -1,0 +1,37 @@
+sample_geo_accession	sample_series_id.x	sample_name	super_tissue	tissue	cell_type	sex	age	donor	technology
+GSM4565944	GSE151075, GSE151081	atac_seq_cd34+_cd1-_donor_d1	Thymus	Postnatal Thymus	CD34+ CD1-			D1	Bulk ATAC
+GSM4565945	GSE151075, GSE151081	atac_seq_cd34+_cd1+_donor_d1	Thymus	Postnatal Thymus	CD34+ CD1+			D1	Bulk ATAC
+GSM4565946	GSE151075, GSE151081	atac_seq_cd34+_cd4+_donor_d1	Thymus	Postnatal Thymus	CD34+ CD4+			D1	Bulk ATAC
+GSM4565947	GSE151075, GSE151081	atac_seq_isp_cd28+_donor_d1	Thymus	Postnatal Thymus	ISP CD28+			D1	Bulk ATAC
+GSM4565948	GSE151075, GSE151081	atac_seq_dp_cd3-_donor_d1	Thymus	Postnatal Thymus	DP CD3-			D1	Bulk ATAC
+GSM4565949	GSE151075, GSE151081	atac_seq_dp_cd3+_donor_d1	Thymus	Postnatal Thymus	DP CD3+			D1	Bulk ATAC
+GSM4565950	GSE151075, GSE151081	atac_seq_sp_cd4+_donor_d1	Thymus	Postnatal Thymus	SP CD4+			D1	Bulk ATAC
+GSM4565951	GSE151075, GSE151081	atac_seq_sp_cd8+_donor_d1	Thymus	Postnatal Thymus	SP CD8+			D1	Bulk ATAC
+GSM4565952	GSE151075, GSE151081	atac_seq_gamma_delta_cd1+_donor_d1	Thymus	Postnatal Thymus	gamma delta CD1+			D1	Bulk ATAC
+GSM4565953	GSE151075, GSE151081	atac_seq_gamma_delta_cd1-_donor_d1	Thymus	Postnatal Thymus	gamma delta CD1-			D1	Bulk ATAC
+GSM4565954	GSE151075, GSE151081	atac_seq_cd34+_cd1-_donor_d2	Thymus	Postnatal Thymus	CD34+ CD1-			D2	Bulk ATAC
+GSM4565955	GSE151075, GSE151081	atac_seq_cd34+_cd1+_donor_d2	Thymus	Postnatal Thymus	CD34+ CD1+			D2	Bulk ATAC
+GSM4565956	GSE151075, GSE151081	atac_seq_cd34+_cd4+_donor_d2	Thymus	Postnatal Thymus	CD34+ CD4+			D2	Bulk ATAC
+GSM4565957	GSE151075, GSE151081	atac_seq_isp_cd28+_donor_d2	Thymus	Postnatal Thymus	ISP CD28+			D2	Bulk ATAC
+GSM4565958	GSE151075, GSE151081	atac_seq_dp_cd3-_donor_d2	Thymus	Postnatal Thymus	DP CD3-			D2	Bulk ATAC
+GSM4565959	GSE151075, GSE151081	atac_seq_dp_cd3+_donor_d2	Thymus	Postnatal Thymus	DP CD3+			D2	Bulk ATAC
+GSM4565960	GSE151075, GSE151081	atac_seq_sp_cd4+_donor_d2	Thymus	Postnatal Thymus	SP CD4+			D2	Bulk ATAC
+GSM4565961	GSE151075, GSE151081	atac_seq_sp_cd8+_donor_d2	Thymus	Postnatal Thymus	SP CD8+			D2	Bulk ATAC
+GSM4565962	GSE151075, GSE151081	atac_seq_gamma_delta_cd1+_donor_d2	Thymus	Postnatal Thymus	gamma delta CD1+			D2	Bulk ATAC
+GSM4565963	GSE151075, GSE151081	atac_seq_gamma_delta_cd1-_donor_d2	Thymus	Postnatal Thymus	gamma delta CD1-			D2	Bulk ATAC
+GSM4565964	GSE151075, GSE151081	atac_seq_hpc_donor_cb_d1	Thymus	cord blood CD34+	HPC			CB D1	Bulk ATAC
+GSM4565965	GSE151075, GSE151081	atac_seq_hpc_donor_cb_d2	Thymus	cord blood CD34+	HPC			CB D2	Bulk ATAC
+GSM4565966	GSE151075, GSE151081	atac_seq_hpc_donor_cb_d3	Thymus	cord blood CD34+	HPC			CB D3	Bulk ATAC
+GSM4761092	GSE148978, GSE148981	chopp58_donor1_mixture	Thymus	Thymus					Single-cell RNA
+GSM4761093	GSE148978, GSE148981	chopp59_donor2_mixture	Thymus	Thymus					Single-cell RNA
+GSM4761094	GSE148978, GSE148981	chopp60_donor3_mix_replicate1	Thymus	Thymus					Single-cell RNA
+GSM4761095	GSE148978, GSE148981	chopp61_donor3_mix_replicate2	Thymus	Thymus					Single-cell RNA
+GSM4761096	GSE148978, GSE148981	chopp62_donor4_mix	Thymus	Thymus					Single-cell RNA
+GSM4761097	GSE148978, GSE148981	chopp63_donor4_cd4sp	Thymus	Thymus					Single-cell RNA
+GSM4761098	GSE148978, GSE148981	chopp64_donor4_cd8sp	Thymus	Thymus					Single-cell RNA
+GSM4761099	GSE148978, GSE148981	chopp65_donor5_mix	Thymus	Thymus					Single-cell RNA
+GSM4761100	GSE148978, GSE148981	chopp66_donor5_cd4sp	Thymus	Thymus					Single-cell RNA
+GSM4761101	GSE148978, GSE148981	chopp67_donor5_cd8sp	Thymus	Thymus					Single-cell RNA
+GSM4761224	GSE148980, GSE148981	chopp72_donor1	Thymus	Thymus					Single-cell ATAC
+GSM4761225	GSE148980, GSE148981	chopp73_donor2	Thymus	Thymus					Single-cell ATAC
+GSM4761226	GSE148980, GSE148981	chopp74_donor3	Thymus	Thymus					Single-cell ATAC

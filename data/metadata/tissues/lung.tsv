@@ -1,0 +1,21 @@
+sample_geo_accession	sample_series_id.x	sample_name	super_tissue	tissue	cell_type	sex	age	donor	technology
+GSM6509487	GSE212109	sc277_2019-022-core	Lung	Lung		male	21		Single-cell RNA
+GSM6509492	GSE212109	sc313_2019-095-core	Lung	Lung		male	33		Single-cell RNA
+GSM6509493	GSE212109	sc315_2019-098-core	Lung	Lung		female	64		Single-cell RNA
+GSM6509494	GSE212109	sc323_2019-106-core	Lung	Lung		male	38		Single-cell RNA
+GSM6509495	GSE212109	sc333_2019-113-core	Lung	Lung		male	62		Single-cell RNA
+GSM6509496	GSE212109	sc334_2019-114-core	Lung	Lung		male	63		Single-cell RNA
+GSM6509498	GSE212109	sc256_2018-119-core	Lung	Lung		male	23		Single-cell ATAC
+GSM6509500	GSE212109	sc314_2019-095-core	Lung	Lung		male	33		Single-cell ATAC
+GSM6509501	GSE212109	sc316_2019-098-core	Lung	Lung		female	64		Single-cell ATAC
+GSM6509502	GSE212109	sc324_2019-106-core	Lung	Lung		male	38		Single-cell ATAC
+GSM6598817	GSE214085	sc45	Lung	Lung		male	55	2017-007-CORE	Single-cell RNA
+GSM6598818	GSE214085	sc56	Lung	Lung		female	57	2017-025-CORE	Single-cell RNA
+GSM6598824	GSE214085	sc156	Lung	Lung		female	23	2017-105-CORE	Single-cell RNA
+GSM6598828	GSE214085	sc313	Lung	Lung		male	33	2019-095-CORE	Single-cell RNA
+GSM6598829	GSE214085	sc315	Lung	Lung		female	64	2019-098-CORE	Single-cell RNA
+GSM6598831	GSE214085	sc323	Lung	Lung		male	38	2019-106-CORE	Single-cell RNA
+GSM6598833	GSE214085	sc333	Lung	Lung		male	62	2019-113-CORE	Single-cell RNA
+GSM6598834	GSE214085	sc334	Lung	Lung		male	63	2019-114-CORE	Single-cell RNA
+GSM6598836	GSE214085	sc316	Lung	Lung		female	64	2019-098-CORE	Single-cell ATAC
+GSM6598838	GSE214085	sc324	Lung	Lung		male	38	2019-106-CORE	Single-cell ATAC

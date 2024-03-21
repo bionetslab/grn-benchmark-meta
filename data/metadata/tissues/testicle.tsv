@@ -1,0 +1,9 @@
+sample_geo_accession	sample_series_id.x	sample_name	super_tissue	tissue	cell_type	sex	age	donor	technology
+GSM3052917	GSE112013, GSE120508	donor1_scrna-seq_rep1	Testicle	testicle				donor 1	Bulk RNA
+GSM3052918	GSE112013, GSE120508	donor1_scrna-seq_rep2	Testicle	testicle				donor 1	Bulk RNA
+GSM3052919	GSE112013, GSE120508	donor2_scrna-seq_rep1	Testicle	testicle				donor 2	Bulk RNA
+GSM3052920	GSE112013, GSE120508	donor2_scrna-seq_rep2	Testicle	testicle				donor 2	Bulk RNA
+GSM3052921	GSE112013, GSE120508	donor3_scrna-seq_rep1	Testicle	testicle				donor 3	Bulk RNA
+GSM3052922	GSE112013, GSE120508	donor3_scrna-seq_rep2	Testicle	testicle				donor 3	Bulk RNA
+GSM3402082	GSE120507, GSE120508	kit+_spermatogonia_atac_seq_rep1	Testicle	testicle		male	adult		Single-cell ATAC
+GSM3402083	GSE120507, GSE120508	kit+_spermatogonia_atac_seq_rep2	Testicle	testicle		male	adult		Single-cell ATAC

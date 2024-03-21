@@ -1,0 +1,19 @@
+sample_geo_accession	sample_series_id.x	sample_name	super_tissue	tissue	cell_type	sex	age	donor	technology
+GSM5171137	GSE168836, GSE168838	cf-3920	Mammary Tissue	Mammary Tissue		female	54		Single-cell RNA
+GSM5171139	GSE168836, GSE168838	cf-7780	Mammary Tissue	Mammary Tissue		female	39		Single-cell RNA
+GSM5171140	GSE168836, GSE168838	cf-2797	Mammary Tissue	Mammary Tissue		female	56		Single-cell RNA
+GSM5171141	GSE168836, GSE168838	cf-318-813	Mammary Tissue	Mammary Tissue		female	54		Single-cell RNA
+GSM5171142	GSE168836, GSE168838	cf-0404	Mammary Tissue	Mammary Tissue		female	30		Single-cell RNA
+GSM5171143	GSE168836, GSE168838	cf-428-112	Mammary Tissue	Mammary Tissue		female	62		Single-cell RNA
+GSM5171145	GSE168836, GSE168838	cf-4014	Mammary Tissue	Mammary Tissue		female	57		Single-cell RNA
+GSM5171155	GSE168837, GSE168838	cf-3920_atac-seq_	Mammary Tissue	Mammary Tissue		female	54		Single-cell ATAC
+GSM5171157	GSE168837, GSE168838	cf-7780_atac-seq_	Mammary Tissue	Mammary Tissue		female	39		Single-cell ATAC
+GSM5171158	GSE168837, GSE168838	cf-2797_atac-seq_	Mammary Tissue	Mammary Tissue		female	56		Single-cell ATAC
+GSM5171159	GSE168837, GSE168838	cf-318-813_atac-seq_	Mammary Tissue	Mammary Tissue		female	54		Single-cell ATAC
+GSM5171160	GSE168837, GSE168838	cf-0404_atac-seq_	Mammary Tissue	Mammary Tissue		female	30		Single-cell ATAC
+GSM5171161	GSE168837, GSE168838	cf-428-112_atac-seq_	Mammary Tissue	Mammary Tissue		female	62		Single-cell ATAC
+GSM5171163	GSE168837, GSE168838	cf-4014_atac-seq_	Mammary Tissue	Mammary Tissue		female	57		Single-cell ATAC
+GSM5953374	GSE168836, GSE168838	cf-1380	Mammary Tissue	Mammary Tissue		female	29		Single-cell RNA
+GSM5953375	GSE168836, GSE168838	cf-2099	Mammary Tissue	Mammary Tissue		female	28		Single-cell RNA
+GSM5953449	GSE168837, GSE168838	cf-1380_atac-seq_	Mammary Tissue	Mammary Tissue		female	29		Single-cell ATAC
+GSM5953450	GSE168837, GSE168838	cf-2099_atac-seq_	Mammary Tissue	Mammary Tissue		female	28		Single-cell ATAC

@@ -1,0 +1,100 @@
+sample_geo_accession	sample_series_id.x	sample_name	super_tissue	tissue	cell_type	sex	age	donor	technology
+GSM4801553	GSE158485	cd107a_liver_cd49a_plus_nk_cells_1	Liver	Liver	CD107a- Liver CD49a+ NK cells				Single-cell RNA
+GSM4801554	GSE158485	cd107a_liver_cd49a_plus_nk_cells_10	Liver	Liver	CD107a- Liver CD49a+ NK cells				Single-cell RNA
+GSM4801555	GSE158485	cd107a_liver_cd49a_plus_nk_cells_11	Liver	Liver	CD107a- Liver CD49a+ NK cells				Single-cell RNA
+GSM4801556	GSE158485	cd107a_liver_cd49a_plus_nk_cells_12	Liver	Liver	CD107a- Liver CD49a+ NK cells				Single-cell RNA
+GSM4801557	GSE158485	cd107a_liver_cd49a_plus_nk_cells_2	Liver	Liver	CD107a- Liver CD49a+ NK cells				Single-cell RNA
+GSM4801558	GSE158485	cd107a_liver_cd49a_plus_nk_cells_3	Liver	Liver	CD107a- Liver CD49a+ NK cells				Single-cell RNA
+GSM4801559	GSE158485	cd107a_liver_cd49a_plus_nk_cells_4	Liver	Liver	CD107a- Liver CD49a+ NK cells				Single-cell RNA
+GSM4801560	GSE158485	cd107a_liver_cd49a_plus_nk_cells_5	Liver	Liver	CD107a- Liver CD49a+ NK cells				Single-cell RNA
+GSM4801561	GSE158485	cd107a_liver_cd49a_plus_nk_cells_6	Liver	Liver	CD107a- Liver CD49a+ NK cells				Single-cell RNA
+GSM4801562	GSE158485	cd107a_liver_cd49a_plus_nk_cells_7	Liver	Liver	CD107a- Liver CD49a+ NK cells				Single-cell RNA
+GSM4801563	GSE158485	cd107a_liver_cd49a_plus_nk_cells_8	Liver	Liver	CD107a- Liver CD49a+ NK cells				Single-cell RNA
+GSM4801564	GSE158485	cd107a_liver_cd49a_plus_nk_cells_9	Liver	Liver	CD107a- Liver CD49a+ NK cells				Single-cell RNA
+GSM4801565	GSE158485	cd107a_plus_liver_cd49a_plus_nk_cells_1	Liver	Liver	CD107a+ Liver CD49a+ NK cells				Single-cell RNA
+GSM4801566	GSE158485	cd107a_plus_liver_cd49a_plus_nk_cells_2	Liver	Liver	CD107a+ Liver CD49a+ NK cells				Single-cell RNA
+GSM4801567	GSE158485	cd107a_plus_liver_cd49a_plus_nk_cells_3	Liver	Liver	CD107a+ Liver CD49a+ NK cells				Single-cell RNA
+GSM4801568	GSE158485	cd107a_plus_liver_cd49a_plus_nk_cells_4	Liver	Liver	CD107a+ Liver CD49a+ NK cells				Single-cell RNA
+GSM4801569	GSE158485	cd107a_plus_liver_cd49a_plus_nk_cells_5	Liver	Liver	CD107a+ Liver CD49a+ NK cells				Single-cell RNA
+GSM4801570	GSE158485	cd107a_plus_liver_cd49a_plus_nk_cells_6	Liver	Liver	CD107a+ Liver CD49a+ NK cells				Single-cell RNA
+GSM4801571	GSE158485	cd107a_plus_liver_cd49a_plus_nk_cells_7	Liver	Liver	CD107a+ Liver CD49a+ NK cells				Single-cell RNA
+GSM4801572	GSE158485	cd107a_plus_liver_cd49a_plus_nk_cells_8	Liver	Liver	CD107a+ Liver CD49a+ NK cells				Single-cell RNA
+GSM4801573	GSE158485	rna-seq_liver39_cd49a_neg_unstim	Liver	Liver	Liver CD49a+ NK cells				Bulk RNA
+GSM4801574	GSE158485	rna-seq_liver39_cd49a_pos_unstim	Liver	Liver	Liver CD49a+ NK cells				Bulk RNA
+GSM4801575	GSE158485	rna-seq_liver40_cd49a_neg_unstim	Liver	Liver	Liver CD49a+ NK cells				Bulk RNA
+GSM4801576	GSE158485	rna-seq_liver40_cd49a_pos_unstim	Liver	Liver	Liver CD49a+ NK cells				Bulk RNA
+GSM4801577	GSE158485	rna-seq_liver41_cd49a_neg_unstim	Liver	Liver	Liver CD49a+ NK cells				Bulk RNA
+GSM4801578	GSE158485	rna-seq_liver41_cd49a_pos_unstim	Liver	Liver	Liver CD49a+ NK cells				Bulk RNA
+GSM4801585	GSE158485	atac-seq_liver39_cd49a_neg_unstim	Liver	Liver	Liver CD49a+ NK cells				Bulk ATAC
+GSM4801586	GSE158485	atac-seq_liver39_cd49a_pos_unstim	Liver	Liver	Liver CD49a+ NK cells				Bulk ATAC
+GSM4801587	GSE158485	atac-seq_liver40_cd49a_neg_unstim	Liver	Liver	Liver CD49a+ NK cells				Bulk ATAC
+GSM4801588	GSE158485	atac-seq_liver40_cd49a_pos_unstim	Liver	Liver	Liver CD49a+ NK cells				Bulk ATAC
+GSM4801589	GSE158485	atac-seq_liver41_cd49a_neg_unstim	Liver	Liver	Liver CD49a+ NK cells				Bulk ATAC
+GSM4801590	GSE158485	atac-seq_liver41_cd49a_pos_unstim	Liver	Liver	Liver CD49a+ NK cells				Bulk ATAC
+GSM4818243	GSE158485	mf301_liver_cd45_p_l16_rna_transcriptome	Liver	Liver	CD45+ cells				Single-cell RNA
+GSM4818244	GSE158485	mf301_liver_cd45_p_l17_rna_transcriptome	Liver	Liver	CD45+ cells				Single-cell RNA
+GSM4818245	GSE158485	mf301_liver_cd45_p_l44_rna_transcriptome	Liver	Liver	CD45+ cells				Single-cell RNA
+GSM5021282	GSE164870, GSE164942	livertissue_atac-seq_sample365b	Liver	Liver		male	28		Bulk ATAC
+GSM5021283	GSE164870, GSE164942	livertissue_atac-seq_sample469	Liver	Liver		male	28		Bulk ATAC
+GSM5021284	GSE164870, GSE164942	livertissue_atac-seq_sample786	Liver	Liver		male	16		Bulk ATAC
+GSM5021285	GSE164870, GSE164942	livertissue_atac-seq_sample684b	Liver	Liver		male	54		Bulk ATAC
+GSM5021286	GSE164870, GSE164942	livertissue_atac-seq_sample794	Liver	Liver		male	16		Bulk ATAC
+GSM5021287	GSE164870, GSE164942	livertissue_atac-seq_sample795	Liver	Liver		male	50		Bulk ATAC
+GSM5021288	GSE164870, GSE164942	livertissue_atac-seq_sample753	Liver	Liver		female	16		Bulk ATAC
+GSM5021289	GSE164870, GSE164942	livertissue_atac-seq_sample670b	Liver	Liver		female	49		Bulk ATAC
+GSM5021290	GSE164870, GSE164942	livertissue_atac-seq_sample651	Liver	Liver		female	17		Bulk ATAC
+GSM5021291	GSE164870, GSE164942	livertissue_atac-seq_sample683	Liver	Liver		female	49		Bulk ATAC
+GSM5021292	GSE164870, GSE164942	livertissue_atac-seq_sample662	Liver	Liver		female	35		Bulk ATAC
+GSM5021293	GSE164870, GSE164942	livertissue_atac-seq_sample767	Liver	Liver		female	30		Bulk ATAC
+GSM5021294	GSE164870, GSE164942	livertissue_atac-seq_sample348	Liver	Liver		male	43		Bulk ATAC
+GSM5021295	GSE164870, GSE164942	livertissue_atac-seq_sample438	Liver	Liver		female	7		Bulk ATAC
+GSM5021296	GSE164870, GSE164942	livertissue_atac-seq_sample459	Liver	Liver		female	17		Bulk ATAC
+GSM5021297	GSE164870, GSE164942	livertissue_atac-seq_sample485	Liver	Liver		female	50		Bulk ATAC
+GSM5021298	GSE164870, GSE164942	livertissue_atac-seq_sample713	Liver	Liver		male	20		Bulk ATAC
+GSM5021299	GSE164870, GSE164942	livertissue_atac-seq_sample715	Liver	Liver		male	58		Bulk ATAC
+GSM5021300	GSE164870, GSE164942	livertissue_atac-seq_sample793	Liver	Liver		female	36		Bulk ATAC
+GSM5021301	GSE164870, GSE164942	livertissue_atac-seq_sample797	Liver	Liver		female	12		Bulk ATAC
+GSM5022034	GSE164876, GSE164942	livertissue_rna-seq_sample_sjlb348	Liver	Liver		male	43		Bulk RNA
+GSM5022035	GSE164876, GSE164942	livertissue_rna-seq_sample_sjlb365	Liver	Liver		male	28		Bulk RNA
+GSM5022036	GSE164876, GSE164942	livertissue_rna-seq_sample_sjlb438	Liver	Liver		female	7		Bulk RNA
+GSM5022037	GSE164876, GSE164942	livertissue_rna-seq_sample_sjlb459	Liver	Liver		female	17		Bulk RNA
+GSM5022038	GSE164876, GSE164942	livertissue_rna-seq_sample_sjlb469	Liver	Liver		male	28		Bulk RNA
+GSM5022039	GSE164876, GSE164942	livertissue_rna-seq_sample_sjlb485	Liver	Liver		female	50		Bulk RNA
+GSM5022040	GSE164876, GSE164942	livertissue_rna-seq_sample_sjlb651	Liver	Liver		female	17		Bulk RNA
+GSM5022041	GSE164876, GSE164942	livertissue_rna-seq_sample_sjlb662	Liver	Liver		female	35		Bulk RNA
+GSM5022042	GSE164876, GSE164942	livertissue_rna-seq_sample_sjlb670	Liver	Liver		female	49		Bulk RNA
+GSM5022043	GSE164876, GSE164942	livertissue_rna-seq_sample_sjlb683	Liver	Liver		female	49		Bulk RNA
+GSM5022044	GSE164876, GSE164942	livertissue_rna-seq_sample_sjlb684	Liver	Liver		male	54		Bulk RNA
+GSM5022045	GSE164876, GSE164942	livertissue_rna-seq_sample_sjlb713	Liver	Liver		male	20		Bulk RNA
+GSM5022046	GSE164876, GSE164942	livertissue_rna-seq_sample_sjlb715	Liver	Liver		male	58		Bulk RNA
+GSM5022047	GSE164876, GSE164942	livertissue_rna-seq_sample_sjlb753	Liver	Liver		female	16		Bulk RNA
+GSM5022048	GSE164876, GSE164942	livertissue_rna-seq_sample_sjlb767	Liver	Liver		female	30		Bulk RNA
+GSM5022049	GSE164876, GSE164942	livertissue_rna-seq_sample_sjlb786	Liver	Liver		male	16		Bulk RNA
+GSM5022050	GSE164876, GSE164942	livertissue_rna-seq_sample_sjlb793	Liver	Liver		female	36		Bulk RNA
+GSM5022051	GSE164876, GSE164942	livertissue_rna-seq_sample_sjlb794	Liver	Liver		male	16		Bulk RNA
+GSM5022052	GSE164876, GSE164942	livertissue_rna-seq_sample_sjlb795	Liver	Liver		male	50		Bulk RNA
+GSM5022053	GSE164876, GSE164942	livertissue_rna-seq_sample_sjlb797	Liver	Liver		female	12		Bulk RNA
+GSM5264612	GSE173277	l1_rep1	Liver	Liver				L1	Bulk ATAC
+GSM5264613	GSE173277	l1_rep2	Liver	Liver				L1	Bulk ATAC
+GSM5264614	GSE173277	l2_rep1	Liver	Liver				L2	Bulk ATAC
+GSM5264615	GSE173277	l2_rep2	Liver	Liver				L2	Bulk ATAC
+GSM5264616	GSE173277	l3_rep1	Liver	Liver				L3	Bulk ATAC
+GSM5264617	GSE173277	l3_rep2	Liver	Liver				L3	Bulk ATAC
+GSM5264618	GSE173277	l4_rep1	Liver	Liver				L4	Bulk ATAC
+GSM5264619	GSE173277	l4_rep2	Liver	Liver				L4	Bulk ATAC
+GSM5264620	GSE173277	l5_rep1	Liver	Liver				L5	Bulk ATAC
+GSM5264621	GSE173277	l5_rep2	Liver	Liver				L5	Bulk ATAC
+GSM5264622	GSE173277	l6_rep1	Liver	Liver				L6	Bulk ATAC
+GSM5264623	GSE173277	l6_rep2	Liver	Liver				L6	Bulk ATAC
+GSM5264624	GSE173277	l7_rep1	Liver	Liver				L7	Bulk ATAC
+GSM5264625	GSE173277	l7_rep2	Liver	Liver				L7	Bulk ATAC
+GSM5264626	GSE173277	l8_rep1	Liver	Liver				L8	Bulk ATAC
+GSM5264627	GSE173277	l8_rep2	Liver	Liver				L8	Bulk ATAC
+GSM5277644	GSE173734, GSE173736	healthy_1	Liver	Liver					Bulk ATAC
+GSM5277645	GSE173734, GSE173736	healthy_2	Liver	Liver					Bulk ATAC
+GSM5277646	GSE173734, GSE173736	healthy_3	Liver	Liver					Bulk ATAC
+GSM5277647	GSE173734, GSE173736	healthy_4	Liver	Liver					Bulk ATAC
+GSM5277658	GSE173735, GSE173736	rna-seq_healthy_1	Liver	Liver					Bulk RNA
+GSM5277659	GSE173735, GSE173736	rna-seq_healthy_2	Liver	Liver					Bulk RNA
+GSM5277660	GSE173735, GSE173736	rna-seq_healthy_3	Liver	Liver					Bulk RNA
+GSM5277661	GSE173735, GSE173736	rna-seq_healthy_4	Liver	Liver					Bulk RNA

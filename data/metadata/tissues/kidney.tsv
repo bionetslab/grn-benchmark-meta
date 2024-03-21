@@ -1,0 +1,159 @@
+sample_geo_accession	sample_series_id.x	sample_name	super_tissue	tissue	cell_type	sex	age	donor	technology
+GSM3823939	GSE131882	control_sample_1_snrnaseq_	Kidney	Kidney					Single-cell RNA
+GSM3823940	GSE131882	control_sample_2_snrnaseq_	Kidney	Kidney					Single-cell RNA
+GSM3823941	GSE131882	control_sample_3_snrnaseq_	Kidney	Kidney					Single-cell RNA
+GSM4572187	GSE151302	healthy1_snatacseq	Kidney	Kidney		male	54		Single-cell ATAC
+GSM4572188	GSE151302	healthy2_snatacseq	Kidney	Kidney		male	62		Single-cell ATAC
+GSM4572189	GSE151302	healthy3_snatacseq	Kidney	Kidney		female	61		Single-cell ATAC
+GSM4572190	GSE151302	healthy4_snatacseq	Kidney	Kidney		male	50		Single-cell ATAC
+GSM4572191	GSE151302	healthy5_snatacseq	Kidney	Kidney		female	52		Single-cell ATAC
+GSM4572192	GSE151302	healthy1_snrnaseq	Kidney	Kidney		male	54		Single-cell RNA
+GSM4572193	GSE151302	healthy2_snrnaseq	Kidney	Kidney		male	62		Single-cell RNA
+GSM4572194	GSE151302	healthy3_snrnaseq	Kidney	Kidney		female	61		Single-cell RNA
+GSM4572195	GSE151302	healthy4_snrnaseq	Kidney	Kidney		male	50		Single-cell RNA
+GSM4572196	GSE151302	healthy5_snrnaseq	Kidney	Kidney		female	52		Single-cell RNA
+GSM4873488	GSE152300, GSE152302	kidney_cortex-atac-seq-donor1	Kidney	Kidney Cortex					Bulk ATAC
+GSM4873489	GSE152300, GSE152302	kidney_cortex-atac-seq-donor2	Kidney	Kidney Cortex					Bulk ATAC
+GSM4873490	GSE152300, GSE152302	kidney_cortex-atac-seq-donor3	Kidney	Kidney Cortex					Bulk ATAC
+GSM4873491	GSE152300, GSE152302	kidney_medulla-atac-seq-donor1	Kidney	Kidney Medulla					Bulk ATAC
+GSM4873492	GSE152300, GSE152302	kidney_medulla-atac-seq-donor2	Kidney	Kidney Medulla					Bulk ATAC
+GSM4873493	GSE152300, GSE152302	kidney_medulla-atac-seq-donor3	Kidney	Kidney Medulla					Bulk ATAC
+GSM4873494	GSE152301, GSE152302	kidney_cortex-rna-seq-donor1	Kidney	Kidney Cortex				1	Bulk RNA
+GSM4873495	GSE152301, GSE152302	kidney_cortex-rna-seq-donor2	Kidney	Kidney Cortex				2	Bulk RNA
+GSM4873496	GSE152301, GSE152302	kidney_cortex-rna-seq-donor3	Kidney	Kidney Cortex				3	Bulk RNA
+GSM4873497	GSE152301, GSE152302	kidney_medulla-rna-seq-donor1	Kidney	Kidney Medulla				1	Bulk RNA
+GSM4873498	GSE152301, GSE152302	kidney_medulla-rna-seq-donor2	Kidney	Kidney Medulla				2	Bulk RNA
+GSM4873499	GSE152301, GSE152302	kidney_medulla-rna-seq-donor3	Kidney	Kidney Medulla				3	Bulk RNA
+GSM5239693	GSE172008	human_kidney_sample_-_snatac-seq_rep1	Kidney	Kidney		female	52		Single-cell ATAC
+GSM5239694	GSE172008	human_kidney_sample_-_snatac-seq_rep2	Kidney	Kidney		male	70		Single-cell ATAC
+GSM5554405	GSE183273, GSE183279	bukmap_20190529d_snare2-r	Kidney	Kidney Medulla					Single-cell RNA
+GSM5554406	GSE183273, GSE183279	bukmap_20190529d_snare2-ac	Kidney	Kidney Medulla					Single-cell ATAC
+GSM5554407	GSE183273, GSE183279	bukmap_20190529e_snare2-r	Kidney	Kidney Medulla					Single-cell RNA
+GSM5554408	GSE183273, GSE183279	bukmap_20190529e_snare2-ac	Kidney	Kidney Medulla					Single-cell ATAC
+GSM5554409	GSE183273, GSE183279	bukmap_20190529f_snare2-r	Kidney	Kidney Cortex					Single-cell RNA
+GSM5554410	GSE183273, GSE183279	bukmap_20190529f_snare2-ac	Kidney	Kidney Cortex					Single-cell ATAC
+GSM5554411	GSE183273, GSE183279	bukmap_20190529g_snare2-r	Kidney	Kidney Cortex					Single-cell RNA
+GSM5554412	GSE183273, GSE183279	bukmap_20190529g_snare2-ac	Kidney	Kidney Cortex					Single-cell ATAC
+GSM5554413	GSE183273, GSE183279	bukmap_20190822a_snare2-r	Kidney	Kidney Medulla					Single-cell RNA
+GSM5554414	GSE183273, GSE183279	bukmap_20190822a_snare2-ac	Kidney	Kidney Medulla					Single-cell ATAC
+GSM5554415	GSE183273, GSE183279	bukmap_20190822b_snare2-r	Kidney	Kidney Medulla					Single-cell RNA
+GSM5554416	GSE183273, GSE183279	bukmap_20190822b_snare2-ac	Kidney	Kidney Medulla					Single-cell ATAC
+GSM5554417	GSE183273, GSE183279	bukmap_20190822c_snare2-r	Kidney	Kidney Medulla					Single-cell RNA
+GSM5554418	GSE183273, GSE183279	bukmap_20190822c_snare2-ac	Kidney	Kidney Medulla					Single-cell ATAC
+GSM5554419	GSE183273, GSE183279	bukmap_20190822d_snare2-r	Kidney	Kidney Cortex					Single-cell RNA
+GSM5554420	GSE183273, GSE183279	bukmap_20190822d_snare2-ac	Kidney	Kidney Cortex					Single-cell ATAC
+GSM5554421	GSE183273, GSE183279	bukmap_20190822e_snare2-r	Kidney	Kidney Medulla					Single-cell RNA
+GSM5554422	GSE183273, GSE183279	bukmap_20190822e_snare2-ac	Kidney	Kidney Medulla					Single-cell ATAC
+GSM5554423	GSE183273, GSE183279	bukmap_20200211a_snare2-r	Kidney	Kidney Medulla					Single-cell RNA
+GSM5554424	GSE183273, GSE183279	bukmap_20200211a_snare2-ac	Kidney	Kidney Medulla					Single-cell ATAC
+GSM5554425	GSE183273, GSE183279	bukmap_20200211b_snare2-r	Kidney	Kidney Cortex					Single-cell RNA
+GSM5554426	GSE183273, GSE183279	bukmap_20200211b_snare2-ac	Kidney	Kidney Cortex					Single-cell ATAC
+GSM5554427	GSE183273, GSE183279	bukmap_20200211c_snare2-r	Kidney	Kidney Medulla					Single-cell RNA
+GSM5554428	GSE183273, GSE183279	bukmap_20200211c_snare2-ac	Kidney	Kidney Medulla					Single-cell ATAC
+GSM5554429	GSE183273, GSE183279	bukmap_20200211d_snare2-r	Kidney	Kidney Cortex					Single-cell RNA
+GSM5554430	GSE183273, GSE183279	bukmap_20200211d_snare2-ac	Kidney	Kidney Cortex					Single-cell ATAC
+GSM5554431	GSE183273, GSE183279	bukmap_20200211e_snare2-r	Kidney	Kidney Medulla					Single-cell RNA
+GSM5554432	GSE183273, GSE183279	bukmap_20200211e_snare2-ac	Kidney	Kidney Medulla					Single-cell ATAC
+GSM5554433	GSE183273, GSE183279	bukmap_20200211f_snare2-r	Kidney	Kidney Cortex					Single-cell RNA
+GSM5554434	GSE183273, GSE183279	bukmap_20200211f_snare2-ac	Kidney	Kidney Cortex					Single-cell ATAC
+GSM5554435	GSE183273, GSE183279	bukmap_20200211g_snare2-r	Kidney	Kidney Medulla					Single-cell RNA
+GSM5554436	GSE183273, GSE183279	bukmap_20200211g_snare2-ac	Kidney	Kidney Medulla					Single-cell ATAC
+GSM5554437	GSE183273, GSE183279	bukmap_20200211h_snare2-r	Kidney	Kidney Cortex					Single-cell RNA
+GSM5554438	GSE183273, GSE183279	bukmap_20200211h_snare2-ac	Kidney	Kidney Cortex					Single-cell ATAC
+GSM5554497	GSE183276, GSE183279	premiere30	Kidney	Kidney					Single-cell RNA
+GSM5554498	GSE183276, GSE183279	premiere31	Kidney	Kidney					Single-cell RNA
+GSM5554499	GSE183276, GSE183279	premiere32	Kidney	Kidney					Single-cell RNA
+GSM5554500	GSE183276, GSE183279	premiere33	Kidney	Kidney					Single-cell RNA
+GSM5554501	GSE183276, GSE183279	premiere34	Kidney	Kidney					Single-cell RNA
+GSM5554502	GSE183276, GSE183279	premiere35	Kidney	Kidney					Single-cell RNA
+GSM5554503	GSE183276, GSE183279	premiere36	Kidney	Kidney					Single-cell RNA
+GSM5554504	GSE183276, GSE183279	premiere37	Kidney	Kidney					Single-cell RNA
+GSM5554505	GSE183276, GSE183279	premiere38	Kidney	Kidney					Single-cell RNA
+GSM5554506	GSE183276, GSE183279	premiere39	Kidney	Kidney					Single-cell RNA
+GSM5554507	GSE183276, GSE183279	premiere40	Kidney	Kidney					Single-cell RNA
+GSM5554508	GSE183276, GSE183279	premiere41	Kidney	Kidney					Single-cell RNA
+GSM5554509	GSE183276, GSE183279	premiere42	Kidney	Kidney					Single-cell RNA
+GSM5554510	GSE183276, GSE183279	premiere43	Kidney	Kidney					Single-cell RNA
+GSM5554511	GSE183276, GSE183279	premiere44	Kidney	Kidney					Single-cell RNA
+GSM5554512	GSE183276, GSE183279	premiere45	Kidney	Kidney					Single-cell RNA
+GSM5554513	GSE183276, GSE183279	premiere46	Kidney	Kidney					Single-cell RNA
+GSM5554514	GSE183276, GSE183279	premiere47	Kidney	Kidney					Single-cell RNA
+GSM5554515	GSE183276, GSE183279	premiere48	Kidney	Kidney					Single-cell RNA
+GSM5554516	GSE183276, GSE183279	premiere49	Kidney	Kidney					Single-cell RNA
+GSM5554542	GSE183277, GSE183279	bukmap_20190529l_10x-r	Kidney	Kidney Cortex					Single-cell RNA
+GSM5554543	GSE183277, GSE183279	bukmap_20190607l_10x-r	Kidney	Kidney Cortex					Single-cell RNA
+GSM5554544	GSE183277, GSE183279	bukmap_20190822f_10x-r	Kidney	Kidney Cortex					Single-cell RNA
+GSM5554545	GSE183277, GSE183279	bukmap_20190829b_10x-r	Kidney	Kidney Cortex					Single-cell RNA
+GSM5554546	GSE183277, GSE183279	bukmap_20191010-10x-r	Kidney	Kidney Cortex					Single-cell RNA
+GSM5554547	GSE183277, GSE183279	bukmap_20191104a-10x-r	Kidney	Kidney Medulla					Single-cell RNA
+GSM5554548	GSE183277, GSE183279	bukmap_20191009-10x-r	Kidney	Kidney Papilla					Single-cell RNA
+GSM5554549	GSE183277, GSE183279	bukmap_20200205a_10x-r	Kidney	Kidney Medulla					Single-cell RNA
+GSM5554550	GSE183277, GSE183279	bukmap_20200205d_10x-r	Kidney	Kidney Medulla					Single-cell RNA
+GSM5554551	GSE183277, GSE183279	bukmap_20200205f_10x-r	Kidney	Kidney Medulla					Single-cell RNA
+GSM5554552	GSE183277, GSE183279	bukmap_20200304a_10x-r	Kidney	Kidney Medulla					Single-cell RNA
+GSM5554553	GSE183277, GSE183279	bukmap_20200304b_10x-r	Kidney	Kidney Papilla					Single-cell RNA
+GSM5554554	GSE183277, GSE183279	bukmap_20200304f_10x-r	Kidney	Kidney Papilla					Single-cell RNA
+GSM5554555	GSE183277, GSE183279	kpmp_20190607i-10x-r	Kidney	Kidney Cortex					Single-cell RNA
+GSM5554556	GSE183277, GSE183279	kpmp_20190607j-10x-r	Kidney	Kidney Cortex					Single-cell RNA
+GSM5554557	GSE183277, GSE183279	kpmp_20190607k-10x-r	Kidney	Kidney Cortex					Single-cell RNA
+GSM5554562	GSE183277, GSE183279	bukmap_20200702c_10x-r	Kidney	Kidney Cortex					Single-cell RNA
+GSM5554563	GSE183277, GSE183279	bukmap_20200702d_10x-r	Kidney	Kidney Papilla					Single-cell RNA
+GSM5554564	GSE183277, GSE183279	bukmap_20200707a_10x-r	Kidney	Kidney Cortex					Single-cell RNA
+GSM5554565	GSE183277, GSE183279	bukmap_20200707b_10x-r	Kidney	Kidney Cortex					Single-cell RNA
+GSM5554566	GSE183277, GSE183279	bukmap_20200707c_10x-r	Kidney	Kidney Papilla					Single-cell RNA
+GSM5837792	GSE195460	control6_snrnaseq	Kidney	Kidney Cortex					Single-cell RNA
+GSM5837793	GSE195460	control6_snatacseq	Kidney	Kidney Cortex					Single-cell RNA
+GSM5982489	GSE183279, GSE199711	bukmap_20190822f_10x-r	Kidney	Kidney Cortex					Single-cell RNA
+GSM5982490	GSE183279, GSE199711	bukmap_20190829b_10x-r	Kidney	Kidney Cortex					Single-cell RNA
+GSM6037587	GSE200547	human-kidney-snatac-seq_sample_1_snatac-seq	Kidney	Kidney		female	85		Single-cell ATAC
+GSM6037588	GSE200547	human-kidney-snatac-seq_sample_2_snatac-seq	Kidney	Kidney		female	85		Single-cell ATAC
+GSM6037589	GSE200547	human-kidney-snatac-seq_sample_3_snatac-seq	Kidney	Kidney		male	74		Single-cell ATAC
+GSM6037591	GSE200547	human-kidney-snatac-seq_sample_4_snatac-seq	Kidney	Kidney		female	65		Single-cell ATAC
+GSM6500951	GSE211785	control1_scrnaseq	Kidney	Kidney		female	69		Single-cell RNA
+GSM6500952	GSE211785	control2_scrnaseq	Kidney	Kidney		female	57		Single-cell RNA
+GSM6500962	GSE211785	control3_scrnaseq	Kidney	Kidney		female	53		Single-cell RNA
+GSM6500963	GSE211785	control4_scrnaseq	Kidney	Kidney		female	53		Single-cell RNA
+GSM6500964	GSE211785	control5_scrnaseq	Kidney	Kidney		male	71		Single-cell RNA
+GSM6500965	GSE211785	control6_scrnaseq	Kidney	Kidney		female	72		Single-cell RNA
+GSM6500966	GSE211785	control7_scrnaseq	Kidney	Kidney		female	33		Single-cell RNA
+GSM6500970	GSE211785	control8_scrnaseq	Kidney	Kidney		male	72		Single-cell RNA
+GSM6500971	GSE211785	control9_scrnaseq	Kidney	Kidney		male	44		Single-cell RNA
+GSM6500972	GSE211785	control10_scrnaseq	Kidney	Kidney		female	74		Single-cell RNA
+GSM6500973	GSE211785	control11_scrnaseq	Kidney	Kidney		male	37		Single-cell RNA
+GSM6500974	GSE211785	control12_scrnaseq	Kidney	Kidney		female	66		Single-cell RNA
+GSM6500975	GSE211785	control13_scrnaseq	Kidney	Kidney		male	60		Single-cell RNA
+GSM6500976	GSE211785	control14_scrnaseq	Kidney	Kidney		male	39		Single-cell RNA
+GSM6500977	GSE211785	control15_scrnaseq	Kidney	Kidney		male	64		Single-cell RNA
+GSM6500978	GSE211785	control16_scrnaseq	Kidney	Kidney		male	67		Single-cell RNA
+GSM6500979	GSE211785	control17_scrnaseq	Kidney	Kidney		female	63		Single-cell RNA
+GSM6500983	GSE211785	control18_scrnaseq	Kidney	Kidney		male	72		Single-cell RNA
+GSM6500984	GSE211785	control19_scrnaseq	Kidney	Kidney		male	44		Single-cell RNA
+GSM6500986	GSE211785	disease18_snrnaseq	Kidney	Kidney		female	74		Single-cell RNA
+GSM6500987	GSE211785	control20_scrnaseq	Kidney	Kidney		male	37		Single-cell RNA
+GSM6500988	GSE211785	control21_scrnaseq	Kidney	Kidney		female	66		Single-cell RNA
+GSM6500989	GSE211785	control22_scrnaseq	Kidney	Kidney		male	60		Single-cell RNA
+GSM6500990	GSE211785	control23_scrnaseq	Kidney	Kidney		male	39		Single-cell RNA
+GSM6500996	GSE211785	control24_snatacseq	Kidney	Kidney		male	52		Single-cell RNA
+GSM6501004	GSE211785	control25_snatacseq	Kidney	Kidney		male	44		Single-cell ATAC
+GSM6501005	GSE211785	control26_snatacseq	Kidney	Kidney		male	37		Single-cell ATAC
+GSM6501006	GSE211785	control27_snatacseq	Kidney	Kidney		female	85		Single-cell ATAC
+GSM6501008	GSE211785	control29_snatacseq	Kidney	Kidney		female	85		Single-cell ATAC
+GSM6501009	GSE211785	control30_snatacseq	Kidney	Kidney		female	85		Single-cell ATAC
+GSM6501012	GSE211785	control31_snatacseq	Kidney	Kidney		male	74		Single-cell ATAC
+GSM6501013	GSE211785	control32_snatacseq	Kidney	Kidney		male	74		Single-cell ATAC
+GSM6501014	GSE211785	control33_snatacseq	Kidney	Kidney		female	65		Single-cell ATAC
+GSM6501015	GSE211785	control34_snatacseq	Kidney	Kidney		female	65		Single-cell ATAC
+GSM6560954	GSE212908, GSE212910	kidney_cortex-atac-seq-donor1_cortex_1_	Kidney	Kidney Cortex				1	Bulk ATAC
+GSM6560955	GSE212908, GSE212910	kidney_cortex-atac-seq-donor2__cortex_2_	Kidney	Kidney Cortex				2	Bulk ATAC
+GSM6560956	GSE212908, GSE212910	kidney_cortex-atac-seq-donor3__cortex_3_	Kidney	Kidney Cortex				3	Bulk ATAC
+GSM6560957	GSE212908, GSE212910	kidney_medulla-atac-seq-donor1_medulla_1_	Kidney	Kidney Medulla				1	Bulk ATAC
+GSM6560958	GSE212908, GSE212910	kidney_medulla-atac-seq-donor3_medulla_2_	Kidney	Kidney Medulla				2	Bulk ATAC
+GSM6560959	GSE212908, GSE212910	kidney_medulla-atac-seq-donor3_medulla_3_	Kidney	Kidney Medulla				3	Bulk ATAC
+GSM7321078	GSE232222	control_aiim164_multiome_rna	Kidney	Kidney cortex		female	46		Single-cell RNA
+GSM7321079	GSE232222	control_aiim164_multiome_atac	Kidney	Kidney cortex		female	46		Single-cell ATAC
+GSM7321080	GSE232222	control_ail5160_multiome_rna	Kidney	Kidney cortex		female	71		Single-cell RNA
+GSM7321081	GSE232222	control_ail5160_multiome_atac	Kidney	Kidney cortex		female	71		Single-cell ATAC
+GSM7321082	GSE232222	control_ajdl105_multiome_rna	Kidney	Kidney cortex		female	78		Single-cell RNA
+GSM7321083	GSE232222	control_ajdl105_multiome_atac	Kidney	Kidney cortex		female	78		Single-cell ATAC
+GSM7321084	GSE232222	control_ajdv174_multiome_rna	Kidney	Kidney cortex		male	58		Single-cell RNA
+GSM7321085	GSE232222	control_ajdv174_multiome_atac	Kidney	Kidney cortex		male	58		Single-cell ATAC

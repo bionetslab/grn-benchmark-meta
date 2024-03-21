@@ -1,0 +1,85 @@
+sample_geo_accession	sample_series_id.x	sample_name	super_tissue	tissue	cell_type	sex	age	donor	technology
+GSM5029741	GSE165303	nf-1_atac	Heart	Left ventricle					Bulk ATAC
+GSM5029742	GSE165303	nf-2_atac	Heart	Left ventricle					Bulk ATAC
+GSM5029743	GSE165303	nf-3_atac	Heart	Left ventricle					Bulk ATAC
+GSM5029744	GSE165303	nf-4_atac	Heart	Left ventricle					Bulk ATAC
+GSM5029745	GSE165303	nf-5_atac	Heart	Left ventricle					Bulk ATAC
+GSM5029746	GSE165303	nf-6_atac	Heart	Left ventricle					Bulk ATAC
+GSM5029747	GSE165303	nf-7_atac	Heart	Left ventricle					Bulk ATAC
+GSM5029748	GSE165303	nf-8_atac	Heart	Left ventricle					Bulk ATAC
+GSM5029749	GSE165303	nf-9_atac	Heart	Left ventricle					Bulk ATAC
+GSM5029831	GSE165303	nf-1_rna	Heart	Left ventricle					Bulk RNA
+GSM5029832	GSE165303	nf-10_rna	Heart	Left ventricle					Bulk RNA
+GSM5029833	GSE165303	nf-11_rna	Heart	Left ventricle					Bulk RNA
+GSM5029834	GSE165303	nf-12_rna	Heart	Left ventricle					Bulk RNA
+GSM5029835	GSE165303	nf-13_rna	Heart	Left ventricle					Bulk RNA
+GSM5029836	GSE165303	nf-14_rna	Heart	Left ventricle					Bulk RNA
+GSM5029837	GSE165303	nf-15_rna	Heart	Left ventricle					Bulk RNA
+GSM5029838	GSE165303	nf-16_rna	Heart	Left ventricle					Bulk RNA
+GSM5029839	GSE165303	nf-17_rna	Heart	Left ventricle					Bulk RNA
+GSM5029840	GSE165303	nf-18_rna	Heart	Left ventricle					Bulk RNA
+GSM5029841	GSE165303	nf-19_rna	Heart	Left ventricle					Bulk RNA
+GSM5029842	GSE165303	nf-2_rna	Heart	Left ventricle					Bulk RNA
+GSM5029843	GSE165303	nf-20_rna	Heart	Left ventricle					Bulk RNA
+GSM5029844	GSE165303	nf-21_rna	Heart	Left ventricle					Bulk RNA
+GSM5029845	GSE165303	nf-22_rna	Heart	Left ventricle					Bulk RNA
+GSM5029846	GSE165303	nf-23_rna	Heart	Left ventricle					Bulk RNA
+GSM5029847	GSE165303	nf-24_rna	Heart	Left ventricle					Bulk RNA
+GSM5029848	GSE165303	nf-25_rna	Heart	Left ventricle					Bulk RNA
+GSM5029849	GSE165303	nf-26_rna	Heart	Left ventricle					Bulk RNA
+GSM5029850	GSE165303	nf-27_rna	Heart	Left ventricle					Bulk RNA
+GSM5029851	GSE165303	nf-28_rna	Heart	Left ventricle					Bulk RNA
+GSM5029852	GSE165303	nf-29_rna	Heart	Left ventricle					Bulk RNA
+GSM5029853	GSE165303	nf-3_rna	Heart	Left ventricle					Bulk RNA
+GSM5029854	GSE165303	nf-30_rna	Heart	Left ventricle					Bulk RNA
+GSM5029855	GSE165303	nf-31_rna	Heart	Left ventricle					Bulk RNA
+GSM5029856	GSE165303	nf-32_rna	Heart	Left ventricle					Bulk RNA
+GSM5029857	GSE165303	nf-33_rna	Heart	Left ventricle					Bulk RNA
+GSM5029858	GSE165303	nf-34_rna	Heart	Left ventricle					Bulk RNA
+GSM5029859	GSE165303	nf-35_rna	Heart	Left ventricle					Bulk RNA
+GSM5029860	GSE165303	nf-36_rna	Heart	Left ventricle					Bulk RNA
+GSM5029861	GSE165303	nf-37_rna	Heart	Left ventricle					Bulk RNA
+GSM5029862	GSE165303	nf-38_rna	Heart	Left ventricle					Bulk RNA
+GSM5029863	GSE165303	nf-39_rna	Heart	Left ventricle					Bulk RNA
+GSM5029864	GSE165303	nf-4_rna	Heart	Left ventricle					Bulk RNA
+GSM5029865	GSE165303	nf-40_rna	Heart	Left ventricle					Bulk RNA
+GSM5029866	GSE165303	nf-41_rna	Heart	Left ventricle					Bulk RNA
+GSM5029867	GSE165303	nf-42_rna	Heart	Left ventricle					Bulk RNA
+GSM5029868	GSE165303	nf-43_rna	Heart	Left ventricle					Bulk RNA
+GSM5029869	GSE165303	nf-44_rna	Heart	Left ventricle					Bulk RNA
+GSM5029870	GSE165303	nf-45_rna	Heart	Left ventricle					Bulk RNA
+GSM5029871	GSE165303	nf-46_rna	Heart	Left ventricle					Bulk RNA
+GSM5029872	GSE165303	nf-47_rna	Heart	Left ventricle					Bulk RNA
+GSM5029873	GSE165303	nf-48_rna	Heart	Left ventricle					Bulk RNA
+GSM5029874	GSE165303	nf-49_rna	Heart	Left ventricle					Bulk RNA
+GSM5029875	GSE165303	nf-5_rna	Heart	Left ventricle					Bulk RNA
+GSM5029876	GSE165303	nf-50_rna	Heart	Left ventricle					Bulk RNA
+GSM5029877	GSE165303	nf-51_rna	Heart	Left ventricle					Bulk RNA
+GSM5029878	GSE165303	nf-6_rna	Heart	Left ventricle					Bulk RNA
+GSM5029879	GSE165303	nf-7_rna	Heart	Left ventricle					Bulk RNA
+GSM5029880	GSE165303	nf-8_rna	Heart	Left ventricle					Bulk RNA
+GSM5029881	GSE165303	nf-9_rna	Heart	Left ventricle					Bulk RNA
+GSM7036794	GSE224995, GSE224997	donor_1_septum_snrna-seq	Heart	Interventricular septum		male	54	Donor 1	Single-cell RNA
+GSM7036795	GSE224995, GSE224997	donor_1_rv_snrna-seq	Heart	Right ventricle		male	54	Donor 1	Single-cell RNA
+GSM7036796	GSE224995, GSE224997	donor_1_lv_snrna-seq	Heart	Left ventricle		male	54	Donor 1	Single-cell RNA
+GSM7036797	GSE224995, GSE224997	donor_1_apex_snrna-seq	Heart	Apex		male	54	Donor 1	Single-cell RNA
+GSM7036798	GSE224995, GSE224997	donor_2_septum_snrna-seq	Heart	Interventricular septum		male	47	Donor 2	Single-cell RNA
+GSM7036799	GSE224995, GSE224997	donor_2_rv_snrna-seq	Heart	Right ventricle		male	47	Donor 2	Single-cell RNA
+GSM7036800	GSE224995, GSE224997	donor_2_lv_snrna-seq	Heart	Left ventricle		male	47	Donor 2	Single-cell RNA
+GSM7036801	GSE224995, GSE224997	donor_2_apex_snrna-seq	Heart	Apex		male	47	Donor 2	Single-cell RNA
+GSM7036802	GSE224995, GSE224997	donor_3_septum_snrna-seq	Heart	Interventricular septum		male	55	Donor 3	Single-cell RNA
+GSM7036803	GSE224995, GSE224997	donor_3_rv_snrna-seq	Heart	Right ventricle		male	55	Donor 3	Single-cell RNA
+GSM7036804	GSE224995, GSE224997	donor_3_lv_snrna-seq	Heart	Left ventricle		male	55	Donor 3	Single-cell RNA
+GSM7036805	GSE224995, GSE224997	donor_3_apex_snrna-seq	Heart	Apex		male	55	Donor 3	Single-cell RNA
+GSM7036806	GSE224996, GSE224997	donor_1_septum_scatac-seq	Heart	Interventricular septum		male	54	Donor 1	Single-cell ATAC
+GSM7036807	GSE224996, GSE224997	donor_1_rv_scatac-seq	Heart	Right ventricle		male	54	Donor 1	Single-cell ATAC
+GSM7036808	GSE224996, GSE224997	donor_1_lv_scatac-seq	Heart	Left ventricle		male	54	Donor 1	Single-cell ATAC
+GSM7036809	GSE224996, GSE224997	donor_1_apex_scatac-seq	Heart	Apex		male	54	Donor 1	Single-cell ATAC
+GSM7036810	GSE224996, GSE224997	donor_2_septum_scatac-seq	Heart	Interventricular septum		male	47	Donor 2	Single-cell ATAC
+GSM7036811	GSE224996, GSE224997	donor_2_rv_scatac-seq	Heart	Right ventricle		male	47	Donor 2	Single-cell ATAC
+GSM7036812	GSE224996, GSE224997	donor_2_lv_scatac-seq	Heart	Left ventricle		male	47	Donor 2	Single-cell ATAC
+GSM7036813	GSE224996, GSE224997	donor_2_apex_scatac-seq	Heart	Apex		male	47	Donor 2	Single-cell ATAC
+GSM7036814	GSE224996, GSE224997	donor_3_septum_scatac-seq	Heart	Interventricular septum		male	55	Donor 3	Single-cell ATAC
+GSM7036815	GSE224996, GSE224997	donor_3_rv_scatac-seq	Heart	Right ventricle		male	55	Donor 3	Single-cell ATAC
+GSM7036816	GSE224996, GSE224997	donor_3_lv_scatac-seq	Heart	Left ventricle		male	55	Donor 3	Single-cell ATAC
+GSM7036817	GSE224996, GSE224997	donor_3_apex_scatac-seq	Heart	Apex		male	55	Donor 3	Single-cell ATAC

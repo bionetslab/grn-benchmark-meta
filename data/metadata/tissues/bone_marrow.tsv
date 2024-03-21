@@ -1,0 +1,958 @@
+sample_geo_accession	sample_series_id.x	sample_name	super_tissue	tissue	cell_type	sex	age	donor	technology	ba	brain_region_1	area	super_region	region
+GSM2199916	GSE83345	s1_neuronal_nuclei	Brain	Frontopolar prefrontal cortex	Neuron	female	85		Bulk ATAC	BA10	Frontopolar prefrontal cortex	Prefrontal Cortex	NA	Frontopolar Prefrontal Cortex
+GSM2199917	GSE83345	s2_neuronal_nuclei	Brain	Frontopolar prefrontal cortex	Neuron	male	64		Bulk ATAC	BA10	Frontopolar prefrontal cortex	Prefrontal Cortex	NA	Frontopolar Prefrontal Cortex
+GSM2199918	GSE83345	s3_neuronal_nuclei	Brain	Frontopolar prefrontal cortex	Neuron	male	79		Bulk ATAC	BA10	Frontopolar prefrontal cortex	Prefrontal Cortex	NA	Frontopolar Prefrontal Cortex
+GSM2199919	GSE83345	s4_neuronal_nuclei	Brain	Frontopolar prefrontal cortex	Neuron	male	75		Bulk ATAC	BA10	Frontopolar prefrontal cortex	Prefrontal Cortex	NA	Frontopolar Prefrontal Cortex
+GSM2199920	GSE83345	s5_neuronal_nuclei	Brain	Frontopolar prefrontal cortex	Neuron	female	90		Bulk ATAC	BA10	Frontopolar prefrontal cortex	Prefrontal Cortex	NA	Frontopolar Prefrontal Cortex
+GSM2199921	GSE83345	s6_neuronal_nuclei	Brain	Frontopolar prefrontal cortex	Neuron	female	90		Bulk ATAC	BA10	Frontopolar prefrontal cortex	Prefrontal Cortex	NA	Frontopolar Prefrontal Cortex
+GSM2199922	GSE83345	s7_neuronal_nuclei	Brain	Frontopolar prefrontal cortex	Neuron	female	85		Bulk ATAC	BA10	Frontopolar prefrontal cortex	Prefrontal Cortex	NA	Frontopolar Prefrontal Cortex
+GSM2199923	GSE83345	s8_neuronal_nuclei	Brain	Frontopolar prefrontal cortex	Neuron	male	93		Bulk ATAC	BA10	Frontopolar prefrontal cortex	Prefrontal Cortex	NA	Frontopolar Prefrontal Cortex
+GSM2199924	GSE83345	s1_nonneuronal_nuclei	Brain	Frontopolar prefrontal cortex	Non-Neuron	female	85		Bulk ATAC	BA10	Frontopolar prefrontal cortex	Prefrontal Cortex	NA	Frontopolar Prefrontal Cortex
+GSM2199925	GSE83345	s2_nonneuronal_nuclei	Brain	Frontopolar prefrontal cortex	Non-Neuron	male	64		Bulk ATAC	BA10	Frontopolar prefrontal cortex	Prefrontal Cortex	NA	Frontopolar Prefrontal Cortex
+GSM2199926	GSE83345	s3_nonneuronal_nuclei	Brain	Frontopolar prefrontal cortex	Non-Neuron	male	79		Bulk ATAC	BA10	Frontopolar prefrontal cortex	Prefrontal Cortex	NA	Frontopolar Prefrontal Cortex
+GSM2199927	GSE83345	s4_nonneuronal_nuclei	Brain	Frontopolar prefrontal cortex	Non-Neuron	male	75		Bulk ATAC	BA10	Frontopolar prefrontal cortex	Prefrontal Cortex	NA	Frontopolar Prefrontal Cortex
+GSM2199928	GSE83345	s5_nonneuronal_nuclei	Brain	Frontopolar prefrontal cortex	Non-Neuron	female	90		Bulk ATAC	BA10	Frontopolar prefrontal cortex	Prefrontal Cortex	NA	Frontopolar Prefrontal Cortex
+GSM2199929	GSE83345	s6_nonneuronal_nuclei	Brain	Frontopolar prefrontal cortex	Non-Neuron	female	90		Bulk ATAC	BA10	Frontopolar prefrontal cortex	Prefrontal Cortex	NA	Frontopolar Prefrontal Cortex
+GSM2199930	GSE83345	s7_nonneuronal_nuclei	Brain	Frontopolar prefrontal cortex	Non-Neuron	female	85		Bulk ATAC	BA10	Frontopolar prefrontal cortex	Prefrontal Cortex	NA	Frontopolar Prefrontal Cortex
+GSM2199931	GSE83345	s8_nonneuronal_nuclei	Brain	Frontopolar prefrontal cortex	Non-Neuron	male	93		Bulk ATAC	BA10	Frontopolar prefrontal cortex	Prefrontal Cortex	NA	Frontopolar Prefrontal Cortex
+GSM2536613	GSE96613, GSE96615	5540_ba9_neg_rna-seq_	Brain	prefrontal cortex (BA9)	Non-Neuron			5540	Bulk RNA	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM2536614	GSE96613, GSE96615	5540_ba9_pos_rna-seq_	Brain	prefrontal cortex (BA9)	Neuron			5540	Bulk RNA	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM2536615	GSE96613, GSE96615	5540_nacc_neg_rna-seq_	Brain	nucleus accumbens (NAcc)	Non-Neuron			5540	Bulk RNA		nucleus accumbens	Limbic System	NA	Nucleus Accumbens
+GSM2536616	GSE96613, GSE96615	5540_nacc_pos_rna-seq_	Brain	nucleus accumbens (NAcc)	Neuron			5540	Bulk RNA		nucleus accumbens	Limbic System	NA	Nucleus Accumbens
+GSM2536617	GSE96613, GSE96615	5456_ba9_neg_rna-seq_	Brain	prefrontal cortex (BA9)	Non-Neuron			5456	Bulk RNA	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM2536618	GSE96613, GSE96615	5456_ba9_pos_rna-seq_	Brain	prefrontal cortex (BA9)	Neuron			5456	Bulk RNA	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM2536619	GSE96613, GSE96615	5456_nacc_neg_rna-seq_	Brain	nucleus accumbens (NAcc)	Non-Neuron			5456	Bulk RNA		nucleus accumbens	Limbic System	NA	Nucleus Accumbens
+GSM2536620	GSE96613, GSE96615	5456_nacc_pos_rna-seq_	Brain	nucleus accumbens (NAcc)	Neuron			5456	Bulk RNA		nucleus accumbens	Limbic System	NA	Nucleus Accumbens
+GSM2536621	GSE96613, GSE96615	5343_ba9_neg_rna-seq_	Brain	prefrontal cortex (BA9)	Non-Neuron			5343	Bulk RNA	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM2536622	GSE96613, GSE96615	5343_ba9_pos_rna-seq_	Brain	prefrontal cortex (BA9)	Neuron			5343	Bulk RNA	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM2536623	GSE96613, GSE96615	5343_nacc_neg_rna-seq_	Brain	nucleus accumbens (NAcc)	Non-Neuron			5343	Bulk RNA		nucleus accumbens	Limbic System	NA	Nucleus Accumbens
+GSM2536624	GSE96613, GSE96615	5343_nacc_pos_rna-seq_	Brain	nucleus accumbens (NAcc)	Neuron			5343	Bulk RNA		nucleus accumbens	Limbic System	NA	Nucleus Accumbens
+GSM2536625	GSE96613, GSE96615	5358_ba9_pos_rna-seq_	Brain	prefrontal cortex (BA9)	Neuron			5358	Bulk RNA	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM2536626	GSE96613, GSE96615	5358_nacc_pos_rna-seq_	Brain	nucleus accumbens (NAcc)	Neuron			5358	Bulk RNA		nucleus accumbens	Limbic System	NA	Nucleus Accumbens
+GSM2536627	GSE96613, GSE96615	5404_ba9_neg_rna-seq_	Brain	prefrontal cortex (BA9)	Non-Neuron			5404	Bulk RNA	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM2536628	GSE96613, GSE96615	5404_ba9_pos_rna-seq_	Brain	prefrontal cortex (BA9)	Neuron			5404	Bulk RNA	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM2536629	GSE96613, GSE96615	5347_nacc_neg_rna-seq_	Brain	nucleus accumbens (NAcc)	Non-Neuron			5347	Bulk RNA		nucleus accumbens	Limbic System	NA	Nucleus Accumbens
+GSM2536630	GSE96613, GSE96615	5347_nacc_pos_rna-seq_	Brain	nucleus accumbens (NAcc)	Neuron			5347	Bulk RNA		nucleus accumbens	Limbic System	NA	Nucleus Accumbens
+GSM2536631	GSE96613, GSE96615	5347_ba9_neg_rna-seq_	Brain	prefrontal cortex (BA9)	Non-Neuron			5347	Bulk RNA	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM2536632	GSE96613, GSE96615	5347_ba9_pos_rna-seq_	Brain	prefrontal cortex (BA9)	Neuron			5347	Bulk RNA	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM2581267	GSE97930, GSE97942	occ1	Brain	BA17			23		Single-cell RNA	BA17	BA17	Occipital Lobe	NA	Primary Visual Cortex
+GSM2581268	GSE97930, GSE97942	occ4	Brain	BA17			23		Single-cell RNA	BA17	BA17	Occipital Lobe	NA	Primary Visual Cortex
+GSM2581269	GSE97930, GSE97942	occ5	Brain	BA17			23		Single-cell RNA	BA17	BA17	Occipital Lobe	NA	Primary Visual Cortex
+GSM2581270	GSE97930, GSE97942	occ6	Brain	BA17			23		Single-cell RNA	BA17	BA17	Occipital Lobe	NA	Primary Visual Cortex
+GSM2581271	GSE97930, GSE97942	occ7	Brain	BA17			23		Single-cell RNA	BA17	BA17	Occipital Lobe	NA	Primary Visual Cortex
+GSM2581272	GSE97930, GSE97942	occ8	Brain	BA17			23		Single-cell RNA	BA17	BA17	Occipital Lobe	NA	Primary Visual Cortex
+GSM2581273	GSE97930, GSE97942	occ9	Brain	BA17			23		Single-cell RNA	BA17	BA17	Occipital Lobe	NA	Primary Visual Cortex
+GSM2581274	GSE97930, GSE97942	occ10	Brain	BA17			23		Single-cell RNA	BA17	BA17	Occipital Lobe	NA	Primary Visual Cortex
+GSM2581275	GSE97930, GSE97942	occ11	Brain	BA17			23		Single-cell RNA	BA17	BA17	Occipital Lobe	NA	Primary Visual Cortex
+GSM2581276	GSE97930, GSE97942	occ12	Brain	BA17			23		Single-cell RNA	BA17	BA17	Occipital Lobe	NA	Primary Visual Cortex
+GSM2581277	GSE97930, GSE97942	occ2	Brain	BA17			23		Single-cell RNA	BA17	BA17	Occipital Lobe	NA	Primary Visual Cortex
+GSM2581278	GSE97930, GSE97942	occ3	Brain	BA17			23		Single-cell RNA	BA17	BA17	Occipital Lobe	NA	Primary Visual Cortex
+GSM2581279	GSE97930, GSE97942	fcx1	Brain	BA6			23		Single-cell RNA	BA6	BA6	Frontal Lobe	NA	Premotor Cortex
+GSM2581280	GSE97930, GSE97942	fcx2	Brain	BA6			23		Single-cell RNA	BA6	BA6	Frontal Lobe	NA	Premotor Cortex
+GSM2581281	GSE97930, GSE97942	occ13	Brain	BA17			20		Single-cell RNA	BA17	BA17	Occipital Lobe	NA	Primary Visual Cortex
+GSM2581282	GSE97930, GSE97942	occ14	Brain	BA17			20		Single-cell RNA	BA17	BA17	Occipital Lobe	NA	Primary Visual Cortex
+GSM2581283	GSE97930, GSE97942	occ15	Brain	BA17			20		Single-cell RNA	BA17	BA17	Occipital Lobe	NA	Primary Visual Cortex
+GSM2581284	GSE97930, GSE97942	occ16	Brain	BA17			20		Single-cell RNA	BA17	BA17	Occipital Lobe	NA	Primary Visual Cortex
+GSM2581285	GSE97930, GSE97942	fcx3	Brain	BA6			23		Single-cell RNA	BA6	BA6	Frontal Lobe	NA	Premotor Cortex
+GSM2581286	GSE97930, GSE97942	fcx4	Brain	BA6			23		Single-cell RNA	BA6	BA6	Frontal Lobe	NA	Premotor Cortex
+GSM2581287	GSE97930, GSE97942	fcx5	Brain	BA6			23		Single-cell RNA	BA6	BA6	Frontal Lobe	NA	Premotor Cortex
+GSM2581288	GSE97930, GSE97942	occ17	Brain	BA17			20		Single-cell RNA	BA17	BA17	Occipital Lobe	NA	Primary Visual Cortex
+GSM2581289	GSE97930, GSE97942	fcx6	Brain	BA6			23		Single-cell RNA	BA6	BA6	Frontal Lobe	NA	Premotor Cortex
+GSM2581290	GSE97930, GSE97942	fcx7	Brain	BA6			23		Single-cell RNA	BA6	BA6	Frontal Lobe	NA	Premotor Cortex
+GSM2581291	GSE97930, GSE97942	fcx8	Brain	BA10			49		Single-cell RNA	BA10	BA10	Prefrontal Cortex	NA	Frontopolar Prefrontal Cortex
+GSM2581292	GSE97930, GSE97942	fcx9	Brain	BA10			49		Single-cell RNA	BA10	BA10	Prefrontal Cortex	NA	Frontopolar Prefrontal Cortex
+GSM2581293	GSE97930, GSE97942	occ18	Brain	BA17			49		Single-cell RNA	BA17	BA17	Occipital Lobe	NA	Primary Visual Cortex
+GSM2581294	GSE97930, GSE97942	occ19	Brain	BA17			49		Single-cell RNA	BA17	BA17	Occipital Lobe	NA	Primary Visual Cortex
+GSM2581295	GSE97930, GSE97942	fcx10	Brain	BA10			48		Single-cell RNA	BA10	BA10	Prefrontal Cortex	NA	Frontopolar Prefrontal Cortex
+GSM2581296	GSE97930, GSE97942	fcx11	Brain	BA10			48		Single-cell RNA	BA10	BA10	Prefrontal Cortex	NA	Frontopolar Prefrontal Cortex
+GSM2581297	GSE97930, GSE97942	occ20	Brain	BA17			48		Single-cell RNA	BA17	BA17	Occipital Lobe	NA	Primary Visual Cortex
+GSM2581298	GSE97930, GSE97942	occ21	Brain	BA17			48		Single-cell RNA	BA17	BA17	Occipital Lobe	NA	Primary Visual Cortex
+GSM2734253	GSE97930, GSE97942	cbm1	Brain	Cerebellar Hemisphere			49		Single-cell RNA		Cerebellar Hemisphere	Cerebellum	NA	NA
+GSM2734254	GSE97930, GSE97942	cbm2	Brain	Cerebellar Hemisphere			49		Single-cell RNA		Cerebellar Hemisphere	Cerebellum	NA	NA
+GSM2734255	GSE97930, GSE97942	cbm3	Brain	Cerebellar Hemisphere			48		Single-cell RNA		Cerebellar Hemisphere	Cerebellum	NA	NA
+GSM2734256	GSE97930, GSE97942	cbm4	Brain	Cerebellar Hemisphere			48		Single-cell RNA		Cerebellar Hemisphere	Cerebellum	NA	NA
+GSM2734257	GSE97930, GSE97942	occ22	Brain	BA17			35		Single-cell RNA	BA17	BA17	Occipital Lobe	NA	Primary Visual Cortex
+GSM2734258	GSE97930, GSE97942	occ23	Brain	BA17			35		Single-cell RNA	BA17	BA17	Occipital Lobe	NA	Primary Visual Cortex
+GSM2734259	GSE97930, GSE97942	occ24	Brain	BA17			35		Single-cell RNA	BA17	BA17	Occipital Lobe	NA	Primary Visual Cortex
+GSM2734260	GSE97930, GSE97942	cbm5	Brain	Cerebellar Hemisphere			35		Single-cell RNA		Cerebellar Hemisphere	Cerebellum	NA	NA
+GSM2734261	GSE97930, GSE97942	cbm6	Brain	Cerebellar Hemisphere			35		Single-cell RNA		Cerebellar Hemisphere	Cerebellum	NA	NA
+GSM2734262	GSE97930, GSE97942	cbm7	Brain	Cerebellar Hemisphere			35		Single-cell RNA		Cerebellar Hemisphere	Cerebellum	NA	NA
+GSM2734263	GSE97930, GSE97942	fcx12	Brain	BA10			35		Single-cell RNA	BA10	BA10	Prefrontal Cortex	NA	Frontopolar Prefrontal Cortex
+GSM2734264	GSE97930, GSE97942	fcx13	Brain	BA10			35		Single-cell RNA	BA10	BA10	Prefrontal Cortex	NA	Frontopolar Prefrontal Cortex
+GSM2734265	GSE97930, GSE97942	cbm8	Brain	Cerebellar Hemisphere			49		Single-cell RNA		Cerebellar Hemisphere	Cerebellum	NA	NA
+GSM2734266	GSE97930, GSE97942	cbm9	Brain	Cerebellar Hemisphere			49		Single-cell RNA		Cerebellar Hemisphere	Cerebellum	NA	NA
+GSM3692190	GSE129040, GSE129041	c13_atac-seq_	Brain	brain prefrontal cortex region tissues		male	69		Bulk ATAC		brain prefrontal cortex region tissues	Prefrontal Cortex	NA	NA
+GSM3692190	GSE129040, GSE129041	c13_atac-seq_	Brain	brain prefrontal cortex region tissues		male	69		Bulk ATAC		brain prefrontal cortex region tissues	Prefrontal Cortex	NA	NA
+GSM3692190	GSE129040, GSE129041	c13_atac-seq_	Brain			male	69		Bulk ATAC			Other	NA	NA
+GSM3692190	GSE129040, GSE129041	c13_atac-seq_	Brain			male	69		Bulk ATAC			Other	NA	NA
+GSM3692191	GSE129040, GSE129041	c13b_atac-seq_	Brain	brain prefrontal cortex region tissues		female	95		Bulk ATAC		brain prefrontal cortex region tissues	Prefrontal Cortex	NA	NA
+GSM3692191	GSE129040, GSE129041	c13b_atac-seq_	Brain	brain prefrontal cortex region tissues		female	95		Bulk ATAC		brain prefrontal cortex region tissues	Prefrontal Cortex	NA	NA
+GSM3692191	GSE129040, GSE129041	c13b_atac-seq_	Brain			female	95		Bulk ATAC			Other	NA	NA
+GSM3692191	GSE129040, GSE129041	c13b_atac-seq_	Brain			female	95		Bulk ATAC			Other	NA	NA
+GSM3692192	GSE129040, GSE129041	c23b_atac-seq_	Brain	brain prefrontal cortex region tissues		male	86		Bulk ATAC		brain prefrontal cortex region tissues	Prefrontal Cortex	NA	NA
+GSM3692192	GSE129040, GSE129041	c23b_atac-seq_	Brain	brain prefrontal cortex region tissues		male	86		Bulk ATAC		brain prefrontal cortex region tissues	Prefrontal Cortex	NA	NA
+GSM3692192	GSE129040, GSE129041	c23b_atac-seq_	Brain			male	86		Bulk ATAC			Other	NA	NA
+GSM3692192	GSE129040, GSE129041	c23b_atac-seq_	Brain			male	86		Bulk ATAC			Other	NA	NA
+GSM3692193	GSE129040, GSE129041	c25_atac-seq_	Brain	brain prefrontal cortex region tissues		male	74		Bulk ATAC		brain prefrontal cortex region tissues	Prefrontal Cortex	NA	NA
+GSM3692193	GSE129040, GSE129041	c25_atac-seq_	Brain	brain prefrontal cortex region tissues		male	74		Bulk ATAC		brain prefrontal cortex region tissues	Prefrontal Cortex	NA	NA
+GSM3692193	GSE129040, GSE129041	c25_atac-seq_	Brain			male	74		Bulk ATAC			Other	NA	NA
+GSM3692193	GSE129040, GSE129041	c25_atac-seq_	Brain			male	74		Bulk ATAC			Other	NA	NA
+GSM3692194	GSE129040, GSE129041	c31_atac-seq_	Brain	brain prefrontal cortex region tissues		male	80		Bulk ATAC		brain prefrontal cortex region tissues	Prefrontal Cortex	NA	NA
+GSM3692194	GSE129040, GSE129041	c31_atac-seq_	Brain	brain prefrontal cortex region tissues		male	80		Bulk ATAC		brain prefrontal cortex region tissues	Prefrontal Cortex	NA	NA
+GSM3692194	GSE129040, GSE129041	c31_atac-seq_	Brain			male	80		Bulk ATAC			Other	NA	NA
+GSM3692194	GSE129040, GSE129041	c31_atac-seq_	Brain			male	80		Bulk ATAC			Other	NA	NA
+GSM3692195	GSE129040, GSE129041	c31b_atac-seq_	Brain	brain prefrontal cortex region tissues		male	93		Bulk ATAC		brain prefrontal cortex region tissues	Prefrontal Cortex	NA	NA
+GSM3692195	GSE129040, GSE129041	c31b_atac-seq_	Brain	brain prefrontal cortex region tissues		male	93		Bulk ATAC		brain prefrontal cortex region tissues	Prefrontal Cortex	NA	NA
+GSM3692195	GSE129040, GSE129041	c31b_atac-seq_	Brain			male	93		Bulk ATAC			Other	NA	NA
+GSM3692195	GSE129040, GSE129041	c31b_atac-seq_	Brain			male	93		Bulk ATAC			Other	NA	NA
+GSM3732008	GSE130105, GSE130119	control1_ham737_	Brain						Bulk RNA			Other	NA	NA
+GSM3732009	GSE130105, GSE130119	control2_ham738_	Brain						Bulk RNA			Other	NA	NA
+GSM3732010	GSE130105, GSE130119	control3_opk363nc_	Brain						Bulk RNA			Other	NA	NA
+GSM3755479	GSE130871	human_whitematter_rnaseq_1	Brain	White Matter					Bulk RNA		White Matter	NA	NA	NA
+GSM3755480	GSE130871	human_whitematter_rnaseq_2	Brain	White Matter					Bulk RNA		White Matter	NA	NA	NA
+GSM4002810	GSE130105, GSE130119	control4	Brain						Bulk RNA			Other	NA	NA
+GSM4002811	GSE130105, GSE130119	control5	Brain						Bulk RNA			Other	NA	NA
+GSM4089132	GSE130871	human_prefrontalcortex_neunnegative_atac_1	Brain	Human Prefrontal Cortex					Bulk ATAC		Human Prefrontal Cortex	Prefrontal Cortex	NA	NA
+GSM4089133	GSE130871	human_prefrontalcortex_neunpositive_atac_1	Brain	Human Prefrontal Cortex					Bulk ATAC		Human Prefrontal Cortex	Prefrontal Cortex	NA	NA
+GSM4089134	GSE130871	human_prefrontalcortex_neunnegative_atac_2	Brain	Human Prefrontal Cortex					Bulk ATAC		Human Prefrontal Cortex	Prefrontal Cortex	NA	NA
+GSM4089135	GSE130871	human_prefrontalcortex_neunpositive_atac_2	Brain	Human Prefrontal Cortex					Bulk ATAC		Human Prefrontal Cortex	Prefrontal Cortex	NA	NA
+GSM4271825	GSE143666	s2_glu_acc	Brain	anterior cingulate cortex	glutamatergic neurons	male	20		Bulk ATAC	BA24,32,33	anterior cingulate cortex	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM4271826	GSE143666	s4_glu_acc	Brain	anterior cingulate cortex	glutamatergic neurons	female	22		Bulk ATAC	BA24,32,33	anterior cingulate cortex	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM4271827	GSE143666	s1_glu_acc	Brain	anterior cingulate cortex	glutamatergic neurons	male	22		Bulk ATAC	BA24,32,33	anterior cingulate cortex	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM4271828	GSE143666	s3_glu_acc	Brain	anterior cingulate cortex	glutamatergic neurons	male	28		Bulk ATAC	BA24,32,33	anterior cingulate cortex	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM4271829	GSE143666	s2_glu_dlpfc	Brain	dorsolateral prefrontal cortex	glutamatergic neurons	male	20		Bulk ATAC	BA8,9,46	dorsolateral prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM4271830	GSE143666	s1_glu_dlpfc	Brain	dorsolateral prefrontal cortex	glutamatergic neurons	male	22		Bulk ATAC	BA8,9,46	dorsolateral prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM4271831	GSE143666	s4_glu_dlpfc	Brain	dorsolateral prefrontal cortex	glutamatergic neurons	female	22		Bulk ATAC	BA8,9,46	dorsolateral prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM4271832	GSE143666	s3_glu_dlpfc	Brain	dorsolateral prefrontal cortex	glutamatergic neurons	male	28		Bulk ATAC	BA8,9,46	dorsolateral prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM4271833	GSE143666	s3_glu_pvc	Brain	primary visual cortex	glutamatergic neurons	male	28		Bulk ATAC	BA17	primary visual cortex	Occipital Lobe	NA	Primary Visual Cortex
+GSM4271834	GSE143666	s2_glu_pvc	Brain	primary visual cortex	glutamatergic neurons	male	20		Bulk ATAC	BA17	primary visual cortex	Occipital Lobe	NA	Primary Visual Cortex
+GSM4271835	GSE143666	s4_glu_pvc	Brain	primary visual cortex	glutamatergic neurons	female	22		Bulk ATAC	BA17	primary visual cortex	Occipital Lobe	NA	Primary Visual Cortex
+GSM4271836	GSE143666	s1_glu_pvc	Brain	primary visual cortex	glutamatergic neurons	male	22		Bulk ATAC	BA17	primary visual cortex	Occipital Lobe	NA	Primary Visual Cortex
+GSM4271837	GSE143666	s3_gaba_acc	Brain	anterior cingulate cortex	GABAergic neurons	male	28		Bulk ATAC	BA24,32,33	anterior cingulate cortex	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM4271838	GSE143666	s4_gaba_acc	Brain	anterior cingulate cortex	GABAergic neurons	female	22		Bulk ATAC	BA24,32,33	anterior cingulate cortex	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM4271839	GSE143666	s1_gaba_acc	Brain	anterior cingulate cortex	GABAergic neurons	male	22		Bulk ATAC	BA24,32,33	anterior cingulate cortex	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM4271840	GSE143666	s4_gaba_dlpfc	Brain	dorsolateral prefrontal cortex	GABAergic neurons	female	22		Bulk ATAC	BA8,9,46	dorsolateral prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM4271841	GSE143666	s2_gaba_dlpfc	Brain	dorsolateral prefrontal cortex	GABAergic neurons	male	20		Bulk ATAC	BA8,9,46	dorsolateral prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM4271842	GSE143666	s3_gaba_dlpfc	Brain	dorsolateral prefrontal cortex	GABAergic neurons	male	28		Bulk ATAC	BA8,9,46	dorsolateral prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM4271843	GSE143666	s1_gaba_dlpfc	Brain	dorsolateral prefrontal cortex	GABAergic neurons	male	22		Bulk ATAC	BA8,9,46	dorsolateral prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM4271844	GSE143666	s3_gaba_pvc	Brain	primary visual cortex	GABAergic neurons	male	28		Bulk ATAC	BA17	primary visual cortex	Occipital Lobe	NA	Primary Visual Cortex
+GSM4271845	GSE143666	s4_gaba_pvc	Brain	primary visual cortex	GABAergic neurons	female	22		Bulk ATAC	BA17	primary visual cortex	Occipital Lobe	NA	Primary Visual Cortex
+GSM4271846	GSE143666	s1_gaba_pvc	Brain	primary visual cortex	GABAergic neurons	male	22		Bulk ATAC	BA17	primary visual cortex	Occipital Lobe	NA	Primary Visual Cortex
+GSM4271847	GSE143666	s2_gaba_pvc	Brain	primary visual cortex	GABAergic neurons	male	20		Bulk ATAC	BA17	primary visual cortex	Occipital Lobe	NA	Primary Visual Cortex
+GSM4271848	GSE143666	s2_olig_acc	Brain	anterior cingulate cortex	Oligodendrocyte	male	20		Bulk ATAC	BA24,32,33	anterior cingulate cortex	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM4271849	GSE143666	s1_olig_acc	Brain	anterior cingulate cortex	Oligodendrocyte	male	22		Bulk ATAC	BA24,32,33	anterior cingulate cortex	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM4271850	GSE143666	s3_olig_acc	Brain	anterior cingulate cortex	Oligodendrocyte	male	28		Bulk ATAC	BA24,32,33	anterior cingulate cortex	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM4271851	GSE143666	s4_olig_acc	Brain	anterior cingulate cortex	Oligodendrocyte	female	22		Bulk ATAC	BA24,32,33	anterior cingulate cortex	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM4271852	GSE143666	s2_olig_dlpfc	Brain	dorsolateral prefrontal cortex	Oligodendrocyte	male	20		Bulk ATAC	BA8,9,46	dorsolateral prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM4271853	GSE143666	s1_olig_dlpfc	Brain	dorsolateral prefrontal cortex	Oligodendrocyte	male	22		Bulk ATAC	BA8,9,46	dorsolateral prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM4271854	GSE143666	s3_olig_dlpfc	Brain	dorsolateral prefrontal cortex	Oligodendrocyte	male	28		Bulk ATAC	BA8,9,46	dorsolateral prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM4271855	GSE143666	s4_olig_dlpfc	Brain	dorsolateral prefrontal cortex	Oligodendrocyte	female	22		Bulk ATAC	BA8,9,46	dorsolateral prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM4271856	GSE143666	s1_olig_pvc	Brain	primary visual cortex	Oligodendrocyte	male	22		Bulk ATAC	BA17	primary visual cortex	Occipital Lobe	NA	Primary Visual Cortex
+GSM4271857	GSE143666	s3_olig_pvc	Brain	primary visual cortex	Oligodendrocyte	male	28		Bulk ATAC	BA17	primary visual cortex	Occipital Lobe	NA	Primary Visual Cortex
+GSM4271858	GSE143666	s2_olig_pvc	Brain	primary visual cortex	Oligodendrocyte	male	20		Bulk ATAC	BA17	primary visual cortex	Occipital Lobe	NA	Primary Visual Cortex
+GSM4271859	GSE143666	s4_olig_pvc	Brain	primary visual cortex	Oligodendrocyte	female	22		Bulk ATAC	BA17	primary visual cortex	Occipital Lobe	NA	Primary Visual Cortex
+GSM4271860	GSE143666	s1_mgas_acc	Brain	anterior cingulate cortex	microglia and astrocytes	male	22		Bulk ATAC	BA24,32,33	anterior cingulate cortex	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM4271861	GSE143666	s3_mgas_acc	Brain	anterior cingulate cortex	microglia and astrocytes	male	28		Bulk ATAC	BA24,32,33	anterior cingulate cortex	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM4271862	GSE143666	s2_mgas_acc	Brain	anterior cingulate cortex	microglia and astrocytes	male	20		Bulk ATAC	BA24,32,33	anterior cingulate cortex	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM4271863	GSE143666	s4_mgas_acc	Brain	anterior cingulate cortex	microglia and astrocytes	female	22		Bulk ATAC	BA24,32,33	anterior cingulate cortex	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM4271864	GSE143666	s4_mgas_dlpfc	Brain	dorsolateral prefrontal cortex	microglia and astrocytes	female	22		Bulk ATAC	BA8,9,46	dorsolateral prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM4271865	GSE143666	s1_mgas_dlpfc	Brain	dorsolateral prefrontal cortex	microglia and astrocytes	male	22		Bulk ATAC	BA8,9,46	dorsolateral prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM4271866	GSE143666	s2_mgas_dlpfc	Brain	dorsolateral prefrontal cortex	microglia and astrocytes	male	20		Bulk ATAC	BA8,9,46	dorsolateral prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM4271867	GSE143666	s3_mgas_dlpfc	Brain	dorsolateral prefrontal cortex	microglia and astrocytes	male	28		Bulk ATAC	BA8,9,46	dorsolateral prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM4271868	GSE143666	s1_mgas_pvc	Brain	primary visual cortex	microglia and astrocytes	male	22		Bulk ATAC	BA17	primary visual cortex	Occipital Lobe	NA	Primary Visual Cortex
+GSM4271869	GSE143666	s3_mgas_pvc	Brain	primary visual cortex	microglia and astrocytes	male	28		Bulk ATAC	BA17	primary visual cortex	Occipital Lobe	NA	Primary Visual Cortex
+GSM4271870	GSE143666	s4_mgas_pvc	Brain	primary visual cortex	microglia and astrocytes	female	22		Bulk ATAC	BA17	primary visual cortex	Occipital Lobe	NA	Primary Visual Cortex
+GSM4271871	GSE143666	s2_mgas_pvc	Brain	primary visual cortex	microglia and astrocytes	male	20		Bulk ATAC	BA17	primary visual cortex	Occipital Lobe	NA	Primary Visual Cortex
+GSM4441680	GSE147672	bulkatac_control_caudate_1	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441681	GSE147672	bulkatac_control_caudate_10	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441682	GSE147672	bulkatac_control_caudate_11	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441683	GSE147672	bulkatac_control_caudate_12	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441684	GSE147672	bulkatac_control_caudate_13	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441685	GSE147672	bulkatac_control_caudate_14	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441686	GSE147672	bulkatac_control_caudate_15	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441687	GSE147672	bulkatac_control_caudate_16	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441688	GSE147672	bulkatac_control_caudate_17	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441689	GSE147672	bulkatac_control_caudate_18	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441690	GSE147672	bulkatac_control_caudate_19	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441691	GSE147672	bulkatac_control_caudate_2	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441692	GSE147672	bulkatac_control_caudate_20	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441693	GSE147672	bulkatac_control_caudate_21	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441694	GSE147672	bulkatac_control_caudate_22	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441695	GSE147672	bulkatac_control_caudate_23	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441696	GSE147672	bulkatac_control_caudate_24	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441697	GSE147672	bulkatac_control_caudate_25	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441698	GSE147672	bulkatac_control_caudate_26	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441699	GSE147672	bulkatac_control_caudate_27	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441700	GSE147672	bulkatac_control_caudate_28	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441701	GSE147672	bulkatac_control_caudate_29	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441702	GSE147672	bulkatac_control_caudate_3	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441703	GSE147672	bulkatac_control_caudate_30	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441704	GSE147672	bulkatac_control_caudate_31	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441705	GSE147672	bulkatac_control_caudate_32	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441706	GSE147672	bulkatac_control_caudate_4	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441707	GSE147672	bulkatac_control_caudate_5	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441708	GSE147672	bulkatac_control_caudate_6	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441709	GSE147672	bulkatac_control_caudate_7	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441710	GSE147672	bulkatac_control_caudate_8	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441711	GSE147672	bulkatac_control_caudate_9	Brain	Caudate					Bulk ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441712	GSE147672	bulkatac_control_hippocampus_1	Brain	Hippocampus					Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM4441713	GSE147672	bulkatac_control_hippocampus_10	Brain	Hippocampus					Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM4441714	GSE147672	bulkatac_control_hippocampus_11	Brain	Hippocampus					Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM4441715	GSE147672	bulkatac_control_hippocampus_12	Brain	Hippocampus					Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM4441716	GSE147672	bulkatac_control_hippocampus_13	Brain	Hippocampus					Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM4441717	GSE147672	bulkatac_control_hippocampus_14	Brain	Hippocampus					Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM4441718	GSE147672	bulkatac_control_hippocampus_15	Brain	Hippocampus					Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM4441719	GSE147672	bulkatac_control_hippocampus_16	Brain	Hippocampus					Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM4441720	GSE147672	bulkatac_control_hippocampus_17	Brain	Hippocampus					Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM4441721	GSE147672	bulkatac_control_hippocampus_18	Brain	Hippocampus					Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM4441722	GSE147672	bulkatac_control_hippocampus_19	Brain	Hippocampus					Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM4441723	GSE147672	bulkatac_control_hippocampus_2	Brain	Hippocampus					Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM4441724	GSE147672	bulkatac_control_hippocampus_20	Brain	Hippocampus					Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM4441725	GSE147672	bulkatac_control_hippocampus_21	Brain	Hippocampus					Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM4441726	GSE147672	bulkatac_control_hippocampus_22	Brain	Hippocampus					Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM4441727	GSE147672	bulkatac_control_hippocampus_3	Brain	Hippocampus					Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM4441728	GSE147672	bulkatac_control_hippocampus_4	Brain	Hippocampus					Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM4441729	GSE147672	bulkatac_control_hippocampus_5	Brain	Hippocampus					Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM4441730	GSE147672	bulkatac_control_hippocampus_6	Brain	Hippocampus					Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM4441731	GSE147672	bulkatac_control_hippocampus_7	Brain	Hippocampus					Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM4441732	GSE147672	bulkatac_control_hippocampus_8	Brain	Hippocampus					Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM4441733	GSE147672	bulkatac_control_hippocampus_9	Brain	Hippocampus					Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM4441734	GSE147672	bulkatac_control_middle_frontal_gyrus_1	Brain	Middle Frontal Gyrus					Bulk ATAC		Middle Frontal Gyrus	Frontal Lobe	NA	Middle Frontal Gyrus
+GSM4441735	GSE147672	bulkatac_control_middle_frontal_gyrus_10	Brain	Middle Frontal Gyrus					Bulk ATAC		Middle Frontal Gyrus	Frontal Lobe	NA	Middle Frontal Gyrus
+GSM4441736	GSE147672	bulkatac_control_middle_frontal_gyrus_11	Brain	Middle Frontal Gyrus					Bulk ATAC		Middle Frontal Gyrus	Frontal Lobe	NA	Middle Frontal Gyrus
+GSM4441737	GSE147672	bulkatac_control_middle_frontal_gyrus_12	Brain	Middle Frontal Gyrus					Bulk ATAC		Middle Frontal Gyrus	Frontal Lobe	NA	Middle Frontal Gyrus
+GSM4441738	GSE147672	bulkatac_control_middle_frontal_gyrus_2	Brain	Middle Frontal Gyrus					Bulk ATAC		Middle Frontal Gyrus	Frontal Lobe	NA	Middle Frontal Gyrus
+GSM4441739	GSE147672	bulkatac_control_middle_frontal_gyrus_3	Brain	Middle Frontal Gyrus					Bulk ATAC		Middle Frontal Gyrus	Frontal Lobe	NA	Middle Frontal Gyrus
+GSM4441740	GSE147672	bulkatac_control_middle_frontal_gyrus_4	Brain	Middle Frontal Gyrus					Bulk ATAC		Middle Frontal Gyrus	Frontal Lobe	NA	Middle Frontal Gyrus
+GSM4441741	GSE147672	bulkatac_control_middle_frontal_gyrus_5	Brain	Middle Frontal Gyrus					Bulk ATAC		Middle Frontal Gyrus	Frontal Lobe	NA	Middle Frontal Gyrus
+GSM4441742	GSE147672	bulkatac_control_middle_frontal_gyrus_6	Brain	Middle Frontal Gyrus					Bulk ATAC		Middle Frontal Gyrus	Frontal Lobe	NA	Middle Frontal Gyrus
+GSM4441743	GSE147672	bulkatac_control_middle_frontal_gyrus_7	Brain	Middle Frontal Gyrus					Bulk ATAC		Middle Frontal Gyrus	Frontal Lobe	NA	Middle Frontal Gyrus
+GSM4441744	GSE147672	bulkatac_control_middle_frontal_gyrus_8	Brain	Middle Frontal Gyrus					Bulk ATAC		Middle Frontal Gyrus	Frontal Lobe	NA	Middle Frontal Gyrus
+GSM4441745	GSE147672	bulkatac_control_middle_frontal_gyrus_9	Brain	Middle Frontal Gyrus					Bulk ATAC		Middle Frontal Gyrus	Frontal Lobe	NA	Middle Frontal Gyrus
+GSM4441746	GSE147672	bulkatac_control_middle_temporal_gyri_1	Brain	Middle Temporal Gyri					Bulk ATAC	BA21	Middle Temporal Gyri	Temporal Lobe	NA	Middle Temporal Gyrus
+GSM4441747	GSE147672	bulkatac_control_middle_temporal_gyri_10	Brain	Middle Temporal Gyri					Bulk ATAC	BA21	Middle Temporal Gyri	Temporal Lobe	NA	Middle Temporal Gyrus
+GSM4441748	GSE147672	bulkatac_control_middle_temporal_gyri_11	Brain	Middle Temporal Gyri					Bulk ATAC	BA21	Middle Temporal Gyri	Temporal Lobe	NA	Middle Temporal Gyrus
+GSM4441749	GSE147672	bulkatac_control_middle_temporal_gyri_12	Brain	Middle Temporal Gyri					Bulk ATAC	BA21	Middle Temporal Gyri	Temporal Lobe	NA	Middle Temporal Gyrus
+GSM4441750	GSE147672	bulkatac_control_middle_temporal_gyri_2	Brain	Middle Temporal Gyri					Bulk ATAC	BA21	Middle Temporal Gyri	Temporal Lobe	NA	Middle Temporal Gyrus
+GSM4441751	GSE147672	bulkatac_control_middle_temporal_gyri_3	Brain	Middle Temporal Gyri					Bulk ATAC	BA21	Middle Temporal Gyri	Temporal Lobe	NA	Middle Temporal Gyrus
+GSM4441752	GSE147672	bulkatac_control_middle_temporal_gyri_4	Brain	Middle Temporal Gyri					Bulk ATAC	BA21	Middle Temporal Gyri	Temporal Lobe	NA	Middle Temporal Gyrus
+GSM4441753	GSE147672	bulkatac_control_middle_temporal_gyri_5	Brain	Middle Temporal Gyri					Bulk ATAC	BA21	Middle Temporal Gyri	Temporal Lobe	NA	Middle Temporal Gyrus
+GSM4441754	GSE147672	bulkatac_control_middle_temporal_gyri_6	Brain	Middle Temporal Gyri					Bulk ATAC	BA21	Middle Temporal Gyri	Temporal Lobe	NA	Middle Temporal Gyrus
+GSM4441755	GSE147672	bulkatac_control_middle_temporal_gyri_7	Brain	Middle Temporal Gyri					Bulk ATAC	BA21	Middle Temporal Gyri	Temporal Lobe	NA	Middle Temporal Gyrus
+GSM4441756	GSE147672	bulkatac_control_middle_temporal_gyri_8	Brain	Middle Temporal Gyri					Bulk ATAC	BA21	Middle Temporal Gyri	Temporal Lobe	NA	Middle Temporal Gyrus
+GSM4441757	GSE147672	bulkatac_control_middle_temporal_gyri_9	Brain	Middle Temporal Gyri					Bulk ATAC	BA21	Middle Temporal Gyri	Temporal Lobe	NA	Middle Temporal Gyrus
+GSM4441758	GSE147672	bulkatac_control_parietal_lobe_1	Brain	Parietal Lobe					Bulk ATAC		Parietal Lobe	Parietal Lobe	NA	NA
+GSM4441759	GSE147672	bulkatac_control_parietal_lobe_10	Brain	Parietal Lobe					Bulk ATAC		Parietal Lobe	Parietal Lobe	NA	NA
+GSM4441760	GSE147672	bulkatac_control_parietal_lobe_11	Brain	Parietal Lobe					Bulk ATAC		Parietal Lobe	Parietal Lobe	NA	NA
+GSM4441761	GSE147672	bulkatac_control_parietal_lobe_12	Brain	Parietal Lobe					Bulk ATAC		Parietal Lobe	Parietal Lobe	NA	NA
+GSM4441762	GSE147672	bulkatac_control_parietal_lobe_13	Brain	Parietal Lobe					Bulk ATAC		Parietal Lobe	Parietal Lobe	NA	NA
+GSM4441763	GSE147672	bulkatac_control_parietal_lobe_14	Brain	Parietal Lobe					Bulk ATAC		Parietal Lobe	Parietal Lobe	NA	NA
+GSM4441764	GSE147672	bulkatac_control_parietal_lobe_15	Brain	Parietal Lobe					Bulk ATAC		Parietal Lobe	Parietal Lobe	NA	NA
+GSM4441765	GSE147672	bulkatac_control_parietal_lobe_16	Brain	Parietal Lobe					Bulk ATAC		Parietal Lobe	Parietal Lobe	NA	NA
+GSM4441766	GSE147672	bulkatac_control_parietal_lobe_17	Brain	Parietal Lobe					Bulk ATAC		Parietal Lobe	Parietal Lobe	NA	NA
+GSM4441767	GSE147672	bulkatac_control_parietal_lobe_18	Brain	Parietal Lobe					Bulk ATAC		Parietal Lobe	Parietal Lobe	NA	NA
+GSM4441768	GSE147672	bulkatac_control_parietal_lobe_2	Brain	Parietal Lobe					Bulk ATAC		Parietal Lobe	Parietal Lobe	NA	NA
+GSM4441769	GSE147672	bulkatac_control_parietal_lobe_3	Brain	Parietal Lobe					Bulk ATAC		Parietal Lobe	Parietal Lobe	NA	NA
+GSM4441770	GSE147672	bulkatac_control_parietal_lobe_4	Brain	Parietal Lobe					Bulk ATAC		Parietal Lobe	Parietal Lobe	NA	NA
+GSM4441771	GSE147672	bulkatac_control_parietal_lobe_5	Brain	Parietal Lobe					Bulk ATAC		Parietal Lobe	Parietal Lobe	NA	NA
+GSM4441772	GSE147672	bulkatac_control_parietal_lobe_6	Brain	Parietal Lobe					Bulk ATAC		Parietal Lobe	Parietal Lobe	NA	NA
+GSM4441773	GSE147672	bulkatac_control_parietal_lobe_7	Brain	Parietal Lobe					Bulk ATAC		Parietal Lobe	Parietal Lobe	NA	NA
+GSM4441774	GSE147672	bulkatac_control_parietal_lobe_8	Brain	Parietal Lobe					Bulk ATAC		Parietal Lobe	Parietal Lobe	NA	NA
+GSM4441775	GSE147672	bulkatac_control_parietal_lobe_9	Brain	Parietal Lobe					Bulk ATAC		Parietal Lobe	Parietal Lobe	NA	NA
+GSM4441776	GSE147672	bulkatac_control_putamen_1	Brain	Putamen					Bulk ATAC		Putamen	Basal Nucleus	Corpus Striatum	Putamen
+GSM4441777	GSE147672	bulkatac_control_putamen_10	Brain	Putamen					Bulk ATAC		Putamen	Basal Nucleus	Corpus Striatum	Putamen
+GSM4441778	GSE147672	bulkatac_control_putamen_11	Brain	Putamen					Bulk ATAC		Putamen	Basal Nucleus	Corpus Striatum	Putamen
+GSM4441779	GSE147672	bulkatac_control_putamen_2	Brain	Putamen					Bulk ATAC		Putamen	Basal Nucleus	Corpus Striatum	Putamen
+GSM4441780	GSE147672	bulkatac_control_putamen_3	Brain	Putamen					Bulk ATAC		Putamen	Basal Nucleus	Corpus Striatum	Putamen
+GSM4441781	GSE147672	bulkatac_control_putamen_4	Brain	Putamen					Bulk ATAC		Putamen	Basal Nucleus	Corpus Striatum	Putamen
+GSM4441782	GSE147672	bulkatac_control_putamen_5	Brain	Putamen					Bulk ATAC		Putamen	Basal Nucleus	Corpus Striatum	Putamen
+GSM4441783	GSE147672	bulkatac_control_putamen_6	Brain	Putamen					Bulk ATAC		Putamen	Basal Nucleus	Corpus Striatum	Putamen
+GSM4441784	GSE147672	bulkatac_control_putamen_7	Brain	Putamen					Bulk ATAC		Putamen	Basal Nucleus	Corpus Striatum	Putamen
+GSM4441785	GSE147672	bulkatac_control_putamen_8	Brain	Putamen					Bulk ATAC		Putamen	Basal Nucleus	Corpus Striatum	Putamen
+GSM4441786	GSE147672	bulkatac_control_putamen_9	Brain	Putamen					Bulk ATAC		Putamen	Basal Nucleus	Corpus Striatum	Putamen
+GSM4441787	GSE147672	bulkatac_control_substantia_nigra_1	Brain	Substantia Nigra					Bulk ATAC		Substantia Nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM4441788	GSE147672	bulkatac_control_substantia_nigra_10	Brain	Substantia Nigra					Bulk ATAC		Substantia Nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM4441789	GSE147672	bulkatac_control_substantia_nigra_11	Brain	Substantia Nigra					Bulk ATAC		Substantia Nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM4441790	GSE147672	bulkatac_control_substantia_nigra_12	Brain	Substantia Nigra					Bulk ATAC		Substantia Nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM4441791	GSE147672	bulkatac_control_substantia_nigra_13	Brain	Substantia Nigra					Bulk ATAC		Substantia Nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM4441792	GSE147672	bulkatac_control_substantia_nigra_14	Brain	Substantia Nigra					Bulk ATAC		Substantia Nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM4441793	GSE147672	bulkatac_control_substantia_nigra_2	Brain	Substantia Nigra					Bulk ATAC		Substantia Nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM4441794	GSE147672	bulkatac_control_substantia_nigra_3	Brain	Substantia Nigra					Bulk ATAC		Substantia Nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM4441795	GSE147672	bulkatac_control_substantia_nigra_4	Brain	Substantia Nigra					Bulk ATAC		Substantia Nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM4441796	GSE147672	bulkatac_control_substantia_nigra_5	Brain	Substantia Nigra					Bulk ATAC		Substantia Nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM4441797	GSE147672	bulkatac_control_substantia_nigra_6	Brain	Substantia Nigra					Bulk ATAC		Substantia Nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM4441798	GSE147672	bulkatac_control_substantia_nigra_7	Brain	Substantia Nigra					Bulk ATAC		Substantia Nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM4441799	GSE147672	bulkatac_control_substantia_nigra_8	Brain	Substantia Nigra					Bulk ATAC		Substantia Nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM4441800	GSE147672	bulkatac_control_substantia_nigra_9	Brain	Substantia Nigra					Bulk ATAC		Substantia Nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM4441801	GSE147672	bulkatac_control_superior_and_middle_temporal_gyri_1	Brain	Superior Temporal Gyri					Bulk ATAC	BA22,41,42	Superior Temporal Gyri	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM4441802	GSE147672	bulkatac_control_superior_and_middle_temporal_gyri_10	Brain	Superior Temporal Gyri					Bulk ATAC	BA22,41,42	Superior Temporal Gyri	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM4441803	GSE147672	bulkatac_control_superior_and_middle_temporal_gyri_11	Brain	Superior Temporal Gyri					Bulk ATAC	BA22,41,42	Superior Temporal Gyri	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM4441804	GSE147672	bulkatac_control_superior_and_middle_temporal_gyri_12	Brain	Superior Temporal Gyri					Bulk ATAC	BA22,41,42	Superior Temporal Gyri	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM4441805	GSE147672	bulkatac_control_superior_and_middle_temporal_gyri_13	Brain	Superior Temporal Gyri					Bulk ATAC	BA22,41,42	Superior Temporal Gyri	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM4441806	GSE147672	bulkatac_control_superior_and_middle_temporal_gyri_14	Brain	Superior Temporal Gyri					Bulk ATAC	BA22,41,42	Superior Temporal Gyri	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM4441807	GSE147672	bulkatac_control_superior_and_middle_temporal_gyri_15	Brain	Superior Temporal Gyri					Bulk ATAC	BA22,41,42	Superior Temporal Gyri	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM4441808	GSE147672	bulkatac_control_superior_and_middle_temporal_gyri_16	Brain	Superior Temporal Gyri					Bulk ATAC	BA22,41,42	Superior Temporal Gyri	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM4441809	GSE147672	bulkatac_control_superior_and_middle_temporal_gyri_17	Brain	Superior Temporal Gyri					Bulk ATAC	BA22,41,42	Superior Temporal Gyri	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM4441810	GSE147672	bulkatac_control_superior_and_middle_temporal_gyri_18	Brain	Superior Temporal Gyri					Bulk ATAC	BA22,41,42	Superior Temporal Gyri	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM4441811	GSE147672	bulkatac_control_superior_and_middle_temporal_gyri_19	Brain	Superior Temporal Gyri					Bulk ATAC	BA22,41,42	Superior Temporal Gyri	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM4441812	GSE147672	bulkatac_control_superior_and_middle_temporal_gyri_2	Brain	Superior Temporal Gyri					Bulk ATAC	BA22,41,42	Superior Temporal Gyri	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM4441813	GSE147672	bulkatac_control_superior_and_middle_temporal_gyri_3	Brain	Superior Temporal Gyri					Bulk ATAC	BA22,41,42	Superior Temporal Gyri	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM4441814	GSE147672	bulkatac_control_superior_and_middle_temporal_gyri_4	Brain	Superior Temporal Gyri					Bulk ATAC	BA22,41,42	Superior Temporal Gyri	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM4441815	GSE147672	bulkatac_control_superior_and_middle_temporal_gyri_5	Brain	Superior Temporal Gyri					Bulk ATAC	BA22,41,42	Superior Temporal Gyri	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM4441816	GSE147672	bulkatac_control_superior_and_middle_temporal_gyri_6	Brain	Superior Temporal Gyri					Bulk ATAC	BA22,41,42	Superior Temporal Gyri	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM4441817	GSE147672	bulkatac_control_superior_and_middle_temporal_gyri_7	Brain	Superior Temporal Gyri					Bulk ATAC	BA22,41,42	Superior Temporal Gyri	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM4441818	GSE147672	bulkatac_control_superior_and_middle_temporal_gyri_8	Brain	Superior Temporal Gyri					Bulk ATAC	BA22,41,42	Superior Temporal Gyri	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM4441819	GSE147672	bulkatac_control_superior_and_middle_temporal_gyri_9	Brain	Superior Temporal Gyri					Bulk ATAC	BA22,41,42	Superior Temporal Gyri	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM4441820	GSE147672	scatac_control_caudate_1	Brain	Caudate					Single-cell ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441821	GSE147672	scatac_control_caudate_2	Brain	Caudate					Single-cell ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441822	GSE147672	scatac_control_caudate_3	Brain	Caudate					Single-cell ATAC		Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM4441823	GSE147672	scatac_control_hippocampus_1	Brain	Hippocampus					Single-cell ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM4441824	GSE147672	scatac_control_hippocampus_2	Brain	Hippocampus					Single-cell ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM4441825	GSE147672	scatac_control_middle_frontal_gyrus_1	Brain	Middle Frontal Gyrus					Single-cell ATAC		Middle Frontal Gyrus	Frontal Lobe	NA	Middle Frontal Gyrus
+GSM4441826	GSE147672	scatac_control_parietal_lobe_1	Brain	Parietal Lobe					Single-cell ATAC		Parietal Lobe	Parietal Lobe	NA	NA
+GSM4441827	GSE147672	scatac_control_substantia_nigra_1	Brain	Substantia Nigra					Single-cell ATAC		Substantia Nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM4441828	GSE147672	scatac_control_substantia_nigra_2	Brain	Substantia Nigra					Single-cell ATAC		Substantia Nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM4441829	GSE147672	scatac_control_superior_and_middle_temporal_gyri_1	Brain	Superior Temporal Gyri					Single-cell ATAC	BA22,41,42	Superior Temporal Gyri	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM4523072	GSE150079, GSE150130	healthy_control_patient4788_atac-seq_	Brain			female	48		Bulk ATAC			Other	NA	NA
+GSM4523073	GSE150079, GSE150130	healthy_control_patient1739_atac-seq_	Brain			female	48		Bulk ATAC			Other	NA	NA
+GSM4523075	GSE150079, GSE150130	healthy_control_patient4715_atac-seq_	Brain			male	19		Bulk ATAC			Other	NA	NA
+GSM4523076	GSE150079, GSE150130	healthy_control_patient2308_atac-seq_	Brain			female	24		Bulk ATAC			Other	NA	NA
+GSM4523077	GSE150079, GSE150130	healthy_control_patient3011_atac-seq_	Brain			male	30		Bulk ATAC			Other	NA	NA
+GSM4523794	GSE150117, GSE150130	healthy_control_patient5345_neun-neg_rnaseq_	Brain			female	48		Bulk RNA			Other	NA	NA
+GSM4523795	GSE150117, GSE150130	healthy_control_patient4788_neun-neg_rnaseq_	Brain			female	48		Bulk RNA			Other	NA	NA
+GSM4523796	GSE150117, GSE150130	healthy_control_patient1739_neun-neg_rnaseq_	Brain			female	48		Bulk RNA			Other	NA	NA
+GSM4523798	GSE150117, GSE150130	healthy_control_patient4715_neun-neg_rnaseq_	Brain			male	19		Bulk RNA			Other	NA	NA
+GSM4523799	GSE150117, GSE150130	healthy_control_patient2308_neun-neg_rnaseq_	Brain			female	24		Bulk RNA			Other	NA	NA
+GSM4523800	GSE150117, GSE150130	healthy_control_patient3011_neun-neg_rnaseq_	Brain			male	30		Bulk RNA			Other	NA	NA
+GSM4523803	GSE150118, GSE150130	healthy_control_patient5345_neun-pos_rnaseq_	Brain			female	48		Bulk RNA			Other	NA	NA
+GSM4523804	GSE150118, GSE150130	healthy_control_patient4788_neun-pos_rnaseq_	Brain			female	48		Bulk RNA			Other	NA	NA
+GSM4523805	GSE150118, GSE150130	healthy_control_patient1739_neun-pos_rnaseq_	Brain			female	48		Bulk RNA			Other	NA	NA
+GSM4523807	GSE150118, GSE150130	healthy_control_patient4715_neun-pos_rnaseq_	Brain			male	19		Bulk RNA			Other	NA	NA
+GSM4523808	GSE150118, GSE150130	healthy_control_patient2308_neun-pos_rnaseq_	Brain			female	24		Bulk RNA			Other	NA	NA
+GSM4523809	GSE150118, GSE150130	healthy_control_patient3011_neun-pos_rnaseq_	Brain			male	30		Bulk RNA			Other	NA	NA
+GSM4523846	GSE150121, GSE150130	healthy_control_neun-negative_rep1	Brain						Bulk RNA			Other	NA	NA
+GSM4523847	GSE150121, GSE150130	healthy_control_neun-negative_rep2	Brain						Bulk RNA			Other	NA	NA
+GSM4523848	GSE150121, GSE150130	healthy_control_neun-negative_rep3	Brain						Bulk RNA			Other	NA	NA
+GSM4523849	GSE150121, GSE150130	healthy_control_neun-positive_rep1	Brain						Bulk RNA			Other	NA	NA
+GSM4523850	GSE150121, GSE150130	healthy_control_neun-positive_rep2	Brain						Bulk RNA			Other	NA	NA
+GSM4523851	GSE150121, GSE150130	healthy_control_neun-positive_rep3	Brain						Bulk RNA			Other	NA	NA
+GSM4663519	GSE154066, GSE154068	1927_acc_ap	Brain	anterior cingulate cortex (ACC)	Neuron	male	49		Bulk ATAC	BA24,32,33	anterior cingulate cortex	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM4663520	GSE154066, GSE154068	1927_acc_an	Brain	anterior cingulate cortex (ACC)	Non-Neuron	male	49		Bulk ATAC	BA24,32,33	anterior cingulate cortex	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM4663521	GSE154066, GSE154068	1936_acc_ap	Brain	anterior cingulate cortex (ACC)	Neuron	male	52		Bulk ATAC	BA24,32,33	anterior cingulate cortex	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM5024967	GSE165037	non_tumor_brain_snatac	Brain						Single-cell ATAC			Other	NA	NA
+GSM5024973	GSE165037	non_tumor_brain_snrna	Brain						Single-cell RNA			Other	NA	NA
+GSM5138524	GSE168408	1y_a_snrnaseq	Brain	prefrontal cortex, BA8			1		Single-cell RNA	BA8	prefrontal cortex	Prefrontal Cortex	NA	NA
+GSM5138525	GSE168408	1y_b_snrnaseq	Brain	prefrontal cortex, BA9			1		Single-cell RNA	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM5138526	GSE168408	1y_snatac	Brain	prefrontal cortex, BA9			1		Single-cell ATAC	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM5138527	GSE168408	2y_a_snrnaseq	Brain	prefrontal cortex, BA8			2		Single-cell RNA	BA8	prefrontal cortex	Prefrontal Cortex	NA	NA
+GSM5138528	GSE168408	2y_b_snrnaseq	Brain	prefrontal cortex, BA9			2		Single-cell RNA	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM5138529	GSE168408	2y_snatac	Brain	prefrontal cortex, BA9			2		Single-cell ATAC	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM5138530	GSE168408	3y_snrnaseq	Brain	prefrontal cortex, BA9			3		Single-cell RNA	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM5138531	GSE168408	4y_snrnaseq	Brain	prefrontal cortex, BA46			4		Single-cell RNA	BA46	prefrontal cortex	Prefrontal Cortex	NA	NA
+GSM5138532	GSE168408	4y_snatac	Brain	prefrontal cortex, BA46			4		Single-cell ATAC	BA46	prefrontal cortex	Prefrontal Cortex	NA	NA
+GSM5138533	GSE168408	6y_snrnaseq	Brain	prefrontal cortex, BA46			6		Single-cell RNA	BA46	prefrontal cortex	Prefrontal Cortex	NA	NA
+GSM5138534	GSE168408	6y_snatac	Brain	prefrontal cortex, BA46			6		Single-cell ATAC	BA46	prefrontal cortex	Prefrontal Cortex	NA	NA
+GSM5138535	GSE168408	8y_snrnaseq	Brain	prefrontal cortex, BA9			8		Single-cell RNA	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM5138536	GSE168408	8y_snatac	Brain	prefrontal cortex, BA9			8		Single-cell ATAC	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM5138537	GSE168408	10y_a_snrnaseq	Brain	prefrontal cortex, BA9			10		Single-cell RNA	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM5138538	GSE168408	10y_b_snrnaseq	Brain	prefrontal cortex, BA9			10		Single-cell RNA	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM5138539	GSE168408	10y_snatac	Brain	prefrontal cortex, BA9			10		Single-cell ATAC	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM5138540	GSE168408	12y_snrnaseq	Brain	prefrontal cortex, BA9			12		Single-cell RNA	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM5138541	GSE168408	14y_snrnaseq	Brain	prefrontal cortex, BA9			14		Single-cell RNA	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM5138542	GSE168408	14y_snatac	Brain	prefrontal cortex, BA9			14		Single-cell ATAC	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM5138543	GSE168408	16y_snrnaseq	Brain	prefrontal cortex, BA10			16		Single-cell RNA	BA10	prefrontal cortex	Prefrontal Cortex	NA	NA
+GSM5138544	GSE168408	16y_snatac	Brain	prefrontal cortex, BA10			16		Single-cell ATAC	BA10	prefrontal cortex	Prefrontal Cortex	NA	NA
+GSM5138545	GSE168408	17y_snrnaseq	Brain	prefrontal cortex, BA8			17		Single-cell RNA	BA8	prefrontal cortex	Prefrontal Cortex	NA	NA
+GSM5138546	GSE168408	20y_a_snrnaseq	Brain	prefrontal cortex, BA8			20		Single-cell RNA	BA8	prefrontal cortex	Prefrontal Cortex	NA	NA
+GSM5138547	GSE168408	20y_b_snrnaseq	Brain	prefrontal cortex, BA8			20		Single-cell RNA	BA8	prefrontal cortex	Prefrontal Cortex	NA	NA
+GSM5138548	GSE168408	20y_snatac	Brain	prefrontal cortex, BA8			20		Single-cell ATAC	BA8	prefrontal cortex	Prefrontal Cortex	NA	NA
+GSM5138549	GSE168408	25y_snrnaseq	Brain	prefrontal cortex, BA10			25		Single-cell RNA	BA10	prefrontal cortex	Prefrontal Cortex	NA	NA
+GSM5138550	GSE168408	25y_snatac	Brain	prefrontal cortex, BA10			25		Single-cell ATAC	BA10	prefrontal cortex	Prefrontal Cortex	NA	NA
+GSM5138551	GSE168408	40y_snrnaseq	Brain	prefrontal cortex, BA9			40		Single-cell RNA	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM5138552	GSE168408	40y_snatac	Brain	prefrontal cortex, BA9			40		Single-cell ATAC	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM5765174	GSE192772, GSE192774	human_ba23_h1	Brain			female	53		Single-cell ATAC			Other	NA	NA
+GSM5765175	GSE192772, GSE192774	human_ba23_h2	Brain			male	32		Single-cell ATAC			Other	NA	NA
+GSM5765176	GSE192772, GSE192774	human_ba23_h3	Brain			male	66		Single-cell ATAC			Other	NA	NA
+GSM5765177	GSE192772, GSE192774	human_ba23_h4	Brain			female	45		Single-cell ATAC			Other	NA	NA
+GSM5765186	GSE192773, GSE192774	rna_human_ba23_h1	Brain	Brodmann Area 23		female	53		Single-cell RNA	BA23	Brodmann Area 23	Limbic System	Posterior Cingulate Cortex	Ventral Posterior Cingulate Cortex
+GSM5765187	GSE192773, GSE192774	rna_human_ba23_h2	Brain	Brodmann Area 23		male	32		Single-cell RNA	BA23	Brodmann Area 23	Limbic System	Posterior Cingulate Cortex	Ventral Posterior Cingulate Cortex
+GSM5765188	GSE192773, GSE192774	rna_human_ba23_h3	Brain	Brodmann Area 23		male	66		Single-cell RNA	BA23	Brodmann Area 23	Limbic System	Posterior Cingulate Cortex	Ventral Posterior Cingulate Cortex
+GSM5765189	GSE192773, GSE192774	rna_human_ba23_h4	Brain	Brodmann Area 23		female	45		Single-cell RNA	BA23	Brodmann Area 23	Limbic System	Posterior Cingulate Cortex	Ventral Posterior Cingulate Cortex
+GSM6284659	GSE207334	atac-seq_hsb6195_2rt00374n_	Brain	dorsolateral prefrontal cortex					Single-cell ATAC	BA8,9,46	dorsolateral prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM6284660	GSE207334	atac-seq_hsb5871_rt00382n_	Brain	dorsolateral prefrontal cortex					Single-cell ATAC	BA8,9,46	dorsolateral prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM6284661	GSE207334	atac-seq_hsb8050_rt00383n_	Brain	dorsolateral prefrontal cortex					Single-cell ATAC	BA8,9,46	dorsolateral prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM6284662	GSE207334	atac-seq_hsb6154_rt00385n_	Brain	dorsolateral prefrontal cortex					Single-cell ATAC	BA8,9,46	dorsolateral prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM6284663	GSE207334	atac-seq_hsb8073_rt00390n_	Brain	dorsolateral prefrontal cortex					Single-cell ATAC	BA8,9,46	dorsolateral prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM6284664	GSE207334	rna-seq_hsb6195_2rt00374n_	Brain	dorsolateral prefrontal cortex					Single-cell RNA	BA8,9,46	dorsolateral prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM6284665	GSE207334	rna-seq_hsb5871_rt00382n_	Brain	dorsolateral prefrontal cortex					Single-cell RNA	BA8,9,46	dorsolateral prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM6284666	GSE207334	rna-seq_hsb8050_rt00383n_	Brain	dorsolateral prefrontal cortex					Single-cell RNA	BA8,9,46	dorsolateral prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM6284667	GSE207334	rna-seq_hsb6154_rt00385n_	Brain	dorsolateral prefrontal cortex					Single-cell RNA	BA8,9,46	dorsolateral prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM6284668	GSE207334	rna-seq_hsb8073_rt00390n_	Brain	dorsolateral prefrontal cortex					Single-cell RNA	BA8,9,46	dorsolateral prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM6459644	GSE148434	nosn01_rna_bulk_rna-seq	Brain	Substantia nigra					Bulk RNA		Substantia nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM6459645	GSE148434	nosn02_rna_bulk_rna-seq	Brain	Substantia nigra					Bulk RNA		Substantia nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM6459646	GSE148434	nosn03_rna_bulk_rna-seq	Brain	Substantia nigra					Bulk RNA		Substantia nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM6459647	GSE148434	nosn04_1_rna_bulk_rna-seq	Brain	Substantia nigra					Bulk RNA		Substantia nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM6459648	GSE148434	nosn04_2_rna_bulk_rna-seq	Brain	Substantia nigra					Bulk RNA		Substantia nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM6459649	GSE148434	nosn05_rna_bulk_rna-seq	Brain	Substantia nigra					Bulk RNA		Substantia nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM6459650	GSE148434	nosn06_1_rna_bulk_rna-seq	Brain	Substantia nigra					Bulk RNA		Substantia nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM6459651	GSE148434	nosn06_2_rna_bulk_rna-seq	Brain	Substantia nigra					Bulk RNA		Substantia nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM6459689	GSE148434	nosn01_snrna-seq	Brain	Substantia nigra					Single-cell RNA		Substantia nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM6459690	GSE148434	nosn02_snrna-seq	Brain	Substantia nigra					Single-cell RNA		Substantia nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM6459691	GSE148434	nosn03_snrna-seq	Brain	Substantia nigra					Single-cell RNA		Substantia nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM6459692	GSE148434	nosn04_snrna-seq	Brain	Substantia nigra					Single-cell RNA		Substantia nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM6459693	GSE148434	nosn05_snrna-seq	Brain	Substantia nigra					Single-cell RNA		Substantia nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM6459694	GSE148434	nosn06_snrna-seq	Brain	Substantia nigra					Single-cell RNA		Substantia nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM6459701	GSE148434	nosn01_snatac-seq	Brain	Substantia nigra					Single-cell ATAC		Substantia nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM6459702	GSE148434	nosn03_snatac-seq	Brain	Substantia nigra					Single-cell ATAC		Substantia nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM6459703	GSE148434	nosn04_snatac-seq	Brain	Substantia nigra					Single-cell ATAC		Substantia nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM6459704	GSE148434	nosn05_snatac-seq	Brain	Substantia nigra					Single-cell ATAC		Substantia nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM6459705	GSE148434	nosn06_snatac-seq	Brain	Substantia nigra					Single-cell ATAC		Substantia nigra	Basal Nucleus	NA	Subtantia Nigra
+GSM6499429	GSE168408	1y_c_snrnaseq	Brain	prefrontal cortex, BA9, 46			1		Single-cell RNA	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM6499430	GSE168408	1y_d_snrnaseq	Brain	prefrontal cortex, BA9			1		Single-cell RNA	BA9	prefrontal cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM6502794	GSE211822, GSE211826	bb5_pvc_g_atac	Brain	Primary Visual Cortex	Non-Neuron	male	34		Bulk ATAC	BA17	Primary Visual Cortex	Occipital Lobe	NA	Primary Visual Cortex
+GSM6502795	GSE211822, GSE211826	bb5_pvc_n_atac	Brain	Primary Visual Cortex	Neuron	male	34		Bulk ATAC	BA17	Primary Visual Cortex	Occipital Lobe	NA	Primary Visual Cortex
+GSM6502796	GSE211822, GSE211826	bb4_ec_g_atac	Brain	Parahippocampal Cortex/Entorhinal Cortex	Non-Neuron	female	30		Bulk ATAC	BA28,34	Parahippocampal Cortex/Entorhinal Cortex	Temporal Lobe	Medial Temporal Lobe	Parahippocampal Cortex/Entorhinal Cortex
+GSM6502797	GSE211822, GSE211826	bb4_ec_n_atac	Brain	Parahippocampal Cortex/Entorhinal Cortex	Neuron	female	30		Bulk ATAC	BA28,34	Parahippocampal Cortex/Entorhinal Cortex	Temporal Lobe	Medial Temporal Lobe	Parahippocampal Cortex/Entorhinal Cortex
+GSM6502798	GSE211822, GSE211826	bb6_mdt_g_atac	Brain	Mediodorsal Thalamus	Non-Neuron	female	39		Bulk ATAC		Mediodorsal Thalamus	Thalamus	Mediodorsal Thalamus	NA
+GSM6502799	GSE211822, GSE211826	bb6_mdt_n_atac	Brain	Mediodorsal Thalamus	Neuron	female	39		Bulk ATAC		Mediodorsal Thalamus	Thalamus	Mediodorsal Thalamus	NA
+GSM6502800	GSE211822, GSE211826	bb4_pac_g_atac	Brain	Primary Auditory Cortex	Non-Neuron	female	30		Bulk ATAC	BA41,42	Primary Auditory Cortex	Temporal Lobe	NA	Primary Auditory Cortex
+GSM6502801	GSE211822, GSE211826	bb4_pac_n_atac	Brain	Primary Auditory Cortex	Neuron	female	30		Bulk ATAC	BA41,42	Primary Auditory Cortex	Temporal Lobe	NA	Primary Auditory Cortex
+GSM6502802	GSE211822, GSE211826	bb6_ec_g_atac	Brain	Parahippocampal Cortex/Entorhinal Cortex	Non-Neuron	female	39		Bulk ATAC	BA28,34	Parahippocampal Cortex/Entorhinal Cortex	Temporal Lobe	Medial Temporal Lobe	Parahippocampal Cortex/Entorhinal Cortex
+GSM6502803	GSE211822, GSE211826	bb6_ec_n_atac	Brain	Parahippocampal Cortex/Entorhinal Cortex	Neuron	female	39		Bulk ATAC	BA28,34	Parahippocampal Cortex/Entorhinal Cortex	Temporal Lobe	Medial Temporal Lobe	Parahippocampal Cortex/Entorhinal Cortex
+GSM6502804	GSE211822, GSE211826	bb5_rmtg_g_atac	Brain	Rostromedial Tegmental Nucl	Non-Neuron	male	34		Bulk ATAC		Rostromedial Tegmental Nucl	NA	NA	NA
+GSM6502805	GSE211822, GSE211826	bb5_rmtg_n_atac	Brain	Rostromedial Tegmental Nucl	Neuron	male	34		Bulk ATAC		Rostromedial Tegmental Nucl	NA	NA	NA
+GSM6502806	GSE211822, GSE211826	bb4_pmc_g_atac	Brain	Primary Motor Cortex	Non-Neuron	female	30		Bulk ATAC	BA4	Primary Motor Cortex	Frontal Lobe	NA	Primary Motor Cortex
+GSM6502807	GSE211822, GSE211826	bb4_pmc_n_atac	Brain	Primary Motor Cortex	Neuron	female	30		Bulk ATAC	BA4	Primary Motor Cortex	Frontal Lobe	NA	Primary Motor Cortex
+GSM6502808	GSE211822, GSE211826	bb6_pac_g_atac	Brain	Primary Auditory Cortex	Non-Neuron	female	39		Bulk ATAC	BA41,42	Primary Auditory Cortex	Temporal Lobe	NA	Primary Auditory Cortex
+GSM6502809	GSE211822, GSE211826	bb6_pac_n_atac	Brain	Primary Auditory Cortex	Neuron	female	39		Bulk ATAC	BA41,42	Primary Auditory Cortex	Temporal Lobe	NA	Primary Auditory Cortex
+GSM6502810	GSE211822, GSE211826	bb5_vlpfc_g_atac	Brain	Ventrolateral Prefrontal Cortex	Non-Neuron	male	34		Bulk ATAC	BA45,47	Ventrolateral Prefrontal Cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Ventrolateral Prefrontal Cortex
+GSM6502811	GSE211822, GSE211826	bb5_vlpfc_n_atac	Brain	Ventrolateral Prefrontal Cortex	Neuron	male	34		Bulk ATAC	BA45,47	Ventrolateral Prefrontal Cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Ventrolateral Prefrontal Cortex
+GSM6502812	GSE211822, GSE211826	bb6_pmc_g_atac	Brain	Primary Motor Cortex	Non-Neuron	female	39		Bulk ATAC	BA4	Primary Motor Cortex	Frontal Lobe	NA	Primary Motor Cortex
+GSM6502813	GSE211822, GSE211826	bb6_pmc_n_atac	Brain	Primary Motor Cortex	Neuron	female	39		Bulk ATAC	BA4	Primary Motor Cortex	Frontal Lobe	NA	Primary Motor Cortex
+GSM6502814	GSE211822, GSE211826	bb5_vta_g_atac	Brain	Ventral Tegmental Area	Non-Neuron	male	34		Bulk ATAC		Ventral Tegmental Area	NA	NA	NA
+GSM6502815	GSE211822, GSE211826	bb5_vta_n_atac	Brain	Ventral Tegmental Area	Neuron	male	34		Bulk ATAC		Ventral Tegmental Area	NA	NA	NA
+GSM6502816	GSE211822, GSE211826	bb5_crblm_g_atac	Brain	Cerebellum	Non-Neuron	male	34		Bulk ATAC		Cerebellum	Cerebellum	NA	NA
+GSM6502817	GSE211822, GSE211826	bb5_crblm_n_atac	Brain	Cerebellum	Neuron	male	34		Bulk ATAC		Cerebellum	Cerebellum	NA	NA
+GSM6502818	GSE211822, GSE211826	bb4_pvc_g_atac	Brain	Primary Visual Cortex	Non-Neuron	female	30		Bulk ATAC	BA17	Primary Visual Cortex	Occipital Lobe	NA	Primary Visual Cortex
+GSM6502819	GSE211822, GSE211826	bb4_pvc_n_atac	Brain	Primary Visual Cortex	Neuron	female	30		Bulk ATAC	BA17	Primary Visual Cortex	Occipital Lobe	NA	Primary Visual Cortex
+GSM6502820	GSE211822, GSE211826	bb6_psc_g_atac	Brain	Primary Somatosensory Cortex	Non-Neuron	female	39		Bulk ATAC	BA3,2,1	Primary Somatosensory Cortex	Parietal Lobe	NA	Primary Somatosensory Cortex
+GSM6502821	GSE211822, GSE211826	bb3_vlpfc_g_atac	Brain	Ventrolateral Prefrontal Cortex	Non-Neuron	male	20		Bulk ATAC	BA45,47	Ventrolateral Prefrontal Cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Ventrolateral Prefrontal Cortex
+GSM6502822	GSE211822, GSE211826	bb5_ofc_g_atac	Brain	Orbital Frontal Cortex	Non-Neuron	male	34		Bulk ATAC	BA10,11,47	Orbital Frontal Cortex	Prefrontal Cortex	Prefrontal Cortex	Orbitofrontal Cortex
+GSM6502823	GSE211822, GSE211826	bb5_ofc_n_atac	Brain	Orbital Frontal Cortex	Neuron	male	34		Bulk ATAC	BA10,11,47	Orbital Frontal Cortex	Prefrontal Cortex	Prefrontal Cortex	Orbitofrontal Cortex
+GSM6502824	GSE211822, GSE211826	bb6_pvc_g_atac	Brain	Primary Visual Cortex	Non-Neuron	female	39		Bulk ATAC	BA17	Primary Visual Cortex	Occipital Lobe	NA	Primary Visual Cortex
+GSM6502825	GSE211822, GSE211826	bb6_pvc_n_atac	Brain	Primary Visual Cortex	Neuron	female	39		Bulk ATAC	BA17	Primary Visual Cortex	Occipital Lobe	NA	Primary Visual Cortex
+GSM6502826	GSE211822, GSE211826	bb4_rmtg_g_atac	Brain	Rostromedial Tegmental Nucl	Non-Neuron	female	30		Bulk ATAC		Rostromedial Tegmental Nucl	NA	NA	NA
+GSM6502827	GSE211822, GSE211826	bb5_pvpc_g_atac	Brain	Posteroventral (Inferior) Parietal Cortex	Non-Neuron	male	34		Bulk ATAC	BA3,2,1	Posteroventral	Parietal Lobe	NA	Primary Somatosensory Cortex
+GSM6502828	GSE211822, GSE211826	bb5_pvpc_n_atac	Brain	Posteroventral (Inferior) Parietal Cortex	Neuron	male	34		Bulk ATAC	BA3,2,1	Posteroventral	Parietal Lobe	NA	Primary Somatosensory Cortex
+GSM6502829	GSE211822, GSE211826	bb4_vlpfc_g_atac	Brain	Ventrolateral Prefrontal Cortex	Non-Neuron	female	30		Bulk ATAC	BA45,47	Ventrolateral Prefrontal Cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Ventrolateral Prefrontal Cortex
+GSM6502830	GSE211822, GSE211826	bb4_vlpfc_n_atac	Brain	Ventrolateral Prefrontal Cortex	Neuron	female	30		Bulk ATAC	BA45,47	Ventrolateral Prefrontal Cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Ventrolateral Prefrontal Cortex
+GSM6502831	GSE211822, GSE211826	bb6_rmtg_g_atac	Brain	Rostromedial Tegmental Nucl	Non-Neuron	female	39		Bulk ATAC		Rostromedial Tegmental Nucl	NA	NA	NA
+GSM6502832	GSE211822, GSE211826	bb6_rmtg_n_atac	Brain	Rostromedial Tegmental Nucl	Neuron	female	39		Bulk ATAC		Rostromedial Tegmental Nucl	NA	NA	NA
+GSM6502833	GSE211822, GSE211826	bb6_vlpfc_g_atac	Brain	Ventrolateral Prefrontal Cortex	Non-Neuron	female	39		Bulk ATAC	BA45,47	Ventrolateral Prefrontal Cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Ventrolateral Prefrontal Cortex
+GSM6502834	GSE211822, GSE211826	bb6_vlpfc_n_atac	Brain	Ventrolateral Prefrontal Cortex	Neuron	female	39		Bulk ATAC	BA45,47	Ventrolateral Prefrontal Cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Ventrolateral Prefrontal Cortex
+GSM6502835	GSE211822, GSE211826	bb3_crblm_g_atac	Brain	Cerebellum	Non-Neuron	male	20		Bulk ATAC		Cerebellum	Cerebellum	NA	NA
+GSM6502836	GSE211822, GSE211826	bb3_crblm_n_atac	Brain	Cerebellum	Neuron	male	20		Bulk ATAC		Cerebellum	Cerebellum	NA	NA
+GSM6502837	GSE211822, GSE211826	bb4_vta_n_atac	Brain	Ventral Tegmental Area	Neuron	female	30		Bulk ATAC		Ventral Tegmental Area	NA	NA	NA
+GSM6502838	GSE211822, GSE211826	bb4_crblm_g_atac	Brain	Cerebellum	Non-Neuron	female	30		Bulk ATAC		Cerebellum	Cerebellum	NA	NA
+GSM6502839	GSE211822, GSE211826	bb5_nac_g_atac	Brain	Nucleus Accumbens	Non-Neuron	male	34		Bulk ATAC		Nucleus Accumbens	Limbic System	NA	Nucleus Accumbens
+GSM6502840	GSE211822, GSE211826	bb5_nac_n_atac	Brain	Nucleus Accumbens	Neuron	male	34		Bulk ATAC		Nucleus Accumbens	Limbic System	NA	Nucleus Accumbens
+GSM6502841	GSE211822, GSE211826	bb6_vta_g_atac	Brain	Ventral Tegmental Area	Non-Neuron	female	39		Bulk ATAC		Ventral Tegmental Area	NA	NA	NA
+GSM6502842	GSE211822, GSE211826	bb6_crblm_g_atac	Brain	Cerebellum	Non-Neuron	female	39		Bulk ATAC		Cerebellum	Cerebellum	NA	NA
+GSM6502843	GSE211822, GSE211826	bb6_crblm_n_atac	Brain	Cerebellum	Neuron	female	39		Bulk ATAC		Cerebellum	Cerebellum	NA	NA
+GSM6502844	GSE211822, GSE211826	bb4_ofc_g_atac	Brain	Orbital Frontal Cortex	Non-Neuron	female	30		Bulk ATAC	BA10,11,47	Orbital Frontal Cortex	Prefrontal Cortex	Prefrontal Cortex	Orbitofrontal Cortex
+GSM6502845	GSE211822, GSE211826	bb4_ofc_n_atac	Brain	Orbital Frontal Cortex	Neuron	female	30		Bulk ATAC	BA10,11,47	Orbital Frontal Cortex	Prefrontal Cortex	Prefrontal Cortex	Orbitofrontal Cortex
+GSM6502846	GSE211822, GSE211826	bb6_ofc_g_atac	Brain	Orbital Frontal Cortex	Non-Neuron	female	39		Bulk ATAC	BA10,11,47	Orbital Frontal Cortex	Prefrontal Cortex	Prefrontal Cortex	Orbitofrontal Cortex
+GSM6502847	GSE211822, GSE211826	bb6_ofc_n_atac	Brain	Orbital Frontal Cortex	Neuron	female	39		Bulk ATAC	BA10,11,47	Orbital Frontal Cortex	Prefrontal Cortex	Prefrontal Cortex	Orbitofrontal Cortex
+GSM6502848	GSE211822, GSE211826	bb4_pvpc_g_atac	Brain	Posteroventral (Inferior) Parietal Cortex	Non-Neuron	female	30		Bulk ATAC	BA3,2,1	Posteroventral	Parietal Lobe	NA	Primary Somatosensory Cortex
+GSM6502849	GSE211822, GSE211826	bb4_pvpc_n_atac	Brain	Posteroventral (Inferior) Parietal Cortex	Neuron	female	30		Bulk ATAC	BA3,2,1	Posteroventral	Parietal Lobe	NA	Primary Somatosensory Cortex
+GSM6502850	GSE211822, GSE211826	bb5_drn_g_atac	Brain	Dorsal Raphe Nucleus	Non-Neuron	male	34		Bulk ATAC		Dorsal Raphe Nucleus	Brainstem	NA	Dorsal Raphe Nucleus
+GSM6502851	GSE211822, GSE211826	bb5_drn_n_atac	Brain	Dorsal Raphe Nucleus	Neuron	male	34		Bulk ATAC		Dorsal Raphe Nucleus	Brainstem	NA	Dorsal Raphe Nucleus
+GSM6502852	GSE211822, GSE211826	bb5_cn_g_atac	Brain	Caudate Nucleus	Non-Neuron	male	34		Bulk ATAC		Caudate Nucleus	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM6502853	GSE211822, GSE211826	bb5_cn_n_atac	Brain	Caudate Nucleus	Neuron	male	34		Bulk ATAC		Caudate Nucleus	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM6502854	GSE211822, GSE211826	bb4_amy_g_atac	Brain	Amygdaloid Complex	Non-Neuron	female	30		Bulk ATAC		Amygdaloid Complex	Limbic System	NA	Amygdala
+GSM6502855	GSE211822, GSE211826	bb4_amy_n_atac	Brain	Amygdaloid Complex	Neuron	female	30		Bulk ATAC		Amygdaloid Complex	Limbic System	NA	Amygdala
+GSM6502856	GSE211822, GSE211826	bb6_pvpc_g_atac	Brain	Posteroventral (Inferior) Parietal Cortex	Non-Neuron	female	39		Bulk ATAC	BA3,2,1	Posteroventral	Parietal Lobe	NA	Primary Somatosensory Cortex
+GSM6502857	GSE211822, GSE211826	bb6_pvpc_n_atac	Brain	Posteroventral (Inferior) Parietal Cortex	Neuron	female	39		Bulk ATAC	BA3,2,1	Posteroventral	Parietal Lobe	NA	Primary Somatosensory Cortex
+GSM6502858	GSE211822, GSE211826	bb5_dlpfc_g_atac	Brain	Dorsolateral Prefrontal Cortex	Non-Neuron	male	34		Bulk ATAC	BA8,9,46	Dorsolateral Prefrontal Cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM6502859	GSE211822, GSE211826	bb5_dlpfc_n_atac	Brain	Dorsolateral Prefrontal Cortex	Neuron	male	34		Bulk ATAC	BA8,9,46	Dorsolateral Prefrontal Cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM6502860	GSE211822, GSE211826	bb6_amy_g_atac	Brain	Amygdaloid Complex	Non-Neuron	female	39		Bulk ATAC		Amygdaloid Complex	Limbic System	NA	Amygdala
+GSM6502861	GSE211822, GSE211826	bb6_amy_n_atac	Brain	Amygdaloid Complex	Neuron	female	39		Bulk ATAC		Amygdaloid Complex	Limbic System	NA	Amygdala
+GSM6502862	GSE211822, GSE211826	bb3_pstc_g_atac	Brain	Posterior Superior Temporal Cortex	Non-Neuron	male	20		Bulk ATAC	BA22,41,42	Posterior Superior Temporal Cortex	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM6502863	GSE211822, GSE211826	bb4_pstc_g_atac	Brain	Posterior Superior Temporal Cortex	Non-Neuron	female	30		Bulk ATAC	BA22,41,42	Posterior Superior Temporal Cortex	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM6502864	GSE211822, GSE211826	bb4_pstc_n_atac	Brain	Posterior Superior Temporal Cortex	Neuron	female	30		Bulk ATAC	BA22,41,42	Posterior Superior Temporal Cortex	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM6502865	GSE211822, GSE211826	bb5_gp_g_atac	Brain	Globus Pallidus	Non-Neuron	male	34		Bulk ATAC		Globus Pallidus	Basal Ganglia	NA	Globus Pallidus
+GSM6502866	GSE211822, GSE211826	bb4_nac_g_atac	Brain	Nucleus Accumbens	Non-Neuron	female	30		Bulk ATAC		Nucleus Accumbens	Limbic System	NA	Nucleus Accumbens
+GSM6502867	GSE211822, GSE211826	bb4_nac_n_atac	Brain	Nucleus Accumbens	Neuron	female	30		Bulk ATAC		Nucleus Accumbens	Limbic System	NA	Nucleus Accumbens
+GSM6502868	GSE211822, GSE211826	bb6_nac_n_atac	Brain	Nucleus Accumbens	Neuron	female	39		Bulk ATAC		Nucleus Accumbens	Limbic System	NA	Nucleus Accumbens
+GSM6502869	GSE211822, GSE211826	bb6_pstc_g_atac	Brain	Posterior Superior Temporal Cortex	Non-Neuron	female	39		Bulk ATAC	BA22,41,42	Posterior Superior Temporal Cortex	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM6502870	GSE211822, GSE211826	bb6_pstc_n_atac	Brain	Posterior Superior Temporal Cortex	Neuron	female	39		Bulk ATAC	BA22,41,42	Posterior Superior Temporal Cortex	Temporal Lobe	NA	Superior Temporal Gyrus
+Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other
+GSM6502872	GSE211822, GSE211826	bb5_pstc_g_atac	Brain	Posterior Superior Temporal Cortex	Non-Neuron	male	34		Bulk ATAC	BA22,41,42	Posterior Superior Temporal Cortex	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM6502873	GSE211822, GSE211826	bb5_pstc_n_atac	Brain	Posterior Superior Temporal Cortex	Neuron	male	34		Bulk ATAC	BA22,41,42	Posterior Superior Temporal Cortex	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM6502874	GSE211822, GSE211826	bb4_drn_g_atac	Brain	Dorsal Raphe Nucleus	Non-Neuron	female	30		Bulk ATAC		Dorsal Raphe Nucleus	Brainstem	NA	Dorsal Raphe Nucleus
+GSM6502875	GSE211822, GSE211826	bb4_cn_g_atac	Brain	Caudate Nucleus	Non-Neuron	female	30		Bulk ATAC		Caudate Nucleus	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM6502876	GSE211822, GSE211826	bb4_cn_n_atac	Brain	Caudate Nucleus	Neuron	female	30		Bulk ATAC		Caudate Nucleus	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM6502877	GSE211822, GSE211826	bb5_hipp_n_atac	Brain	Hippocampus	Neuron	male	34		Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM6502878	GSE211822, GSE211826	bb6_drn_g_atac	Brain	Dorsal Raphe Nucleus	Non-Neuron	female	39		Bulk ATAC		Dorsal Raphe Nucleus	Brainstem	NA	Dorsal Raphe Nucleus
+GSM6502879	GSE211822, GSE211826	bb6_drn_n_atac	Brain	Dorsal Raphe Nucleus	Neuron	female	39		Bulk ATAC		Dorsal Raphe Nucleus	Brainstem	NA	Dorsal Raphe Nucleus
+GSM6502880	GSE211822, GSE211826	bb4_dlpfc_g_atac	Brain	Dorsolateral Prefrontal Cortex	Non-Neuron	female	30		Bulk ATAC	BA8,9,46	Dorsolateral Prefrontal Cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM6502881	GSE211822, GSE211826	bb4_dlpfc_n_atac	Brain	Dorsolateral Prefrontal Cortex	Neuron	female	30		Bulk ATAC	BA8,9,46	Dorsolateral Prefrontal Cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM6502882	GSE211822, GSE211826	bb6_cn_g_atac	Brain	Caudate Nucleus	Non-Neuron	female	39		Bulk ATAC		Caudate Nucleus	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM6502883	GSE211822, GSE211826	bb6_cn_n_atac	Brain	Caudate Nucleus	Neuron	female	39		Bulk ATAC		Caudate Nucleus	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM6502884	GSE211822, GSE211826	bb4_gp_g_atac	Brain	Globus Pallidus	Non-Neuron	female	30		Bulk ATAC		Globus Pallidus	Basal Ganglia	NA	Globus Pallidus
+Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other
+GSM6502886	GSE211822, GSE211826	bb6_gp_g_atac	Brain	Globus Pallidus	Non-Neuron	female	39		Bulk ATAC		Globus Pallidus	Basal Ganglia	NA	Globus Pallidus
+GSM6502887	GSE211822, GSE211826	bb4_hipp_g_atac	Brain	Hippocampus	Non-Neuron	female	30		Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM6502888	GSE211822, GSE211826	bb5_acc_n_atac	Brain	Anterior Cingulate Cortex	Neuron	male	34		Bulk ATAC	BA24,32,33	Anterior Cingulate Cortex	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other
+Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other
+GSM6502891	GSE211822, GSE211826	bb4_itc_g_atac	Brain	Inferior Temporal Cortex	Non-Neuron	female	30		Bulk ATAC	BA20	Inferior Temporal Cortex	Temporal Lobe	NA	Inferior Temporal Gyrus
+GSM6502892	GSE211822, GSE211826	bb4_itc_n_atac	Brain	Inferior Temporal Cortex	Neuron	female	30		Bulk ATAC	BA20	Inferior Temporal Cortex	Temporal Lobe	NA	Inferior Temporal Gyrus
+GSM6502893	GSE211822, GSE211826	bb6_hipp_g_atac	Brain	Hippocampus	Non-Neuron	female	39		Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM6502894	GSE211822, GSE211826	bb6_hipp_n_atac	Brain	Hippocampus	Neuron	female	39		Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM6502895	GSE211822, GSE211826	bb6_itc_g_atac	Brain	Inferior Temporal Cortex	Non-Neuron	female	39		Bulk ATAC	BA20	Inferior Temporal Cortex	Temporal Lobe	NA	Inferior Temporal Gyrus
+GSM6502896	GSE211822, GSE211826	bb6_itc_n_atac	Brain	Inferior Temporal Cortex	Neuron	female	39		Bulk ATAC	BA20	Inferior Temporal Cortex	Temporal Lobe	NA	Inferior Temporal Gyrus
+Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other
+Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other
+GSM6502899	GSE211822, GSE211826	bb5_ins_g_atac	Brain	Insula	Non-Neuron	male	34		Bulk ATAC	BA16	Insula	Lateral Sulcus	NA	Insula
+GSM6502900	GSE211822, GSE211826	bb5_ins_n_atac	Brain	Insula	Neuron	male	34		Bulk ATAC	BA16	Insula	Lateral Sulcus	NA	Insula
+GSM6502901	GSE211822, GSE211826	bb3_acc_g_atac	Brain	Anterior Cingulate Cortex	Non-Neuron	male	20		Bulk ATAC	BA24,32,33	Anterior Cingulate Cortex	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM6502902	GSE211822, GSE211826	bb3_acc_n_atac	Brain	Anterior Cingulate Cortex	Neuron	male	20		Bulk ATAC	BA24,32,33	Anterior Cingulate Cortex	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM6502903	GSE211822, GSE211826	bb5_mdt_g_atac	Brain	Mediodorsal Thalamus	Non-Neuron	male	34		Bulk ATAC		Mediodorsal Thalamus	Thalamus	Mediodorsal Thalamus	NA
+GSM6502904	GSE211822, GSE211826	bb5_mdt_n_atac	Brain	Mediodorsal Thalamus	Neuron	male	34		Bulk ATAC		Mediodorsal Thalamus	Thalamus	Mediodorsal Thalamus	NA
+GSM6502905	GSE211822, GSE211826	bb4_acc_g_atac	Brain	Anterior Cingulate Cortex	Non-Neuron	female	30		Bulk ATAC	BA24,32,33	Anterior Cingulate Cortex	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM6502906	GSE211822, GSE211826	bb4_acc_n_atac	Brain	Anterior Cingulate Cortex	Neuron	female	30		Bulk ATAC	BA24,32,33	Anterior Cingulate Cortex	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM6502907	GSE211822, GSE211826	bb5_ec_g_atac	Brain	Parahippocampal Cortex/Entorhinal Cortex	Non-Neuron	male	34		Bulk ATAC	BA28,34	Parahippocampal Cortex/Entorhinal Cortex	Temporal Lobe	Medial Temporal Lobe	Parahippocampal Cortex/Entorhinal Cortex
+GSM6502908	GSE211822, GSE211826	bb5_ec_n_atac	Brain	Parahippocampal Cortex/Entorhinal Cortex	Neuron	male	34		Bulk ATAC	BA28,34	Parahippocampal Cortex/Entorhinal Cortex	Temporal Lobe	Medial Temporal Lobe	Parahippocampal Cortex/Entorhinal Cortex
+Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other
+Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other
+GSM6502911	GSE211822, GSE211826	bb6_acc_g_atac	Brain	Anterior Cingulate Cortex	Non-Neuron	female	39		Bulk ATAC	BA24,32,33	Anterior Cingulate Cortex	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM6502912	GSE211822, GSE211826	bb6_acc_n_atac	Brain	Anterior Cingulate Cortex	Neuron	female	39		Bulk ATAC	BA24,32,33	Anterior Cingulate Cortex	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM6502913	GSE211822, GSE211826	bb5_pac_g_atac	Brain	Primary Auditory Cortex	Non-Neuron	male	34		Bulk ATAC	BA41,42	Primary Auditory Cortex	Temporal Lobe	NA	Primary Auditory Cortex
+GSM6502914	GSE211822, GSE211826	bb5_pac_n_atac	Brain	Primary Auditory Cortex	Neuron	male	34		Bulk ATAC	BA41,42	Primary Auditory Cortex	Temporal Lobe	NA	Primary Auditory Cortex
+GSM6502915	GSE211822, GSE211826	bb4_ins_g_atac	Brain	Insula	Non-Neuron	female	30		Bulk ATAC	BA16	Insula	Lateral Sulcus	NA	Insula
+GSM6502916	GSE211822, GSE211826	bb4_ins_n_atac	Brain	Insula	Neuron	female	30		Bulk ATAC	BA16	Insula	Lateral Sulcus	NA	Insula
+Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other
+Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other
+GSM6502919	GSE211822, GSE211826	bb5_pmc_g_atac	Brain	Primary Motor Cortex	Non-Neuron	male	34		Bulk ATAC	BA4	Primary Motor Cortex	Frontal Lobe	NA	Primary Motor Cortex
+GSM6502920	GSE211822, GSE211826	bb5_pmc_n_atac	Brain	Primary Motor Cortex	Neuron	male	34		Bulk ATAC	BA4	Primary Motor Cortex	Frontal Lobe	NA	Primary Motor Cortex
+GSM6502921	GSE211822, GSE211826	bb6_nac_g_atac	Brain	Nucleus Accumbens	Non-Neuron	female	39		Bulk ATAC		Nucleus Accumbens	Limbic System	NA	Nucleus Accumbens
+GSM6502922	GSE211822, GSE211826	bb4_mdt_g_atac	Brain	Mediodorsal Thalamus	Non-Neuron	female	30		Bulk ATAC		Mediodorsal Thalamus	Thalamus	Mediodorsal Thalamus	NA
+GSM6502923	GSE211822, GSE211826	bb4_mdt_n_atac	Brain	Mediodorsal Thalamus	Neuron	female	30		Bulk ATAC		Mediodorsal Thalamus	Thalamus	Mediodorsal Thalamus	NA
+GSM6502924	GSE211822, GSE211826	bb1_ofc_g_atac	Brain	Orbital Frontal Cortex	Non-Neuron	female	20		Bulk ATAC	BA10,11,47	Orbital Frontal Cortex	Prefrontal Cortex	Prefrontal Cortex	Orbitofrontal Cortex
+GSM6502925	GSE211822, GSE211826	bb1_ofc_n_atac	Brain	Orbital Frontal Cortex	Neuron	female	20		Bulk ATAC	BA10,11,47	Orbital Frontal Cortex	Prefrontal Cortex	Prefrontal Cortex	Orbitofrontal Cortex
+GSM6502926	GSE211822, GSE211826	bb1_pstc_g_atac	Brain	Posterior Superior Temporal Cortex	Non-Neuron	female	20		Bulk ATAC	BA22,41,42	Posterior Superior Temporal Cortex	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM6502927	GSE211822, GSE211826	bb1_pstc_n_atac	Brain	Posterior Superior Temporal Cortex	Neuron	female	20		Bulk ATAC	BA22,41,42	Posterior Superior Temporal Cortex	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM6502928	GSE211822, GSE211826	bb1_ins_g_atac	Brain	Insula	Non-Neuron	female	20		Bulk ATAC	BA16	Insula	Lateral Sulcus	NA	Insula
+GSM6502929	GSE211822, GSE211826	bb1_ins_n_atac	Brain	Insula	Neuron	female	20		Bulk ATAC	BA16	Insula	Lateral Sulcus	NA	Insula
+GSM6502930	GSE211822, GSE211826	bb1_hipp_g_atac	Brain	Hippocampus	Non-Neuron	female	20		Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM6502931	GSE211822, GSE211826	bb1_hipp_n_atac	Brain	Hippocampus	Neuron	female	20		Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+GSM6502932	GSE211822, GSE211826	bb1_drn_g_atac	Brain	Dorsal Raphe Nucleus	Non-Neuron	female	20		Bulk ATAC		Dorsal Raphe Nucleus	Brainstem	NA	Dorsal Raphe Nucleus
+GSM6502933	GSE211822, GSE211826	bb1_acc_g_atac	Brain	Anterior Cingulate Cortex	Non-Neuron	female	20		Bulk ATAC	BA24,32,33	Anterior Cingulate Cortex	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM6502934	GSE211822, GSE211826	bb1_acc_n_atac	Brain	Anterior Cingulate Cortex	Neuron	female	20		Bulk ATAC	BA24,32,33	Anterior Cingulate Cortex	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM6502935	GSE211822, GSE211826	bb1_ec_g_atac	Brain	Parahippocampal Cortex/Entorhinal Cortex	Non-Neuron	female	20		Bulk ATAC	BA28,34	Parahippocampal Cortex/Entorhinal Cortex	Temporal Lobe	Medial Temporal Lobe	Parahippocampal Cortex/Entorhinal Cortex
+GSM6502936	GSE211822, GSE211826	bb1_ec_n_atac	Brain	Parahippocampal Cortex/Entorhinal Cortex	Neuron	female	20		Bulk ATAC	BA28,34	Parahippocampal Cortex/Entorhinal Cortex	Temporal Lobe	Medial Temporal Lobe	Parahippocampal Cortex/Entorhinal Cortex
+GSM6502937	GSE211822, GSE211826	bb1_psc_g_atac	Brain	Primary Somatosensory Cortex	Non-Neuron	female	20		Bulk ATAC	BA3,2,1	Primary Somatosensory Cortex	Parietal Lobe	NA	Primary Somatosensory Cortex
+GSM6502938	GSE211822, GSE211826	bb1_psc_n_atac	Brain	Primary Somatosensory Cortex	Neuron	female	20		Bulk ATAC	BA3,2,1	Primary Somatosensory Cortex	Parietal Lobe	NA	Primary Somatosensory Cortex
+GSM6502939	GSE211822, GSE211826	bb1_pvpc_g_atac	Brain	Posteroventral (Inferior) Parietal Cortex	Non-Neuron	female	20		Bulk ATAC	BA3,2,1	Posteroventral	Parietal Lobe	NA	Primary Somatosensory Cortex
+GSM6502940	GSE211822, GSE211826	bb1_vta_g_atac	Brain	Ventral Tegmental Area	Non-Neuron	female	20		Bulk ATAC		Ventral Tegmental Area	NA	NA	NA
+GSM6502941	GSE211822, GSE211826	bb1_rmtg_g_atac	Brain	Rostromedial Tegmental Nucl	Non-Neuron	female	20		Bulk ATAC		Rostromedial Tegmental Nucl	NA	NA	NA
+GSM6502942	GSE211822, GSE211826	bb1_rmtg_n_atac	Brain	Rostromedial Tegmental Nucl	Neuron	female	20		Bulk ATAC		Rostromedial Tegmental Nucl	NA	NA	NA
+GSM6502943	GSE211822, GSE211826	bb1_nac_g_atac	Brain	Nucleus Accumbens	Non-Neuron	female	20		Bulk ATAC		Nucleus Accumbens	Limbic System	NA	Nucleus Accumbens
+GSM6502944	GSE211822, GSE211826	bb1_amy_n_atac	Brain	Amygdaloid Complex	Neuron	female	20		Bulk ATAC		Amygdaloid Complex	Limbic System	NA	Amygdala
+GSM6502945	GSE211822, GSE211826	bb1_crblm_g_atac	Brain	Cerebellum	Non-Neuron	female	20		Bulk ATAC		Cerebellum	Cerebellum	NA	NA
+GSM6502946	GSE211822, GSE211826	bb1_vlpfc_g_atac	Brain	Ventrolateral Prefrontal Cortex	Non-Neuron	female	20		Bulk ATAC	BA45,47	Ventrolateral Prefrontal Cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Ventrolateral Prefrontal Cortex
+GSM6502947	GSE211822, GSE211826	bb1_vlpfc_n_atac	Brain	Ventrolateral Prefrontal Cortex	Neuron	female	20		Bulk ATAC	BA45,47	Ventrolateral Prefrontal Cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Ventrolateral Prefrontal Cortex
+GSM6502948	GSE211822, GSE211826	bb1_dlpfc_g_atac	Brain	Dorsolateral Prefrontal Cortex	Non-Neuron	female	20		Bulk ATAC	BA8,9,46	Dorsolateral Prefrontal Cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM6502949	GSE211822, GSE211826	bb1_dlpfc_n_atac	Brain	Dorsolateral Prefrontal Cortex	Neuron	female	20		Bulk ATAC	BA8,9,46	Dorsolateral Prefrontal Cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM6502950	GSE211822, GSE211826	bb1_pmc_g_atac	Brain	Primary Motor Cortex	Non-Neuron	female	20		Bulk ATAC	BA4	Primary Motor Cortex	Frontal Lobe	NA	Primary Motor Cortex
+GSM6502951	GSE211822, GSE211826	bb1_itc_n_atac	Brain	Inferior Temporal Cortex	Neuron	female	20		Bulk ATAC	BA20	Inferior Temporal Cortex	Temporal Lobe	NA	Inferior Temporal Gyrus
+GSM6502952	GSE211822, GSE211826	bb1_pvc_g_atac	Brain	Primary Visual Cortex	Non-Neuron	female	20		Bulk ATAC	BA17	Primary Visual Cortex	Occipital Lobe	NA	Primary Visual Cortex
+GSM6502953	GSE211822, GSE211826	bb1_pvc_n_atac	Brain	Primary Visual Cortex	Neuron	female	20		Bulk ATAC	BA17	Primary Visual Cortex	Occipital Lobe	NA	Primary Visual Cortex
+GSM6502954	GSE211822, GSE211826	bb1_pac_g_atac	Brain	Primary Auditory Cortex	Non-Neuron	female	20		Bulk ATAC	BA41,42	Primary Auditory Cortex	Temporal Lobe	NA	Primary Auditory Cortex
+GSM6502955	GSE211822, GSE211826	bb1_pac_n_atac	Brain	Primary Auditory Cortex	Neuron	female	20		Bulk ATAC	BA41,42	Primary Auditory Cortex	Temporal Lobe	NA	Primary Auditory Cortex
+GSM6502956	GSE211822, GSE211826	bb2_hipp_n_atac	Brain	Hippocampus	Neuron	male	35		Bulk ATAC		Hippocampus	Limbic system	NA	Hippocampus
+Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other
+Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other
+GSM6502959	GSE211822, GSE211826	bb2_pvpc_g_atac	Brain	Posteroventral (Inferior) Parietal Cortex	Non-Neuron	male	35		Bulk ATAC	BA3,2,1	Posteroventral	Parietal Lobe	NA	Primary Somatosensory Cortex
+GSM6502960	GSE211822, GSE211826	bb2_pvpc_n_atac	Brain	Posteroventral (Inferior) Parietal Cortex	Neuron	male	35		Bulk ATAC	BA3,2,1	Posteroventral	Parietal Lobe	NA	Primary Somatosensory Cortex
+GSM6502961	GSE211822, GSE211826	bb2_amy_g_atac	Brain	Amygdaloid Complex	Non-Neuron	male	35		Bulk ATAC		Amygdaloid Complex	Limbic System	NA	Amygdala
+GSM6502962	GSE211822, GSE211826	bb2_amy_n_atac	Brain	Amygdaloid Complex	Neuron	male	35		Bulk ATAC		Amygdaloid Complex	Limbic System	NA	Amygdala
+GSM6502963	GSE211822, GSE211826	bb2_vlpfc_g_atac	Brain	Ventrolateral Prefrontal Cortex	Non-Neuron	male	35		Bulk ATAC	BA45,47	Ventrolateral Prefrontal Cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Ventrolateral Prefrontal Cortex
+GSM6502964	GSE211822, GSE211826	bb2_vlpfc_n_atac	Brain	Ventrolateral Prefrontal Cortex	Neuron	male	35		Bulk ATAC	BA45,47	Ventrolateral Prefrontal Cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Ventrolateral Prefrontal Cortex
+Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other
+Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other	Other
+GSM6502967	GSE211822, GSE211826	bb2_ec_g_atac	Brain	Parahippocampal Cortex/Entorhinal Cortex	Non-Neuron	male	35		Bulk ATAC	BA28,34	Parahippocampal Cortex/Entorhinal Cortex	Temporal Lobe	Medial Temporal Lobe	Parahippocampal Cortex/Entorhinal Cortex
+GSM6502968	GSE211822, GSE211826	bb2_ec_n_atac	Brain	Parahippocampal Cortex/Entorhinal Cortex	Neuron	male	35		Bulk ATAC	BA28,34	Parahippocampal Cortex/Entorhinal Cortex	Temporal Lobe	Medial Temporal Lobe	Parahippocampal Cortex/Entorhinal Cortex
+GSM6502969	GSE211822, GSE211826	bb2_nac_g_atac	Brain	Nucleus Accumbens	Non-Neuron	male	35		Bulk ATAC		Nucleus Accumbens	Limbic System	NA	Nucleus Accumbens
+GSM6502970	GSE211822, GSE211826	bb2_nac_n_atac	Brain	Nucleus Accumbens	Neuron	male	35		Bulk ATAC		Nucleus Accumbens	Limbic System	NA	Nucleus Accumbens
+GSM6502971	GSE211822, GSE211826	bb2_ins_g_atac	Brain	Insula	Non-Neuron	male	35		Bulk ATAC	BA16	Insula	Lateral Sulcus	NA	Insula
+GSM6502972	GSE211822, GSE211826	bb2_ins_n_atac	Brain	Insula	Neuron	male	35		Bulk ATAC	BA16	Insula	Lateral Sulcus	NA	Insula
+GSM6502973	GSE211822, GSE211826	bb2_ofc_g_atac	Brain	Orbital Frontal Cortex	Non-Neuron	male	35		Bulk ATAC	BA10,11,47	Orbital Frontal Cortex	Prefrontal Cortex	Prefrontal Cortex	Orbitofrontal Cortex
+GSM6502974	GSE211822, GSE211826	bb2_ofc_n_atac	Brain	Orbital Frontal Cortex	Neuron	male	35		Bulk ATAC	BA10,11,47	Orbital Frontal Cortex	Prefrontal Cortex	Prefrontal Cortex	Orbitofrontal Cortex
+GSM6502975	GSE211822, GSE211826	bb2_dlpfc_g_atac	Brain	Dorsolateral Prefrontal Cortex	Non-Neuron	male	35		Bulk ATAC	BA8,9,46	Dorsolateral Prefrontal Cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM6502976	GSE211822, GSE211826	bb2_dlpfc_n_atac	Brain	Dorsolateral Prefrontal Cortex	Neuron	male	35		Bulk ATAC	BA8,9,46	Dorsolateral Prefrontal Cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM6502977	GSE211822, GSE211826	bb2_mdt_g_atac	Brain	Mediodorsal Thalamus	Non-Neuron	male	35		Bulk ATAC		Mediodorsal Thalamus	Thalamus	Mediodorsal Thalamus	NA
+GSM6502978	GSE211822, GSE211826	bb2_mdt_n_atac	Brain	Mediodorsal Thalamus	Neuron	male	35		Bulk ATAC		Mediodorsal Thalamus	Thalamus	Mediodorsal Thalamus	NA
+GSM6502979	GSE211822, GSE211826	bb2_pstc_g_atac	Brain	Posterior Superior Temporal Cortex	Non-Neuron	male	35		Bulk ATAC	BA22,41,42	Posterior Superior Temporal Cortex	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM6502980	GSE211822, GSE211826	bb2_pstc_n_atac	Brain	Posterior Superior Temporal Cortex	Neuron	male	35		Bulk ATAC	BA22,41,42	Posterior Superior Temporal Cortex	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM6502981	GSE211822, GSE211826	bb2_gp_g_atac	Brain	Globus Pallidus	Non-Neuron	male	35		Bulk ATAC		Globus Pallidus	Basal Ganglia	NA	Globus Pallidus
+GSM6502982	GSE211822, GSE211826	bb2_gp_n_atac	Brain	Globus Pallidus	Neuron	male	35		Bulk ATAC		Globus Pallidus	Basal Ganglia	NA	Globus Pallidus
+GSM6502983	GSE211822, GSE211826	bb2_psc_g_atac	Brain	Primary Somatosensory Cortex	Non-Neuron	male	35		Bulk ATAC	BA3,2,1	Primary Somatosensory Cortex	Parietal Lobe	NA	Primary Somatosensory Cortex
+GSM6502984	GSE211822, GSE211826	bb2_psc_n_atac	Brain	Primary Somatosensory Cortex	Neuron	male	35		Bulk ATAC	BA3,2,1	Primary Somatosensory Cortex	Parietal Lobe	NA	Primary Somatosensory Cortex
+GSM6502985	GSE211822, GSE211826	bb2_itc_g_atac	Brain	Inferior Temporal Cortex	Non-Neuron	male	35		Bulk ATAC	BA20	Inferior Temporal Cortex	Temporal Lobe	NA	Inferior Temporal Gyrus
+GSM6502986	GSE211822, GSE211826	bb2_itc_n_atac	Brain	Inferior Temporal Cortex	Neuron	male	35		Bulk ATAC	BA20	Inferior Temporal Cortex	Temporal Lobe	NA	Inferior Temporal Gyrus
+GSM6502987	GSE211822, GSE211826	bb2_pac_g_atac	Brain	Primary Auditory Cortex	Non-Neuron	male	35		Bulk ATAC	BA41,42	Primary Auditory Cortex	Temporal Lobe	NA	Primary Auditory Cortex
+GSM6502988	GSE211822, GSE211826	bb2_pvc_g_atac	Brain	Primary Visual Cortex	Non-Neuron	male	35		Bulk ATAC	BA17	Primary Visual Cortex	Occipital Lobe	NA	Primary Visual Cortex
+GSM6502989	GSE211822, GSE211826	bb2_pvc_n_atac	Brain	Primary Visual Cortex	Neuron	male	35		Bulk ATAC	BA17	Primary Visual Cortex	Occipital Lobe	NA	Primary Visual Cortex
+GSM6502990	GSE211822, GSE211826	bb2_vta_g_atac	Brain	Ventral Tegmental Area	Non-Neuron	male	35		Bulk ATAC		Ventral Tegmental Area	NA	NA	NA
+GSM6502991	GSE211822, GSE211826	bb2_crblm_g_atac	Brain	Cerebellum	Non-Neuron	male	35		Bulk ATAC		Cerebellum	Cerebellum	NA	NA
+GSM6502992	GSE211822, GSE211826	bb2_crblm_n_atac	Brain	Cerebellum	Neuron	male	35		Bulk ATAC		Cerebellum	Cerebellum	NA	NA
+GSM6502993	GSE211822, GSE211826	bb2_cn_g_atac	Brain	Caudate Nucleus	Non-Neuron	male	35		Bulk ATAC		Caudate Nucleus	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM6502994	GSE211822, GSE211826	bb2_cn_n_atac	Brain	Caudate Nucleus	Neuron	male	35		Bulk ATAC		Caudate Nucleus	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM6502995	GSE211822, GSE211826	bb2_drn_g_atac	Brain	Dorsal Raphe Nucleus	Non-Neuron	male	35		Bulk ATAC		Dorsal Raphe Nucleus	Brainstem	NA	Dorsal Raphe Nucleus
+GSM6502996	GSE211822, GSE211826	bb2_rmtg_g_atac	Brain	Rostromedial Tegmental Nucl	Non-Neuron	male	35		Bulk ATAC		Rostromedial Tegmental Nucl	NA	NA	NA
+GSM6502997	GSE211822, GSE211826	bb5_psc_g_atac	Brain	Primary Somatosensory Cortex	Non-Neuron	male	34		Bulk ATAC	BA3,2,1	Primary Somatosensory Cortex	Parietal Lobe	NA	Primary Somatosensory Cortex
+GSM6502998	GSE211822, GSE211826	bb5_psc_n_atac	Brain	Primary Somatosensory Cortex	Neuron	male	34		Bulk ATAC	BA3,2,1	Primary Somatosensory Cortex	Parietal Lobe	NA	Primary Somatosensory Cortex
+GSM6502999	GSE211822, GSE211826	bb3_ec_n_atac	Brain	Parahippocampal Cortex/Entorhinal Cortex	Neuron	male	20		Bulk ATAC	BA28,34	Parahippocampal Cortex/Entorhinal Cortex	Temporal Lobe	Medial Temporal Lobe	Parahippocampal Cortex/Entorhinal Cortex
+GSM6503000	GSE211822, GSE211826	bb6_ins_g_atac	Brain	Insula	Non-Neuron	female	39		Bulk ATAC	BA16	Insula	Lateral Sulcus	NA	Insula
+GSM6503001	GSE211822, GSE211826	bb5_itc_n_atac	Brain	Inferior Temporal Cortex	Neuron	male	34		Bulk ATAC	BA20	Inferior Temporal Cortex	Temporal Lobe	NA	Inferior Temporal Gyrus
+GSM6503002	GSE211822, GSE211826	bb6_dlpfc_g_atac	Brain	Dorsolateral Prefrontal Cortex	Non-Neuron	female	39		Bulk ATAC	BA8,9,46	Dorsolateral Prefrontal Cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM6503003	GSE211822, GSE211826	bb6_dlpfc_n_atac	Brain	Dorsolateral Prefrontal Cortex	Neuron	female	39		Bulk ATAC	BA8,9,46	Dorsolateral Prefrontal Cortex	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM7078419	GSE226529	bulk_atac-seq_control_hippocampus	Brain	Control Hippocampus					Bulk ATAC		Control Hippocampus	Limbic system	NA	Hippocampus
+GSM7078420	GSE226529	bulk_atac-seq_control_caudate	Brain	Control Caudate					Bulk ATAC		Control Caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7078421	GSE226529	bulk_atac-seq_control_middle_temporal_gyri	Brain	Control Middle Temporal Gyri					Bulk ATAC	BA21	Control Middle Temporal Gyri	Temporal Lobe	NA	Middle Temporal Gyrus
+GSM7106325	GSE227729	3357_striatonigral-medium-spiny-neuron_hct-17-hfg_ctrl	Brain	Anterior caudate	Striatonigral medium spiny neuron	male	50	HCT-17-HFG	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106326	GSE227729	3358_striatopallidal-medium-spiny-neuron_hct-17-hfg_ctrl	Brain	Anterior caudate	Striatopallidal medium spiny neuron	male	50	HCT-17-HFG	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106327	GSE227729	3359_striatonigral-medium-spiny-neuron_hct-17-hfg_ctrl	Brain	Posterior putamen	Striatonigral medium spiny neuron	male	50	HCT-17-HFG	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106328	GSE227729	3360_striatopallidal-medium-spiny-neuron_hct-17-hfg_ctrl	Brain	Posterior putamen	Striatopallidal medium spiny neuron	male	50	HCT-17-HFG	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106329	GSE227729	3361_striatonigral-medium-spiny-neuron_beb18135_ctrl	Brain	Anterior caudate	Striatonigral medium spiny neuron	male	56	BEB18135	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106330	GSE227729	3362_striatopallidal-medium-spiny-neuron_beb18135_ctrl	Brain	Anterior caudate	Striatopallidal medium spiny neuron	male	56	BEB18135	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106331	GSE227729	3363_striatonigral-medium-spiny-neuron_beb19025_ctrl	Brain	Posterior putamen	Striatonigral medium spiny neuron	male	54	BEB19025	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106332	GSE227729	3364_striatopallidal-medium-spiny-neuron_beb19025_ctrl	Brain	Posterior putamen	Striatopallidal medium spiny neuron	male	54	BEB19025	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106333	GSE227729	3365_striatonigral-medium-spiny-neuron_beb18135_ctrl	Brain	Anterior putamen	Striatonigral medium spiny neuron	male	56	BEB18135	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106334	GSE227729	3366_striatopallidal-medium-spiny-neuron_beb18135_ctrl	Brain	Anterior putamen	Striatopallidal medium spiny neuron	male	56	BEB18135	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106335	GSE227729	3367_striatonigral-medium-spiny-neuron_hct-17-hfg_ctrl	Brain	Anterior putamen	Striatonigral medium spiny neuron	male	50	HCT-17-HFG	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106336	GSE227729	3368_striatopallidal-medium-spiny-neuron_hct-17-hfg_ctrl	Brain	Anterior putamen	Striatopallidal medium spiny neuron	male	50	HCT-17-HFG	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106337	GSE227729	3369_striatonigral-medium-spiny-neuron_beb19025_ctrl	Brain	Anterior caudate	Striatonigral medium spiny neuron	male	54	BEB19025	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106338	GSE227729	3370_striatopallidal-medium-spiny-neuron_beb19025_ctrl	Brain	Anterior caudate	Striatopallidal medium spiny neuron	male	54	BEB19025	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106339	GSE227729	3371_striatonigral-medium-spiny-neuron_beb19051_ctrl	Brain	Anterior putamen	Striatonigral medium spiny neuron	male	39	BEB19051	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106340	GSE227729	3372_striatopallidal-medium-spiny-neuron_beb19051_ctrl	Brain	Anterior putamen	Striatopallidal medium spiny neuron	male	39	BEB19051	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106341	GSE227729	3373_striatonigral-medium-spiny-neuron_beb19051_ctrl	Brain	Posterior putamen	Striatonigral medium spiny neuron	male	39	BEB19051	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106342	GSE227729	3374_striatopallidal-medium-spiny-neuron_beb19051_ctrl	Brain	Posterior putamen	Striatopallidal medium spiny neuron	male	39	BEB19051	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106343	GSE227729	3439_oligodendrocyte_beb19025_ctrl	Brain	Posterior putamen	Oligodendrocyte	male	54	BEB19025	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106344	GSE227729	3440_microglia_hct-17-hfg_ctrl	Brain	Posterior putamen	Microglia	male	50	HCT-17-HFG	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106345	GSE227729	3441_astrocyte_hct-17-hfg_ctrl	Brain	Posterior putamen	Astrocyte	male	50	HCT-17-HFG	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106346	GSE227729	3442_striatonigral-medium-spiny-neuron_beb18117_ctrl	Brain	Posterior putamen	Striatonigral medium spiny neuron	male	63	BEB18117	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106347	GSE227729	3443_striatopallidal-medium-spiny-neuron_beb18117_ctrl	Brain	Posterior putamen	Striatopallidal medium spiny neuron	male	63	BEB18117	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106348	GSE227729	3444_striatonigral-medium-spiny-neuron_beb18116_ctrl	Brain	Posterior putamen	Striatonigral medium spiny neuron	male	67	BEB18116	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106349	GSE227729	3445_striatopallidal-medium-spiny-neuron_beb18116_ctrl	Brain	Posterior putamen	Striatopallidal medium spiny neuron	male	67	BEB18116	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106350	GSE227729	3446_striatonigral-medium-spiny-neuron_beb18117_ctrl	Brain	Anterior caudate	Striatonigral medium spiny neuron	male	63	BEB18117	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106351	GSE227729	3447_striatopallidal-medium-spiny-neuron_beb18117_ctrl	Brain	Anterior caudate	Striatopallidal medium spiny neuron	male	63	BEB18117	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106352	GSE227729	3448_striatonigral-medium-spiny-neuron_beb18116_ctrl	Brain	Anterior caudate	Striatonigral medium spiny neuron	male	67	BEB18116	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106353	GSE227729	3449_striatopallidal-medium-spiny-neuron_beb18116_ctrl	Brain	Anterior caudate	Striatopallidal medium spiny neuron	male	67	BEB18116	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106354	GSE227729	3450_striatonigral-medium-spiny-neuron_beb19025_ctrl	Brain	Posterior caudate	Striatonigral medium spiny neuron	male	54	BEB19025	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106355	GSE227729	3451_striatopallidal-medium-spiny-neuron_beb19025_ctrl	Brain	Posterior caudate	Striatopallidal medium spiny neuron	male	54	BEB19025	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106356	GSE227729	3452_striatonigral-medium-spiny-neuron_beb19051_ctrl	Brain	Posterior caudate	Striatonigral medium spiny neuron	male	39	BEB19051	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106357	GSE227729	3453_striatopallidal-medium-spiny-neuron_beb19051_ctrl	Brain	Posterior caudate	Striatopallidal medium spiny neuron	male	39	BEB19051	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106358	GSE227729	3454_striatonigral-medium-spiny-neuron_beb18135_ctrl	Brain	Posterior caudate	Striatonigral medium spiny neuron	male	56	BEB18135	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106359	GSE227729	3455_striatopallidal-medium-spiny-neuron_beb18135_ctrl	Brain	Posterior caudate	Striatopallidal medium spiny neuron	male	56	BEB18135	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106360	GSE227729	3456_astrocyte_beb19025_ctrl	Brain	Posterior putamen	Astrocyte	male	54	BEB19025	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106361	GSE227729	3461_striatonigral-medium-spiny-neuron_beb18135_ctrl	Brain	Posterior putamen	Striatonigral medium spiny neuron	male	56	BEB18135	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106362	GSE227729	3462_striatopallidal-medium-spiny-neuron_beb18135_ctrl	Brain	Posterior putamen	Striatopallidal medium spiny neuron	male	56	BEB18135	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106363	GSE227729	3463_striatonigral-medium-spiny-neuron_beb19025_ctrl	Brain	Anterior putamen	Striatonigral medium spiny neuron	male	54	BEB19025	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106364	GSE227729	3464_striatopallidal-medium-spiny-neuron_beb19025_ctrl	Brain	Anterior putamen	Striatopallidal medium spiny neuron	male	54	BEB19025	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106365	GSE227729	3465_striatonigral-medium-spiny-neuron_beb19051_ctrl	Brain	Anterior caudate	Striatonigral medium spiny neuron	male	39	BEB19051	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106366	GSE227729	3466_striatopallidal-medium-spiny-neuron_beb19051_ctrl	Brain	Anterior caudate	Striatopallidal medium spiny neuron	male	39	BEB19051	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106367	GSE227729	3467_striatonigral-medium-spiny-neuron_hctsu_ctrl	Brain	Posterior putamen	Striatonigral medium spiny neuron	female	63	HCTSU	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106368	GSE227729	3468_striatopallidal-medium-spiny-neuron_hctsu_ctrl	Brain	Posterior putamen	Striatopallidal medium spiny neuron	female	63	HCTSU	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106369	GSE227729	3469_striatonigral-medium-spiny-neuron_hctsu_ctrl	Brain	Anterior caudate	Striatonigral medium spiny neuron	female	63	HCTSU	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106370	GSE227729	3470_striatopallidal-medium-spiny-neuron_hctsu_ctrl	Brain	Anterior caudate	Striatopallidal medium spiny neuron	female	63	HCTSU	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106371	GSE227729	3471_striatonigral-medium-spiny-neuron_hctsu_ctrl	Brain	Posterior caudate	Striatonigral medium spiny neuron	female	63	HCTSU	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106372	GSE227729	3472_striatopallidal-medium-spiny-neuron_hctsu_ctrl	Brain	Posterior caudate	Striatopallidal medium spiny neuron	female	63	HCTSU	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106375	GSE227729	3475_striatonigral-medium-spiny-neuron_beb18117_ctrl	Brain	Posterior caudate	Striatonigral medium spiny neuron	male	63	BEB18117	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106376	GSE227729	3476_striatopallidal-medium-spiny-neuron_beb18117_ctrl	Brain	Posterior caudate	Striatopallidal medium spiny neuron	male	63	BEB18117	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106377	GSE227729	3493_striatonigral-medium-spiny-neuron_hctsu_ctrl	Brain	Anterior putamen	Striatonigral medium spiny neuron	female	63	HCTSU	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106378	GSE227729	3494_striatopallidal-medium-spiny-neuron_hctsu_ctrl	Brain	Anterior putamen	Striatopallidal medium spiny neuron	female	63	HCTSU	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106379	GSE227729	3495_striatonigral-medium-spiny-neuron_beb18117_ctrl	Brain	Anterior putamen	Striatonigral medium spiny neuron	male	63	BEB18117	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106380	GSE227729	3496_striatopallidal-medium-spiny-neuron_beb18117_ctrl	Brain	Anterior putamen	Striatopallidal medium spiny neuron	male	63	BEB18117	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106381	GSE227729	3497_striatonigral-medium-spiny-neuron_beb18116_ctrl	Brain	Anterior putamen	Striatonigral medium spiny neuron	male	67	BEB18116	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106382	GSE227729	3498_striatopallidal-medium-spiny-neuron_beb18116_ctrl	Brain	Anterior putamen	Striatopallidal medium spiny neuron	male	67	BEB18116	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106383	GSE227729	3499_striatonigral-medium-spiny-neuron_beb18116_ctrl	Brain	Posterior caudate	Striatonigral medium spiny neuron	male	67	BEB18116	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106384	GSE227729	3500_striatopallidal-medium-spiny-neuron_beb18116_ctrl	Brain	Posterior caudate	Striatopallidal medium spiny neuron	male	67	BEB18116	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106385	GSE227729	3545_oligodendrocyte_beb18116_ctrl	Brain	Posterior putamen	Oligodendrocyte	male	67	BEB18116	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106386	GSE227729	3560_oligodendrocyte_beb18117_ctrl	Brain	Posterior putamen	Oligodendrocyte	male	63	BEB18117	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106387	GSE227729	3561_microglia_beb18117_ctrl	Brain	Posterior putamen	Microglia	male	63	BEB18117	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106388	GSE227729	3562_astrocyte_beb18117_ctrl	Brain	Posterior putamen	Astrocyte	male	63	BEB18117	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106389	GSE227729	3563_oligodendrocyte_hct-17-hfg_ctrl	Brain	Anterior caudate	Oligodendrocyte	male	50	HCT-17-HFG	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106390	GSE227729	3564_microglia_hct-17-hfg_ctrl	Brain	Anterior caudate	Microglia	male	50	HCT-17-HFG	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106391	GSE227729	3565_astrocyte_hct-17-hfg_ctrl	Brain	Anterior caudate	Astrocyte	male	50	HCT-17-HFG	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106392	GSE227729	3575_striatonigral-medium-spiny-neuron_beb20057_ctrl	Brain	Posterior putamen	Striatonigral medium spiny neuron	male	41	BEB20057	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106393	GSE227729	3576_striatopallidal-medium-spiny-neuron_beb20057_ctrl	Brain	Posterior putamen	Striatopallidal medium spiny neuron	male	41	BEB20057	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106394	GSE227729	3577_striatonigral-medium-spiny-neuron_beb20057_ctrl	Brain	Anterior caudate	Striatonigral medium spiny neuron	male	41	BEB20057	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106395	GSE227729	3578_striatopallidal-medium-spiny-neuron_beb20057_ctrl	Brain	Anterior caudate	Striatopallidal medium spiny neuron	male	41	BEB20057	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106396	GSE227729	3585_microglia_beb19025_ctrl	Brain	Posterior putamen	Microglia	male	54	BEB19025	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106397	GSE227729	3648_striatonigral-medium-spiny-neuron_beb20057_ctrl	Brain	Anterior putamen	Striatonigral medium spiny neuron	male	41	BEB20057	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106398	GSE227729	3649_striatopallidal-medium-spiny-neuron_beb20057_ctrl	Brain	Anterior putamen	Striatopallidal medium spiny neuron	male	41	BEB20057	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106399	GSE227729	3654_striatonigral-medium-spiny-neuron_beb20057_ctrl	Brain	Posterior caudate	Striatonigral medium spiny neuron	male	41	BEB20057	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106400	GSE227729	3655_striatopallidal-medium-spiny-neuron_beb20057_ctrl	Brain	Posterior caudate	Striatopallidal medium spiny neuron	male	41	BEB20057	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106403	GSE227729	3660_striatonigral-medium-spiny-neuron_hct-17-hfg_ctrl	Brain	Posterior caudate	Striatonigral medium spiny neuron	male	50	HCT-17-HFG	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106404	GSE227729	3661_striatopallidal-medium-spiny-neuron_hct-17-hfg_ctrl	Brain	Posterior caudate	Striatopallidal medium spiny neuron	male	50	HCT-17-HFG	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106407	GSE227729	3829_interneuron--non-fast-spiking_beb18117_ctrl	Brain	Anterior putamen	Interneuron, Non-Fast Spiking	male	63	BEB18117	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106408	GSE227729	3830_interneuron--other_beb18117_ctrl	Brain	Anterior putamen	Interneuron, Other	male	63	BEB18117	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106409	GSE227729	3831_interneuron--fast-spiking_beb18117_ctrl	Brain	Anterior putamen	Interneuron, Fast Spiking	male	63	BEB18117	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106410	GSE227729	3832_interneuron--non-fast-spiking_beb20057_ctrl	Brain	Posterior putamen	Interneuron, Non-Fast Spiking	male	41	BEB20057	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106411	GSE227729	3833_interneuron--other_beb20057_ctrl	Brain	Posterior putamen	Interneuron, Other	male	41	BEB20057	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106412	GSE227729	3834_interneuron--fast-spiking_beb20057_ctrl	Brain	Posterior putamen	Interneuron, Fast Spiking	male	41	BEB20057	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106413	GSE227729	3835_interneuron--non-fast-spiking_beb18116_ctrl	Brain	Posterior putamen	Interneuron, Non-Fast Spiking	male	67	BEB18116	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106414	GSE227729	3836_interneuron--other_beb18116_ctrl	Brain	Posterior putamen	Interneuron, Other	male	67	BEB18116	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106415	GSE227729	3837_interneuron--fast-spiking_beb18116_ctrl	Brain	Posterior putamen	Interneuron, Fast Spiking	male	67	BEB18116	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106416	GSE227729	3847_microglia_beb18117_ctrl	Brain	Anterior putamen	Microglia	male	63	BEB18117	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106417	GSE227729	3848_astrocyte_beb18117_ctrl	Brain	Anterior putamen	Astrocyte	male	63	BEB18117	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106418	GSE227729	3849_microglia_beb18116_ctrl	Brain	Anterior putamen	Microglia	male	67	BEB18116	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106419	GSE227729	3850_astrocyte_beb18116_ctrl	Brain	Anterior putamen	Astrocyte	male	67	BEB18116	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106420	GSE227729	3853_astrocyte_beb20057_ctrl	Brain	Posterior putamen	Astrocyte	male	41	BEB20057	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106421	GSE227729	3869_oligodendrocyte_beb18116_ctrl	Brain	Anterior caudate	Oligodendrocyte	male	67	BEB18116	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106422	GSE227729	3871_astrocyte_beb18116_ctrl	Brain	Anterior caudate	Astrocyte	male	67	BEB18116	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106423	GSE227729	3872_interneuron--non-fast-spiking_beb18135_ctrl	Brain	Posterior putamen	Interneuron, Non-Fast Spiking	male	56	BEB18135	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106424	GSE227729	3874_interneuron--other_beb18135_ctrl	Brain	Posterior putamen	Interneuron, Other	male	56	BEB18135	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106425	GSE227729	3875_oligodendrocyte_beb18135_ctrl	Brain	Posterior caudate	Oligodendrocyte	male	56	BEB18135	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106426	GSE227729	3876_microglia_beb18135_ctrl	Brain	Posterior caudate	Microglia	male	56	BEB18135	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106427	GSE227729	3877_astrocyte_beb18135_ctrl	Brain	Posterior caudate	Astrocyte	male	56	BEB18135	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106428	GSE227729	3879_interneuron--fast-spiking_beb19025_ctrl	Brain	Posterior putamen	Interneuron, Fast Spiking	male	54	BEB19025	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106429	GSE227729	3880_interneuron--other_beb19025_ctrl	Brain	Posterior putamen	Interneuron, Other	male	54	BEB19025	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106430	GSE227729	3881_oligodendrocyte_beb18117_ctrl	Brain	Anterior putamen	Oligodendrocyte	male	63	BEB18117	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106431	GSE227729	3882_oligodendrocyte_beb18116_ctrl	Brain	Anterior putamen	Oligodendrocyte	male	67	BEB18116	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106432	GSE227729	3883_interneuron--non-fast-spiking_hct-17-hfg_ctrl	Brain	Posterior putamen	Interneuron, Non-Fast Spiking	male	50	HCT-17-HFG	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106433	GSE227729	3884_interneuron--fast-spiking_hct-17-hfg_ctrl	Brain	Posterior putamen	Interneuron, Fast Spiking	male	50	HCT-17-HFG	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106434	GSE227729	3885_interneuron--other_hct-17-hfg_ctrl	Brain	Posterior putamen	Interneuron, Other	male	50	HCT-17-HFG	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106435	GSE227729	3886_oligodendrocyte_beb20057_ctrl	Brain	Anterior putamen	Oligodendrocyte	male	41	BEB20057	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106436	GSE227729	3887_microglia_beb20057_ctrl	Brain	Anterior putamen	Microglia	male	41	BEB20057	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106437	GSE227729	3888_astrocyte_beb20057_ctrl	Brain	Anterior putamen	Astrocyte	male	41	BEB20057	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106438	GSE227729	3907_oligodendrocyte_beb20057_ctrl	Brain	Posterior putamen	Oligodendrocyte	male	41	BEB20057	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106439	GSE227729	4227_interneuron--fast-spiking_beb19051_ctrl	Brain	Posterior putamen	Interneuron, Fast Spiking	male	39	BEB19051	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106440	GSE227729	4228_interneuron--non-fast-spiking_beb19051_ctrl	Brain	Posterior putamen	Interneuron, Non-Fast Spiking	male	39	BEB19051	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106441	GSE227729	4229_interneuron--other_beb19051_ctrl	Brain	Posterior putamen	Interneuron, Other	male	39	BEB19051	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106442	GSE227729	4238_astrocyte_beb19051_ctrl	Brain	Posterior putamen	Astrocyte	male	39	BEB19051	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106443	GSE227729	4375_microglia_beb18116_ctrl	Brain	Posterior putamen	Microglia	male	67	BEB18116	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106444	GSE227729	4376_astrocyte_beb18116_ctrl	Brain	Posterior putamen	Astrocyte	male	67	BEB18116	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106445	GSE227729	4378_microglia_beb18117_ctrl	Brain	Posterior caudate	Microglia	male	63	BEB18117	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106446	GSE227729	4380_oligodendrocyte_beb19025_ctrl	Brain	Posterior caudate	Oligodendrocyte	male	54	BEB19025	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106447	GSE227729	4381_microglia_beb19025_ctrl	Brain	Posterior caudate	Microglia	male	54	BEB19025	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106448	GSE227729	4382_astrocyte_beb19025_ctrl	Brain	Posterior caudate	Astrocyte	male	54	BEB19025	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106449	GSE227729	4383_oligodendrocyte_hctsu_ctrl	Brain	Posterior caudate	Oligodendrocyte	female	63	HCTSU	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106450	GSE227729	4384_microglia_hctsu_ctrl	Brain	Posterior caudate	Microglia	female	63	HCTSU	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106451	GSE227729	4385_astrocyte_hctsu_ctrl	Brain	Posterior caudate	Astrocyte	female	63	HCTSU	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106452	GSE227729	4387_microglia_hctsu_ctrl	Brain	Posterior putamen	Microglia	female	63	HCTSU	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106453	GSE227729	4388_astrocyte_hctsu_ctrl	Brain	Posterior putamen	Astrocyte	female	63	HCTSU	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106454	GSE227729	4390_microglia_beb18135_ctrl	Brain	Posterior putamen	Microglia	male	56	BEB18135	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106455	GSE227729	4391_astrocyte_beb18135_ctrl	Brain	Posterior putamen	Astrocyte	male	56	BEB18135	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106456	GSE227729	4477_interneuron--non-fast-spiking_beb20057_ctrl	Brain	Anterior caudate	Interneuron, Non-Fast Spiking	male	41	BEB20057	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106457	GSE227729	4478_interneuron--fast-spiking_beb20057_ctrl	Brain	Anterior caudate	Interneuron, Fast Spiking	male	41	BEB20057	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106458	GSE227729	4479_interneuron--other_beb20057_ctrl	Brain	Anterior caudate	Interneuron, Other	male	41	BEB20057	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106464	GSE227729	4543_astrocyte_beb18117_ctrl	Brain	Posterior caudate	Astrocyte	male	63	BEB18117	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106465	GSE227729	4544_oligodendrocyte_beb18117_ctrl	Brain	Posterior caudate	Oligodendrocyte	male	63	BEB18117	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106466	GSE227729	4570_interneuron--other_beb18116_ctrl	Brain	Anterior caudate	Interneuron, Other	male	67	BEB18116	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106467	GSE227729	4571_interneuron--fast-spiking_beb18116_ctrl	Brain	Anterior caudate	Interneuron, Fast Spiking	male	67	BEB18116	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106468	GSE227729	4572_interneuron--non-fast-spiking_beb18116_ctrl	Brain	Anterior caudate	Interneuron, Non-Fast Spiking	male	67	BEB18116	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106469	GSE227729	4573_interneuron--other_beb18117_ctrl	Brain	Posterior caudate	Interneuron, Other	male	63	BEB18117	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106470	GSE227729	4574_interneuron--fast-spiking_beb18117_ctrl	Brain	Posterior caudate	Interneuron, Fast Spiking	male	63	BEB18117	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106471	GSE227729	4575_interneuron--non-fast-spiking_beb18117_ctrl	Brain	Posterior caudate	Interneuron, Non-Fast Spiking	male	63	BEB18117	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106472	GSE227729	4576_interneuron--other_beb19051_ctrl	Brain	Posterior caudate	Interneuron, Other	male	39	BEB19051	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106473	GSE227729	4577_interneuron--fast-spiking_beb19051_ctrl	Brain	Posterior caudate	Interneuron, Fast Spiking	male	39	BEB19051	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106474	GSE227729	4578_interneuron--non-fast-spiking_beb19051_ctrl	Brain	Posterior caudate	Interneuron, Non-Fast Spiking	male	39	BEB19051	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106475	GSE227729	4579_interneuron--other_beb19025_ctrl	Brain	Posterior caudate	Interneuron, Other	male	54	BEB19025	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106476	GSE227729	4580_interneuron--fast-spiking_beb19025_ctrl	Brain	Posterior caudate	Interneuron, Fast Spiking	male	54	BEB19025	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106477	GSE227729	4581_interneuron--non-fast-spiking_beb19025_ctrl	Brain	Posterior caudate	Interneuron, Non-Fast Spiking	male	54	BEB19025	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106486	GSE227729	4711_oligodendrocyte_beb18135_ctrl	Brain	Posterior putamen	Oligodendrocyte	male	56	BEB18135	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106489	GSE227729	4757_interneuron--fast-spiking_hctsu_ctrl	Brain	Posterior caudate	Interneuron, Fast Spiking	female	63	HCTSU	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106490	GSE227729	4758_interneuron--other_hctsu_ctrl	Brain	Posterior caudate	Interneuron, Other	female	63	HCTSU	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106491	GSE227729	4759_microglia_beb20057_ctrl	Brain	Posterior putamen	Microglia	male	41	BEB20057	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106492	GSE227729	4773_interneuron--non-fast-spiking_hctsu_ctrl	Brain	Posterior caudate	Interneuron, Non-Fast Spiking	female	63	HCTSU	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106494	GSE227729	4779_oligodendrocyte_beb20057_ctrl	Brain	Posterior caudate	Oligodendrocyte	male	41	BEB20057	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106495	GSE227729	4780_microglia_beb20057_ctrl	Brain	Posterior caudate	Microglia	male	41	BEB20057	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106496	GSE227729	4781_astrocyte_beb20057_ctrl	Brain	Posterior caudate	Astrocyte	male	41	BEB20057	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106497	GSE227729	4782_oligodendrocyte_beb19051_ctrl	Brain	Anterior putamen	Oligodendrocyte	male	39	BEB19051	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106498	GSE227729	4783_microglia_beb19051_ctrl	Brain	Anterior putamen	Microglia	male	39	BEB19051	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106499	GSE227729	4784_astrocyte_beb19051_ctrl	Brain	Anterior putamen	Astrocyte	male	39	BEB19051	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106500	GSE227729	4862_oligodendrocyte_hct-17-hfg_ctrl	Brain	Posterior caudate	Oligodendrocyte	male	50	HCT-17-HFG	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106501	GSE227729	4863_microglia_hct-17-hfg_ctrl	Brain	Posterior caudate	Microglia	male	50	HCT-17-HFG	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106502	GSE227729	4864_astrocyte_hct-17-hfg_ctrl	Brain	Posterior caudate	Astrocyte	male	50	HCT-17-HFG	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106503	GSE227729	4865_oligodendrocyte_beb19051_ctrl	Brain	Posterior caudate	Oligodendrocyte	male	39	BEB19051	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106504	GSE227729	4866_microglia_beb19051_ctrl	Brain	Posterior caudate	Microglia	male	39	BEB19051	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106505	GSE227729	4868_oligodendrocyte_beb20057_ctrl	Brain	Anterior caudate	Oligodendrocyte	male	41	BEB20057	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106506	GSE227729	4869_microglia_beb20057_ctrl	Brain	Anterior caudate	Microglia	male	41	BEB20057	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106507	GSE227729	4870_astrocyte_beb20057_ctrl	Brain	Anterior caudate	Astrocyte	male	41	BEB20057	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106508	GSE227729	4871_oligodendrocyte_hctsu_ctrl	Brain	Anterior caudate	Oligodendrocyte	female	63	HCTSU	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106509	GSE227729	4872_microglia_hctsu_ctrl	Brain	Anterior caudate	Microglia	female	63	HCTSU	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106510	GSE227729	4873_astrocyte_hctsu_ctrl	Brain	Anterior caudate	Astrocyte	female	63	HCTSU	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106511	GSE227729	4877_microglia_beb19051_ctrl	Brain	Posterior putamen	Microglia	male	39	BEB19051	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106512	GSE227729	4878_interneuron--other_beb18116_ctrl	Brain	Anterior putamen	Interneuron, Other	male	67	BEB18116	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106513	GSE227729	4879_interneuron--fast-spiking_beb18116_ctrl	Brain	Anterior putamen	Interneuron, Fast Spiking	male	67	BEB18116	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106514	GSE227729	4880_interneuron--non-fast-spiking_beb18116_ctrl	Brain	Anterior putamen	Interneuron, Non-Fast Spiking	male	67	BEB18116	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106515	GSE227729	5458_interneuron--fast-spiking_beb18135_ctrl	Brain	Anterior caudate	Interneuron, Fast Spiking	male	56	BEB18135	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106516	GSE227729	5459_interneuron--other_beb18135_ctrl	Brain	Anterior caudate	Interneuron, Other	male	56	BEB18135	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106517	GSE227729	5618_cholinergic-interneuron_beb18116_ctrl	Brain	Anterior putamen	Cholinergic interneuron	male	67	BEB18116	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106518	GSE227729	5622_interneuron--non-fast-spiking_beb18135_ctrl	Brain	Anterior caudate	Interneuron, Non-Fast Spiking	male	56	BEB18135	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106520	GSE227729	5840_cholinergic-interneuron_beb20057_ctrl	Brain	Posterior putamen	Cholinergic interneuron	male	41	BEB20057	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106521	GSE227729	5841_cholinergic-interneuron_beb19051_ctrl	Brain	Posterior putamen	Cholinergic interneuron	male	39	BEB19051	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106522	GSE227729	5842_cholinergic-interneuron_hct-17-hfg_ctrl	Brain	Posterior putamen	Cholinergic interneuron	male	50	HCT-17-HFG	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106523	GSE227729	5843_cholinergic-interneuron_beb19025_ctrl	Brain	Posterior putamen	Cholinergic interneuron	male	54	BEB19025	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106524	GSE227729	5846_interneuron--other_hct-17-hfg_ctrl	Brain	Posterior caudate	Interneuron, Other	male	50	HCT-17-HFG	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106525	GSE227729	5847_interneuron--fast-spiking_hct-17-hfg_ctrl	Brain	Posterior caudate	Interneuron, Fast Spiking	male	50	HCT-17-HFG	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106526	GSE227729	5848_interneuron--non-fast-spiking_hct-17-hfg_ctrl	Brain	Posterior caudate	Interneuron, Non-Fast Spiking	male	50	HCT-17-HFG	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106527	GSE227729	6118_cholinergic-interneuron_beb18117_ctrl	Brain	Posterior putamen	Cholinergic interneuron	male	63	BEB18117	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106531	GSE227729	6139_oligodendrocyte_hct-17-hfg_ctrl	Brain	Anterior putamen	Oligodendrocyte	male	50	HCT-17-HFG	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106532	GSE227729	6140_microglia_hct-17-hfg_ctrl	Brain	Anterior putamen	Microglia	male	50	HCT-17-HFG	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106533	GSE227729	6141_astrocyte_hct-17-hfg_ctrl	Brain	Anterior putamen	Astrocyte	male	50	HCT-17-HFG	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106534	GSE227729	6142_oligodendrocyte_beb19051_ctrl	Brain	Posterior putamen	Oligodendrocyte	male	39	BEB19051	Bulk RNA		Posterior putamen	Basal Nucleus	Corpus Striatum	Posterior putamen
+GSM7106535	GSE227729	6183_interneuron--other_hctsu_ctrl	Brain	Anterior putamen	Interneuron, Other	female	63	HCTSU	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106536	GSE227729	6184_interneuron--fast-spiking_hctsu_ctrl	Brain	Anterior putamen	Interneuron, Fast Spiking	female	63	HCTSU	Bulk RNA		Anterior putamen	Basal Nucleus	Corpus Striatum	Anterior putamen
+GSM7106537	GSE227729	6186_oligodendrocyte_beb18117_ctrl	Brain	Anterior caudate	Oligodendrocyte	male	63	BEB18117	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106538	GSE227729	6187_microglia_beb18117_ctrl	Brain	Anterior caudate	Microglia	male	63	BEB18117	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106539	GSE227729	6188_astrocyte_beb18117_ctrl	Brain	Anterior caudate	Astrocyte	male	63	BEB18117	Bulk RNA		Anterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106543	GSE227729	6279_oligodendrocyte_beb18116_ctrl	Brain	Posterior caudate	Oligodendrocyte	male	67	BEB18116	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106544	GSE227729	6280_microglia_beb18116_ctrl	Brain	Posterior caudate	Microglia	male	67	BEB18116	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7106545	GSE227729	6281_astrocyte_beb18116_ctrl	Brain	Posterior caudate	Astrocyte	male	67	BEB18116	Bulk RNA		Posterior caudate	Basal Ganglia	Corpus Striatum	Caudate Nucleus
+GSM7156218	GSE229169	m1_donor3_multiome_atac_	Brain	primary motor cortex		male	58	H19.30.004	Single-cell ATAC	BA4	primary motor cortex	Frontal Lobe	NA	Primary Motor Cortex
+GSM7156219	GSE229169	m1_donor3_multiome_gene_expression_	Brain	primary motor cortex		male	58	H19.30.004	Single-cell RNA	BA4	primary motor cortex	Frontal Lobe	NA	Primary Motor Cortex
+GSM7156220	GSE229169	m1_donor3_rep2_multiome_atac_	Brain	primary motor cortex		male	58	H19.30.004	Single-cell ATAC	BA4	primary motor cortex	Frontal Lobe	NA	Primary Motor Cortex
+GSM7156221	GSE229169	m1_donor3_rep2_multiome_gene_expression_	Brain	primary motor cortex		male	58	H19.30.004	Single-cell RNA	BA4	primary motor cortex	Frontal Lobe	NA	Primary Motor Cortex
+GSM7156222	GSE229169	m1_donor1_multiome_atac_	Brain	primary motor cortex		male	42	H19.30.001	Single-cell ATAC	BA4	primary motor cortex	Frontal Lobe	NA	Primary Motor Cortex
+GSM7156223	GSE229169	m1_donor1_multiome_gene_expression_	Brain	primary motor cortex		male	42	H19.30.001	Single-cell RNA	BA4	primary motor cortex	Frontal Lobe	NA	Primary Motor Cortex
+GSM7156224	GSE229169	m1_donor2_multiome_atac_	Brain	primary motor cortex		male	29	H19.30.002/UW7060	Single-cell ATAC	BA4	primary motor cortex	Frontal Lobe	NA	Primary Motor Cortex
+GSM7156225	GSE229169	m1_donor2_multiome_gene_expression_	Brain	primary motor cortex		male	29	H19.30.002/UW7060	Single-cell RNA	BA4	primary motor cortex	Frontal Lobe	NA	Primary Motor Cortex
+GSM7156226	GSE229169	m1_donor1_neun_multiome_atac_	Brain	primary motor cortex		male	42	H19.30.001	Single-cell ATAC	BA4	primary motor cortex	Frontal Lobe	NA	Primary Motor Cortex
+GSM7156227	GSE229169	m1_donor1_neun_multiome_gene_expression_	Brain	primary motor cortex		male	42	H19.30.001	Single-cell RNA	BA4	primary motor cortex	Frontal Lobe	NA	Primary Motor Cortex
+GSM7156228	GSE229169	m1_donor2_neun_multiome_atac_	Brain	primary motor cortex		male	29	H19.30.002/UW7060	Single-cell ATAC	BA4	primary motor cortex	Frontal Lobe	NA	Primary Motor Cortex
+GSM7156229	GSE229169	m1_donor2_neun_multiome_gene_expression_	Brain	primary motor cortex		male	29	H19.30.002/UW7060	Single-cell RNA	BA4	primary motor cortex	Frontal Lobe	NA	Primary Motor Cortex
+GSM7156230	GSE229169	m1_donor3_neun_multiome_atac_	Brain	primary motor cortex		male	58	H19.30.004	Single-cell ATAC	BA4	primary motor cortex	Frontal Lobe	NA	Primary Motor Cortex
+GSM7156231	GSE229169	m1_donor3_neun_multiome_gene_expression_	Brain	primary motor cortex		male	58	H19.30.004	Single-cell RNA	BA4	primary motor cortex	Frontal Lobe	NA	Primary Motor Cortex
+GSM7822133	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_mtg_from_donor_1	Brain	MTG		male		Donor 1	Single-cell ATAC	BA21	MTG	Temporal Lobe	NA	Middle Temporal Gyrus
+GSM7822134	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_mtg_from_donor_2	Brain	MTG		male		Donor 2	Single-cell ATAC	BA21	MTG	Temporal Lobe	NA	Middle Temporal Gyrus
+GSM7822135	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_mtg_from_donor_4	Brain	MTG		male		Donor 4	Single-cell ATAC	BA21	MTG	Temporal Lobe	NA	Middle Temporal Gyrus
+GSM7822136	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_m1c_from_donor_1	Brain	M1C		male		Donor 1	Single-cell ATAC	BA4	M1C	Frontal Lobe	NA	Primary Motor Cortex
+GSM7822137	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_m1c_from_donor_2	Brain	M1C		male		Donor 2	Single-cell ATAC	BA4	M1C	Frontal Lobe	NA	Primary Motor Cortex
+GSM7822138	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_m1c_from_donor_4	Brain	M1C		male		Donor 4	Single-cell ATAC	BA4	M1C	Frontal Lobe	NA	Primary Motor Cortex
+GSM7822139	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_v2_from_donor_1	Brain	V2		male		Donor 1	Single-cell ATAC	BA18	V2	Occipital Lobe	NA	Secondary Visual Cortex
+GSM7822140	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_v2_from_donor_2	Brain	V2		male		Donor 2	Single-cell ATAC	BA18	V2	Occipital Lobe	NA	Secondary Visual Cortex
+GSM7822141	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_v2_from_donor_4	Brain	V2		male		Donor 4	Single-cell ATAC	BA18	V2	Occipital Lobe	NA	Secondary Visual Cortex
+GSM7822142	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_fi_from_donor_1	Brain	FI		male		Donor 1	Single-cell ATAC		FI	Limbic system	NA	Hippocampus
+GSM7822143	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_fi_from_donor_2	Brain	FI		male		Donor 2	Single-cell ATAC		FI	Limbic system	NA	Hippocampus
+GSM7822144	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_fi_from_donor_4	Brain	FI		male		Donor 4	Single-cell ATAC		FI	Limbic system	NA	Hippocampus
+GSM7822145	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_a46_from_donor_1	Brain	A46		male		Donor 1	Single-cell ATAC	BA46	A46	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM7822146	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_a46_from_donor_2	Brain	A46		male		Donor 2	Single-cell ATAC	BA46	A46	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM7822147	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_a46_from_donor_4	Brain	A46		male		Donor 4	Single-cell ATAC	BA46	A46	Prefrontal Cortex	Lateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex
+GSM7822148	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_acc_from_donor_1	Brain	ACC		male		Donor 1	Single-cell ATAC	BA24,32,33	ACC	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM7822149	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_acc_from_donor_2	Brain	ACC		male		Donor 2	Single-cell ATAC	BA24,32,33	ACC	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM7822150	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_acc_from_donor_4	Brain	ACC		male		Donor 4	Single-cell ATAC	BA24,32,33	ACC	Prefrontal Cortex	Dorsomedial Prefrontal Cortex	Anterior Cingulate Cortex
+GSM7822151	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_v1c_from_donor_1	Brain	V1C		male		Donor 1	Single-cell ATAC	BA17	V1C	Occipital Lobe	NA	Primary Visual Cortex
+GSM7822152	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_v1c_from_donor_2	Brain	V1C		male		Donor 2	Single-cell ATAC	BA17	V1C	Occipital Lobe	NA	Primary Visual Cortex
+GSM7822153	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_v1c_from_donor_4	Brain	V1C		male		Donor 4	Single-cell ATAC	BA17	V1C	Occipital Lobe	NA	Primary Visual Cortex
+GSM7822154	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_a1c_from_donor_1	Brain	A1C		male		Donor 1	Single-cell ATAC	BA41,42	A1C	Temporal Lobe	NA	Primary Auditory Cortex
+GSM7822155	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_a1c_from_donor_2	Brain	A1C		male		Donor 2	Single-cell ATAC	BA41,42	A1C	Temporal Lobe	NA	Primary Auditory Cortex
+GSM7822156	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_a1c_from_donor_4	Brain	A1C		male		Donor 4	Single-cell ATAC	BA41,42	A1C	Temporal Lobe	NA	Primary Auditory Cortex
+GSM7822157	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_a44-a45_from_donor_1	Brain	A44-A45		male		Donor 1	Single-cell ATAC	A44,A45	A44-A45	Frontal Cortex	NA	Inferior Frontal Gyrus
+GSM7822158	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_a44-a45_from_donor_2	Brain	A44-A45		male		Donor 2	Single-cell ATAC	A44,A45	A44-A45	Frontal Cortex	NA	Inferior Frontal Gyrus
+GSM7822159	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_a44-a45_from_donor_4	Brain	A44-A45		male		Donor 4	Single-cell ATAC	A44,A45	A44-A45	Frontal Cortex	NA	Inferior Frontal Gyrus
+GSM7822160	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_a5-a7_from_donor_1	Brain	A5-A7		male		Donor 1	Single-cell ATAC	BA5,6,7	A5-A7	Frontal/Parietal Cortex	NA	Brodmann area 5-7
+GSM7822161	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_a5-a7_from_donor_2	Brain	A5-A7		male		Donor 2	Single-cell ATAC	BA5,6,7	A5-A7	Frontal/Parietal Cortex	NA	Brodmann area 5-7
+GSM7822162	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_a5-a7_from_donor_4	Brain	A5-A7		male		Donor 4	Single-cell ATAC	BA5,6,7	A5-A7	Frontal/Parietal Cortex	NA	Brodmann area 5-7
+GSM7822163	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_s1c_from_donor_1	Brain	S1C		male		Donor 1	Single-cell ATAC	BA3,2,1	S1C	Parietal Lobe	NA	Primary Somatosensory Cortex
+GSM7822164	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_s1c_from_donor_2	Brain	S1C		male		Donor 2	Single-cell ATAC	BA3,2,1	S1C	Parietal Lobe	NA	Primary Somatosensory Cortex
+GSM7822165	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_s1c_from_donor_4	Brain	S1C		male		Donor 4	Single-cell ATAC	BA3,2,1	S1C	Parietal Lobe	NA	Primary Somatosensory Cortex
+GSM7822166	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_ig_from_donor_1	Brain	Ig		male		Donor 1	Single-cell ATAC	BA16	Ig	Lateral Sulcus	NA	Insula
+GSM7822167	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_ig_from_donor_2	Brain	Ig		male		Donor 2	Single-cell ATAC	BA16	Ig	Lateral Sulcus	NA	Insula
+GSM7822168	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_ig_from_donor_4	Brain	Ig		male		Donor 4	Single-cell ATAC	BA16	Ig	Lateral Sulcus	NA	Insula
+GSM7822169	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_pro_from_donor_1	Brain	Pro		male		Donor 1	Single-cell ATAC		Pro	NA	NA	NA
+GSM7822170	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_pro_from_donor_2	Brain	Pro		male		Donor 2	Single-cell ATAC		Pro	NA	NA	NA
+GSM7822171	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_pro_from_donor_4	Brain	Pro		male		Donor 4	Single-cell ATAC		Pro	NA	NA	NA
+GSM7822172	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_pir_from_donor_1	Brain	Pir		male		Donor 1	Single-cell ATAC		Pir	Teleencephalon	NA	Piriform Gyrus
+GSM7822173	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_pir_from_donor_2	Brain	Pir		male		Donor 2	Single-cell ATAC		Pir	Teleencephalon	NA	Piriform Gyrus
+GSM7822174	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_pir_from_donor_4	Brain	Pir		male		Donor 4	Single-cell ATAC		Pir	Teleencephalon	NA	Piriform Gyrus
+GSM7822175	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_lec_from_donor_1	Brain	LEC		male		Donor 1	Single-cell ATAC	BA28,34	LEC	Temporal Lobe	Medial Temporal Lobe	Parahippocampal Cortex/Entorhinal Cortex
+GSM7822176	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_lec_from_donor_2	Brain	LEC		male		Donor 2	Single-cell ATAC	BA28,34	LEC	Temporal Lobe	Medial Temporal Lobe	Parahippocampal Cortex/Entorhinal Cortex
+GSM7822177	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_a19_from_donor_4	Brain	A19		male		Donor 4	Single-cell ATAC	BA19	A19	Occipital Lobe	NA	Associative Visual Cortex|V3|V4|V5
+GSM7822178	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_a19_from_donor_1	Brain	A19		male		Donor 1	Single-cell ATAC	BA19	A19	Occipital Lobe	NA	Associative Visual Cortex|V3|V4|V5
+GSM7822179	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_a19_from_donor_2	Brain	A19		male		Donor 2	Single-cell ATAC	BA19	A19	Occipital Lobe	NA	Associative Visual Cortex|V3|V4|V5
+GSM7822180	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_lec_from_donor_4	Brain	LEC		male		Donor 4	Single-cell ATAC	BA28,34	LEC	Temporal Lobe	Medial Temporal Lobe	Parahippocampal Cortex/Entorhinal Cortex
+GSM7822181	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_th-tl_from_donor_1	Brain	TH-TL		male		Donor 1	Single-cell ATAC		TH-TL	NA	NA	NA
+GSM7822182	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_th-tl_from_donor_2	Brain	TH-TL		male		Donor 2	Single-cell ATAC		TH-TL	NA	NA	NA
+GSM7822183	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_th-tl_from_donor_4	Brain	TH-TL		male		Donor 4	Single-cell ATAC		TH-TL	NA	NA	NA
+GSM7822184	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_mec_from_donor_1	Brain	MEC		male		Donor 1	Single-cell ATAC	BA28,34	MEC	Temporal Lobe	Medial Temporal Lobe	Parahippocampal Cortex/Entorhinal Cortex
+GSM7822185	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_mec_from_donor_2	Brain	MEC		male		Donor 2	Single-cell ATAC	BA28,34	MEC	Temporal Lobe	Medial Temporal Lobe	Parahippocampal Cortex/Entorhinal Cortex
+GSM7822186	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_mec_from_donor_4	Brain	MEC		male		Donor 4	Single-cell ATAC	BA28,34	MEC	Temporal Lobe	Medial Temporal Lobe	Parahippocampal Cortex/Entorhinal Cortex
+GSM7822187	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_itg_from_donor_1	Brain	ITG		male		Donor 1	Single-cell ATAC	BA20	ITG	Temporal Lobe	NA	Inferior Temporal Gyrus
+GSM7822188	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_itg_from_donor_2	Brain	ITG		male		Donor 2	Single-cell ATAC	BA20	ITG	Temporal Lobe	NA	Inferior Temporal Gyrus
+GSM7822189	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_itg_from_donor_4	Brain	ITG		male		Donor 4	Single-cell ATAC	BA20	ITG	Temporal Lobe	NA	Inferior Temporal Gyrus
+GSM7822190	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_idg_from_donor_1	Brain	Idg		male		Donor 1	Single-cell ATAC		Idg	NA	NA	NA
+GSM7822191	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_idg_from_donor_2	Brain	Idg		male		Donor 2	Single-cell ATAC		Idg	NA	NA	NA
+GSM7822192	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_idg_from_donor_4	Brain	Idg		male		Donor 4	Single-cell ATAC		Idg	NA	NA	NA
+GSM7822193	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_a38_from_donor_1	Brain	A38		male		Donor 1	Single-cell ATAC	BA38	A38	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM7822194	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_a38_from_donor_2	Brain	A38		male		Donor 2	Single-cell ATAC	BA38	A38	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM7822195	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_a38_from_donor_4	Brain	A38		male		Donor 4	Single-cell ATAC	BA38	A38	Temporal Lobe	NA	Superior Temporal Gyrus
+GSM7822196	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_a25_from_donor_1	Brain	A25		male		Donor 1	Single-cell ATAC	BA25	A25	Frontal Cortex	NA	Subgenual Cingulate Area
+GSM7822197	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_a25_from_donor_2	Brain	A25		male		Donor 2	Single-cell ATAC	BA25	A25	Frontal Cortex	NA	Subgenual Cingulate Area
+GSM7822198	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_a25_from_donor_4	Brain	A25		male		Donor 4	Single-cell ATAC	BA25	A25	Frontal Cortex	NA	Subgenual Cingulate Area
+GSM7822199	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_ic_from_donor_1	Brain	IC		male		Donor 1	Single-cell ATAC		IC	NA	NA	NA
+GSM7822200	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_ic_from_donor_2	Brain	IC		male		Donor 2	Single-cell ATAC		IC	NA	NA	NA
+GSM7822201	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_ic_from_donor_4	Brain	IC		male		Donor 4	Single-cell ATAC		IC	NA	NA	NA
+GSM7822202	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_pul_from_donor_1	Brain	Pul		male		Donor 1	Single-cell ATAC		Pul	NA	NA	NA
+GSM7822203	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_pul_from_donor_2	Brain	Pul		male		Donor 2	Single-cell ATAC		Pul	NA	NA	NA
+GSM7822204	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_pul_from_donor_4	Brain	Pul		male		Donor 4	Single-cell ATAC		Pul	NA	NA	NA
+GSM7822205	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_md_from_donor_1	Brain	MD		male		Donor 1	Single-cell ATAC		MD	NA	NA	NA
+GSM7822206	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_md_from_donor_2	Brain	MD		male		Donor 2	Single-cell ATAC		MD	NA	NA	NA
+GSM7822207	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_md_from_donor_4	Brain	MD		male		Donor 4	Single-cell ATAC		MD	NA	NA	NA
+GSM7822208	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_cbv_from_donor_1	Brain	CBV		male		Donor 1	Single-cell ATAC		CBV	NA	NA	NA
+GSM7822209	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_cbv_from_donor_2	Brain	CBV		male		Donor 2	Single-cell ATAC		CBV	NA	NA	NA
+GSM7822210	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_cbv_from_donor_4	Brain	CBV		male		Donor 4	Single-cell ATAC		CBV	NA	NA	NA
+GSM7822211	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_cbl_from_donor_1	Brain	CBL		male		Donor 1	Single-cell ATAC		CBL	NA	NA	NA
+GSM7822212	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_cbl_from_donor_2	Brain	CBL		male		Donor 2	Single-cell ATAC		CBL	NA	NA	NA
+GSM7822213	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_cbl_from_donor_4	Brain	CBL		male		Donor 4	Single-cell ATAC		CBL	NA	NA	NA
+GSM7822214	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_pn_from_donor_1	Brain	PN		male		Donor 1	Single-cell ATAC		PN	NA	NA	NA
+GSM7822215	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_pn_from_donor_2	Brain	PN		male		Donor 2	Single-cell ATAC		PN	NA	NA	NA
+GSM7822216	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_pn_from_donor_4	Brain	PN		male		Donor 4	Single-cell ATAC		PN	NA	NA	NA
+GSM7822217	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_cla_from_donor_1	Brain	Cla		male		Donor 1	Single-cell ATAC		Cla	NA	NA	NA
+GSM7822218	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_cla_from_donor_2	Brain	Cla		male		Donor 2	Single-cell ATAC		Cla	NA	NA	NA
+GSM7822219	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_cla_from_donor_4	Brain	Cla		male		Donor 4	Single-cell ATAC		Cla	NA	NA	NA
+GSM7822220	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_nac_from_donor_1	Brain	NAC		male		Donor 1	Single-cell ATAC		NAC	NA	NA	NA
+GSM7822221	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_nac_from_donor_2	Brain	NAC		male		Donor 2	Single-cell ATAC		NAC	NA	NA	NA
+GSM7822222	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_nac_from_donor_4	Brain	NAC		male		Donor 4	Single-cell ATAC		NAC	NA	NA	NA
+GSM7822223	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_gpe_from_donor_1	Brain	GPe		male		Donor 1	Single-cell ATAC		GPe	NA	NA	NA
+GSM7822224	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_gpe_from_donor_2	Brain	GPe		male		Donor 2	Single-cell ATAC		GPe	NA	NA	NA
+GSM7822225	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_gpe_from_donor_4	Brain	GPe		male		Donor 4	Single-cell ATAC		GPe	NA	NA	NA
+GSM7822226	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_pu_from_donor_1	Brain	Pu		male		Donor 1	Single-cell ATAC		Pu	NA	NA	NA
+GSM7822227	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_pu_from_donor_2	Brain	Pu		male		Donor 2	Single-cell ATAC		Pu	NA	NA	NA
+GSM7822228	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_pu_from_donor_4	Brain	Pu		male		Donor 4	Single-cell ATAC		Pu	NA	NA	NA
+GSM7822229	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_cab_from_donor_1	Brain	CaB		male		Donor 1	Single-cell ATAC		CaB	NA	NA	NA
+GSM7822230	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_cab_from_donor_2	Brain	CaB		male		Donor 2	Single-cell ATAC		CaB	NA	NA	NA
+GSM7822231	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_cab_from_donor_4	Brain	CaB		male		Donor 4	Single-cell ATAC		CaB	NA	NA	NA
+GSM7822232	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_sep_from_donor_1	Brain	SEP		male		Donor 1	Single-cell ATAC		SEP	NA	NA	NA
+GSM7822233	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_sep_from_donor_2	Brain	SEP		male		Donor 2	Single-cell ATAC		SEP	NA	NA	NA
+GSM7822234	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_sep_from_donor_4	Brain	SEP		male		Donor 4	Single-cell ATAC		SEP	NA	NA	NA
+GSM7822235	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_si_from_donor_1	Brain	SI		male		Donor 1	Single-cell ATAC		SI	NA	NA	NA
+GSM7822236	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_si_from_donor_2	Brain	SI		male		Donor 2	Single-cell ATAC		SI	NA	NA	NA
+GSM7822237	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_si_from_donor_4	Brain	SI		male		Donor 4	Single-cell ATAC		SI	NA	NA	NA
+GSM7822238	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_bnst_from_donor_1	Brain	BNST		male		Donor 1	Single-cell ATAC		BNST	NA	NA	NA
+GSM7822239	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_bnst_from_donor_2	Brain	BNST		male		Donor 2	Single-cell ATAC		BNST	NA	NA	NA
+GSM7822240	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_bnst_from_donor_4	Brain	BNST		male		Donor 4	Single-cell ATAC		BNST	NA	NA	NA
+GSM7822241	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_cmn_from_donor_1	Brain	CMN		male		Donor 1	Single-cell ATAC		CMN	NA	NA	NA
+GSM7822242	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_cmn_from_donor_2	Brain	CMN		male		Donor 2	Single-cell ATAC		CMN	NA	NA	NA
+GSM7822243	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_cmn-cn_from_donor_4	Brain	CMN-CN		male		Donor 4	Single-cell ATAC		CMN-CN	NA	NA	NA
+GSM7822244	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_bl-la_from_donor_1	Brain	BL-La		male		Donor 1	Single-cell ATAC		BL-La	NA	NA	NA
+GSM7822245	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_bl-la_from_donor_2	Brain	BL-La		male		Donor 2	Single-cell ATAC		BL-La	NA	NA	NA
+GSM7822246	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_bl-la_from_donor_4	Brain	BL-La		male		Donor 4	Single-cell ATAC		BL-La	NA	NA	NA
+GSM7822247	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_amy_from_donor_1	Brain	AMY		male		Donor 1	Single-cell ATAC		AMY	Limbic System	NA	Amygdala
+GSM7822248	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_amy_from_donor_2	Brain	AMY		male		Donor 2	Single-cell ATAC		AMY	Limbic System	NA	Amygdala
+GSM7822249	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_amy_from_donor_4	Brain	AMY		male		Donor 4	Single-cell ATAC		AMY	Limbic System	NA	Amygdala
+GSM7822250	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_hit_from_donor_1	Brain	HiT		male		Donor 1	Single-cell ATAC		HiT	NA	NA	NA
+GSM7822251	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_hit_from_donor_2	Brain	HiT		male		Donor 2	Single-cell ATAC		HiT	NA	NA	NA
+GSM7822252	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_hit_from_donor_4	Brain	HiT		male		Donor 4	Single-cell ATAC		HiT	NA	NA	NA
+GSM7822253	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_hib_from_donor_1	Brain	HiB		male		Donor 1	Single-cell ATAC		HiB	NA	NA	NA
+GSM7822254	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_hib_from_donor_2_rep_1	Brain	HiB		male		Donor 2	Single-cell ATAC		HiB	NA	NA	NA
+GSM7822255	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_hib_from_donor_2_rep_2	Brain	HiB		male		Donor 2	Single-cell ATAC		HiB	NA	NA	NA
+GSM7822256	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_hib_from_donor_4_rep_1	Brain	HiB		male		Donor 4	Single-cell ATAC		HiB	NA	NA	NA
+GSM7822257	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_hib_from_donor_4_rep_2	Brain	HiB		male		Donor 4	Single-cell ATAC		HiB	NA	NA	NA
+GSM7822258	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_sub_from_donor_1	Brain	Sub		male		Donor 1	Single-cell ATAC		Sub	NA	NA	NA
+GSM7822259	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_sub_from_donor_2	Brain	Sub		male		Donor 2	Single-cell ATAC		Sub	NA	NA	NA
+GSM7822260	GSE244618	snatac-seq_of_homo_sapiens_adult_brain_sub_from_donor_4	Brain	Sub		male		Donor 4	Single-cell ATAC		Sub	NA	NA	NA

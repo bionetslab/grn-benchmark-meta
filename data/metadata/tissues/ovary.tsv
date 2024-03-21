@@ -1,0 +1,17 @@
+sample_geo_accession	sample_series_id.x	sample_name	super_tissue	tissue	cell_type	sex	age	donor	technology
+GSM6125533	GSE202601	human_ovary1_snrna-seq	Ovary	Ovary		female	23		Single-cell RNA
+GSM6125534	GSE202601	human_ovary2_snrna-seq	Ovary	Ovary		female	27		Single-cell RNA
+GSM6125535	GSE202601	human_ovary3_snrna-seq	Ovary	Ovary		female	28		Single-cell RNA
+GSM6125536	GSE202601	human_ovary4_snrna-seq	Ovary	Ovary		female	29		Single-cell RNA
+GSM6125537	GSE202601	human_ovary5_snrna-seq	Ovary	Ovary		female	49		Single-cell RNA
+GSM6125538	GSE202601	human_ovary6_snrna-seq	Ovary	Ovary		female	51		Single-cell RNA
+GSM6125539	GSE202601	human_ovary7_snrna-seq	Ovary	Ovary		female	52		Single-cell RNA
+GSM6125540	GSE202601	human_ovary8_snrna-seq	Ovary	Ovary		female	54		Single-cell RNA
+GSM6125541	GSE202601	human_ovary1_snatac-seq	Ovary	Ovary		female	23		Single-cell ATAC
+GSM6125542	GSE202601	human_ovary2_snatac-seq	Ovary	Ovary		female	27		Single-cell ATAC
+GSM6125543	GSE202601	human_ovary3_snatac-seq	Ovary	Ovary		female	28		Single-cell ATAC
+GSM6125544	GSE202601	human_ovary4_snatac-seq	Ovary	Ovary		female	29		Single-cell ATAC
+GSM6125545	GSE202601	human_ovary5_snatac-seq	Ovary	Ovary		female	49		Single-cell ATAC
+GSM6125546	GSE202601	human_ovary6_snatac-seq	Ovary	Ovary		female	51		Single-cell ATAC
+GSM6125547	GSE202601	human_ovary7_snatac-seq	Ovary	Ovary		female	52		Single-cell ATAC
+GSM6125548	GSE202601	human_ovary8_snatac-seq	Ovary	Ovary		female	54		Single-cell ATAC

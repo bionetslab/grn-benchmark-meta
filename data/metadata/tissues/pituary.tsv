@@ -1,0 +1,23 @@
+sample_geo_accession	sample_series_id.x	sample_name	super_tissue	tissue	cell_type	sex	age	donor	technology
+GSM5391762	GSE178451, GSE178454	sample_1-a_pit_pedia_hf1_fragm_snatac	Pituary	Pituary Gland		female	2		Single-cell ATAC
+GSM5391763	GSE178451, GSE178454	sample_2-a_pit_adult_hf2_fragm_snatac	Pituary	Pituary Gland		female	37		Single-cell ATAC
+GSM5391764	GSE178451, GSE178454	sample_3-a_pit_aged_hf3_fragm_snatac	Pituary	Pituary Gland		female	85		Single-cell ATAC
+GSM5391765	GSE178451, GSE178454	sample_4-a_pit_pedia_hm1_fragm_snatac	Pituary	Pituary Gland		male	8		Single-cell ATAC
+GSM5391766	GSE178451, GSE178454	sample_5-a_pit_adult_hm2_fragm_snatac	Pituary	Pituary Gland		male	41		Single-cell ATAC
+GSM5391767	GSE178451, GSE178454	sample_6-a_pit_aged_hm3_fragm_snatac	Pituary	Pituary Gland		male	90		Single-cell ATAC
+GSM5391768	GSE178451, GSE178454	sample_1p-a_pit_pedia_hf1p_pulver_snatac	Pituary	Pituary Gland		female	2		Single-cell ATAC
+GSM5391769	GSE178452, GSE178454	sample_1-r_pit_pedia_hf1_fragm_snrna	Pituary	Pituary Gland		female	2		Single-cell RNA
+GSM5391770	GSE178452, GSE178454	sample_2-r_pit_adult_hf2_fragm_snrna	Pituary	Pituary Gland		female	37		Single-cell RNA
+GSM5391771	GSE178452, GSE178454	sample_3-r_pit_aged_hf3_fragm_snrna	Pituary	Pituary Gland		female	85		Single-cell RNA
+GSM5391772	GSE178452, GSE178454	sample_4-r_pit_pedia_hm1_fragm_snrna	Pituary	Pituary Gland		male	8		Single-cell RNA
+GSM5391773	GSE178452, GSE178454	sample_5-r_pit_adult_hm2_fragm_snrna	Pituary	Pituary Gland		male	41		Single-cell RNA
+GSM5391774	GSE178452, GSE178454	sample_6-r_pit_aged_hm3_fragm_snrna	Pituary	Pituary Gland		male	90		Single-cell RNA
+GSM5391775	GSE178452, GSE178454	sample_1p-r_pit_pedia_hf1p_pulver_snrna	Pituary	Pituary Gland		female	2		Single-cell RNA
+GSM5520134	GSE182180	rna-seq_n1	Pituary	Pituary Gland					Single-cell RNA
+GSM5520135	GSE182180	rna-seq_n2	Pituary	Pituary Gland					Single-cell RNA
+GSM5520136	GSE182180	rna-seq_n3	Pituary	Pituary Gland					Single-cell RNA
+GSM5520137	GSE182180	rna-seq_n4	Pituary	Pituary Gland					Single-cell RNA
+GSM5520138	GSE182180	rna-seq_n5	Pituary	Pituary Gland					Single-cell RNA
+GSM5520139	GSE182180	rna-seq_n6	Pituary	Pituary Gland					Single-cell RNA
+GSM5520146	GSE182180	atac-seq_n1	Pituary	Pituary Gland					Single-cell ATAC
+GSM5520147	GSE182180	atac-seq_n2	Pituary	Pituary Gland					Single-cell ATAC

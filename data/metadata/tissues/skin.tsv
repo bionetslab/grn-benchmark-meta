@@ -1,0 +1,25 @@
+sample_geo_accession	sample_series_id.x	sample_name	super_tissue	tissue	cell_type	sex	age	donor	technology
+GSM5788492	GSE193304	p1_s2_normal	Skin	Skin					Single-cell RNA
+GSM5788495	GSE193304	p2_s5_normal	Skin	Skin					Single-cell RNA
+GSM5788497	GSE193304	p3_s7_normal	Skin	Skin					Single-cell RNA
+GSM5788499	GSE193304	p4_s9_normal	Skin	Skin					Single-cell RNA
+GSM5788501	GSE193304	p5_s11_normal	Skin	Skin					Single-cell RNA
+GSM5788503	GSE193304	p6_s13_normal	Skin	Skin					Single-cell RNA
+GSM6284669	GSE207335, GSE207337	epidermis_multiome_s1_atac	Skin	Healthy epidermis			72 		Single-cell ATAC
+GSM6284670	GSE207335, GSE207337	epidermis_multiome_s2_atac	Skin	Healthy epidermis			55 		Single-cell ATAC
+GSM6284671	GSE207335, GSE207337	epidermis_multiome_s1_rna	Skin	Healthy epidermis			72 		Single-cell RNA
+GSM6284672	GSE207335, GSE207337	epidermis_multiome_s2_rna	Skin	Healthy epidermis			55 		Single-cell RNA
+GSM6284673	GSE207336, GSE207337	epidermis_scrnaseq_1	Skin	Healthy epidermis			30 		Single-cell RNA
+GSM6532933	GSE212448, GSE212450	c_pb1_scatac_lane1	Skin	Scalp		male			Single-cell ATAC
+GSM6532934	GSE212448, GSE212450	c_pb1_scatac_lane2	Skin	Scalp		male			Single-cell ATAC
+GSM6532935	GSE212448, GSE212450	c_pb2_scatac	Skin	Scalp		female			Single-cell ATAC
+GSM6532936	GSE212448, GSE212450	c_pb3_scatac	Skin	Scalp		female			Single-cell ATAC
+GSM7074751	GSE226424, GSE226428	atac-seq_healthy_1	Skin	Epidermis		female			Bulk ATAC
+GSM7074752	GSE226424, GSE226428	atac-seq_healthy_2	Skin	Epidermis		female			Bulk ATAC
+GSM7074753	GSE226424, GSE226428	atac-seq_healthy_3	Skin	Epidermis		male			Bulk ATAC
+GSM7074772	GSE226426, GSE226428	rna-seq_healthy_1	Skin	Epidermis		female			Bulk RNA
+GSM7074773	GSE226426, GSE226428	rna-seq_healthy_2	Skin	Epidermis		female			Bulk RNA
+GSM7074774	GSE226426, GSE226428	rna-seq_healthy_3	Skin	Epidermis		male			Bulk RNA
+GSM7074781	GSE226427, GSE226428	scrna_normal3	Skin	Epidermis					Single-cell RNA
+GSM7088428	GSE226926	sample_42-hip	Skin	Skin	keratinocytes				Single-cell ATAC
+GSM7088429	GSE226926	sample_42-palm	Skin	Skin	keratinocytes				Single-cell ATAC

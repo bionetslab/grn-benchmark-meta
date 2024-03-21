@@ -1,0 +1,8 @@
+sample_geo_accession	sample_series_id.x	sample_name	super_tissue	tissue	cell_type	sex	age	donor	technology
+GSM7074751	GSE226424, GSE226428	atac-seq_healthy_1	Epidermis	skin epidermis		female			Bulk ATAC
+GSM7074752	GSE226424, GSE226428	atac-seq_healthy_2	Epidermis	skin epidermis		female			Bulk ATAC
+GSM7074753	GSE226424, GSE226428	atac-seq_healthy_3	Epidermis	skin epidermis		male			Bulk ATAC
+GSM7074772	GSE226426, GSE226428	rna-seq_healthy_1	Epidermis	skin epidermis		female			Bulk RNA
+GSM7074773	GSE226426, GSE226428	rna-seq_healthy_2	Epidermis	skin epidermis		female			Bulk RNA
+GSM7074774	GSE226426, GSE226428	rna-seq_healthy_3	Epidermis	skin epidermis		male			Bulk RNA
+GSM7074781	GSE226427, GSE226428	scrna_normal3	Epidermis	skin epidermis		""			Single-cell RNA

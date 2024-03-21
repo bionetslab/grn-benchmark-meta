@@ -1,0 +1,237 @@
+sample_geo_accession	sample_series_id.x	sample_name	super_tissue	tissue	cell_type	sex	age	donor	technology
+GSM3381898	GSE119732, GSE119734	a1	Blood	PBMC	Naive CD4 T cells	male		A	Bulk RNA
+GSM3381899	GSE119732, GSE119734	a2	Blood	PBMC	GM-CSF positive CD4 T cells	male		A	Bulk RNA
+GSM3381900	GSE119732, GSE119734	a3	Blood	PBMC	GM-CSF negative CD4 T cells	male		A	Bulk RNA
+GSM3381901	GSE119732, GSE119734	a4	Blood	PBMC	Bulk CD4 T cells	male		A	Bulk RNA
+GSM3381902	GSE119732, GSE119734	b1	Blood	PBMC	Naive CD4 T cells	male		B	Bulk RNA
+GSM3381903	GSE119732, GSE119734	b2	Blood	PBMC	GM-CSF positive CD4 T cells	male		B	Bulk RNA
+GSM3381904	GSE119732, GSE119734	b3	Blood	PBMC	GM-CSF negative CD4 T cells	male		B	Bulk RNA
+GSM3381905	GSE119732, GSE119734	b4	Blood	PBMC	Bulk CD4 T cells	male		B	Bulk RNA
+GSM3381906	GSE119732, GSE119734	b5	Blood	PBMC	Memory CD4 T cells	male		B	Bulk RNA
+GSM3381907	GSE119732, GSE119734	c1	Blood	PBMC	Naive CD4 T cells	male		C	Bulk RNA
+GSM3381908	GSE119732, GSE119734	c2	Blood	PBMC	GM-CSF positive CD4 T cells	male		C	Bulk RNA
+GSM3381909	GSE119732, GSE119734	c3	Blood	PBMC	GM-CSF negative CD4 T cells	male		C	Bulk RNA
+GSM3381910	GSE119732, GSE119734	c4	Blood	PBMC	Bulk CD4 T cells	male		C	Bulk RNA
+GSM3381911	GSE119732, GSE119734	c5	Blood	PBMC	Memory CD4 T cells	male		C	Bulk RNA
+GSM3381912	GSE119732, GSE119734	d1	Blood	PBMC	Naive CD4 T cells	male		D	Bulk RNA
+GSM3381913	GSE119732, GSE119734	d2	Blood	PBMC	GM-CSF positive CD4 T cells	male		D	Bulk RNA
+GSM3381914	GSE119732, GSE119734	d3	Blood	PBMC	GM-CSF negative CD4 T cells	male		D	Bulk RNA
+GSM3381915	GSE119732, GSE119734	d4	Blood	PBMC	Bulk CD4 T cells	male		D	Bulk RNA
+GSM3381916	GSE119732, GSE119734	d5	Blood	PBMC	Memory CD4 T cells	male		D	Bulk RNA
+GSM3381917	GSE119732, GSE119734	e1	Blood	PBMC	Naive CD4 T cells	male		E	Bulk RNA
+GSM3381918	GSE119732, GSE119734	e2	Blood	PBMC	GM-CSF positive CD4 T cells	male		E	Bulk RNA
+GSM3381919	GSE119732, GSE119734	e3	Blood	PBMC	GM-CSF negative CD4 T cells	male		E	Bulk RNA
+GSM3381920	GSE119732, GSE119734	e4	Blood	PBMC	Bulk CD4 T cells	male		E	Bulk RNA
+GSM3381921	GSE119732, GSE119734	e5	Blood	PBMC	Memory CD4 T cells	male		E	Bulk RNA
+GSM3381922	GSE119732, GSE119734	f1	Blood	PBMC	Naive CD4 T cells	male		F	Bulk RNA
+GSM3381923	GSE119732, GSE119734	f2	Blood	PBMC	GM-CSF positive CD4 T cells	male		F	Bulk RNA
+GSM3381924	GSE119732, GSE119734	f3	Blood	PBMC	GM-CSF negative CD4 T cells	male		F	Bulk RNA
+GSM3381925	GSE119732, GSE119734	f4	Blood	PBMC	Bulk CD4 T cells	male		F	Bulk RNA
+GSM3381926	GSE119732, GSE119734	f5	Blood	PBMC	Memory CD4 T cells	male		F	Bulk RNA
+GSM3525910	GSE124219, GSE124220	s1td0	Blood	PBMC	CD14+ monocytes				Bulk ATAC
+GSM3525912	GSE124219, GSE124220	s2td0	Blood	PBMC	CD14+ monocytes				Bulk ATAC
+GSM3525914	GSE124219, GSE124220	s5td0	Blood	PBMC	CD14+ monocytes				Bulk ATAC
+GSM3525916	GSE124219, GSE124220	s8td0	Blood	PBMC	CD14+ monocytes				Bulk ATAC
+GSM3525918	GSE124219, GSE124220	s9td0	Blood	PBMC	CD14+ monocytes				Bulk ATAC
+GSM3525920	GSE124219, GSE124220	s10td0	Blood	PBMC	CD14+ monocytes				Bulk ATAC
+GSM3525922	GSE124219, GSE124220	s12td0	Blood	PBMC	CD14+ monocytes				Bulk ATAC
+GSM3525924	GSE124219, GSE124220	s14td0	Blood	PBMC	CD14+ monocytes				Bulk ATAC
+GSM3525926	GSE124219, GSE124220	s16td0	Blood	PBMC	CD14+ monocytes				Bulk ATAC
+GSM3525928	GSE124219, GSE124220	s17td0	Blood	PBMC	CD14+ monocytes				Bulk ATAC
+GSM3525930	GSE124219, GSE124220	s19td0	Blood	PBMC	CD14+ monocytes				Bulk ATAC
+GSM3525932	GSE124219, GSE124220	s20td0	Blood	PBMC	CD14+ monocytes				Bulk ATAC
+GSM3525934	GSE124219, GSE124220	s21td0	Blood	PBMC	CD14+ monocytes				Bulk ATAC
+GSM3731701	GSE130089	aki1_cd4_day-2_rep1	Blood	PBMC				Donor 1	Bulk ATAC
+GSM3731702	GSE130089	aki1_cd4_day-2_rep2	Blood	PBMC				Donor 1	Bulk ATAC
+GSM3731703	GSE130089	aki1_cd8_day-2_rep1	Blood	PBMC				Donor 1	Bulk ATAC
+GSM3731704	GSE130089	aki1_cd8_day-2_rep2	Blood	PBMC				Donor 1	Bulk ATAC
+GSM3731705	GSE130089	aki2_cd4_day-2_rep1	Blood	PBMC				Donor 2	Bulk ATAC
+GSM3731706	GSE130089	aki2_cd4_day-2_rep2	Blood	PBMC				Donor 2	Bulk ATAC
+GSM3731707	GSE130089	aki2_cd8_day-2_rep1	Blood	PBMC				Donor 2	Bulk ATAC
+GSM3731708	GSE130089	aki2_cd8_day-2_rep2	Blood	PBMC				Donor 2	Bulk ATAC
+GSM3731709	GSE130089	aki3_cd4_day-2_rep1	Blood	PBMC				Donor 3	Bulk ATAC
+GSM3731710	GSE130089	aki3_cd4_day-2_rep2	Blood	PBMC				Donor 3	Bulk ATAC
+GSM3731711	GSE130089	aki3_cd8_day-2_rep1	Blood	PBMC				Donor 3	Bulk ATAC
+GSM3731712	GSE130089	aki3_cd8_day-2_rep2	Blood	PBMC				Donor 3	Bulk ATAC
+GSM3731713	GSE130089	aki4_cd4_day-2_rep1	Blood	PBMC				Donor 4	Bulk ATAC
+GSM3731714	GSE130089	aki4_cd4_day-2_rep2	Blood	PBMC				Donor 4	Bulk ATAC
+GSM3731715	GSE130089	aki4_cd8_day-2_rep1	Blood	PBMC				Donor 4	Bulk ATAC
+GSM3731716	GSE130089	aki4_cd8_day-2_rep2	Blood	PBMC				Donor 4	Bulk ATAC
+GSM3731717	GSE130089	aki5_cd4_day-2_rep1	Blood	PBMC				Donor 5	Bulk ATAC
+GSM3731718	GSE130089	aki5_cd4_day-2_rep2	Blood	PBMC				Donor 5	Bulk ATAC
+GSM3731719	GSE130089	aki5_cd8_day-2_rep1	Blood	PBMC				Donor 5	Bulk ATAC
+GSM3731720	GSE130089	aki5_cd8_day-2_rep2	Blood	PBMC				Donor 5	Bulk ATAC
+GSM3731721	GSE130089	aki6_cd4_day-2_rep1	Blood	PBMC				Donor 6	Bulk ATAC
+GSM3731722	GSE130089	aki6_cd4_day-2_rep2	Blood	PBMC				Donor 6	Bulk ATAC
+GSM3731723	GSE130089	aki6_cd8_day-2_rep1	Blood	PBMC				Donor 6	Bulk ATAC
+GSM3731724	GSE130089	aki6_cd8_day-2_rep2	Blood	PBMC				Donor 6	Bulk ATAC
+GSM4456356	GSE148223	yf1_scatac-seq	Blood	PBMC	CD8 T cells				Single-cell ATAC
+GSM4456357	GSE148223	yf2_scatac-seq	Blood	PBMC	CD8 T cells				Single-cell ATAC
+GSM4456358	GSE148223	yf3_scatac-seq	Blood	PBMC	CD8 T cells				Single-cell ATAC
+GSM4456359	GSE148223	yf4_scatac-seq	Blood	PBMC	CD8 T cells				Single-cell ATAC
+GSM4456360	GSE148223	yf5_scatac-seq	Blood	PBMC	CD8 T cells				Single-cell ATAC
+GSM4973569	GSE163160	hemacare-d205220_10x_	Blood	PBMC		male			Single-cell ATAC
+GSM4973570	GSE163160	hemacare-d105_10x_	Blood	PBMC		male			Single-cell ATAC
+GSM4973571	GSE163160	hemacare-d147558_10x_	Blood	PBMC		male			Single-cell ATAC
+GSM4973572	GSE163160	hemacare-d270271_10x_	Blood	PBMC		male			Single-cell ATAC
+GSM4973573	GSE163160	hemacare-d182364_10x_	Blood	PBMC		male			Single-cell ATAC
+GSM4973574	GSE163160	hemacare-d273097_10x_	Blood	PBMC		male			Single-cell ATAC
+GSM5344323	GSE175694	atac-seq_mm3001_ctrl	Blood	PBMC					Single-cell ATAC
+GSM5344327	GSE175694	atac-seq_mm3008_ctrl	Blood	PBMC					Single-cell ATAC
+GSM5344331	GSE175694	atac-seq_mm3016_ctrl	Blood	PBMC					Single-cell ATAC
+GSM5344335	GSE175694	atac-seq_mm3038_ctrl	Blood	PBMC					Single-cell ATAC
+GSM5711702	GSE190004, GSE196990	hde-cd14_s3_l001	Blood	PBMC	CD14 Monocytes	female	36		Bulk ATAC
+GSM5711703	GSE190004, GSE196990	hdg-cd14_s17_l002	Blood	PBMC	CD14 Monocytes	male	69		Bulk ATAC
+GSM5711704	GSE190004, GSE196990	hdp-cd14_s5_l001	Blood	PBMC	CD14 Monocytes	female	57		Bulk ATAC
+GSM5711705	GSE190004, GSE196990	hdq-cd34_s6_l001	Blood	HSPC		female	67		Bulk ATAC
+GSM5711706	GSE190004, GSE196990	hdr-cd14_s7_l001	Blood	PBMC	CD14 Monocytes	male	38		Bulk ATAC
+GSM5711707	GSE190004, GSE196990	hds-cd14_s8_l001	Blood	PBMC	CD14 Monocytes	male	77		Bulk ATAC
+GSM5711708	GSE190004, GSE196990	hds-cd34_s31_l001	Blood	HSPC		male	77		Bulk ATAC
+GSM5711709	GSE190004, GSE196990	hdt-cd34_s9_l001	Blood	HSPC		female	59		Bulk ATAC
+GSM5711710	GSE190004, GSE196990	hdw-cd34_s33_l001	Blood	HSPC		male	64		Bulk ATAC
+GSM5711739	GSE190004, GSE196990	hdy-cd14_s44_l001	Blood	PBMC	CD14 Monocytes	male	38		Bulk ATAC
+GSM5711740	GSE190004, GSE196990	hdab-cd14_s45_l001	Blood	PBMC	CD14 Monocytes	male	79		Bulk ATAC
+GSM5711741	GSE190004, GSE196990	hdaa-cd14_s46_l001	Blood	PBMC	CD14 Monocytes	female	47		Bulk ATAC
+GSM5815488	GSE180090, GSE193642	atac_pop2_113_2265	Blood	PBMC		female	22		Bulk ATAC
+GSM5815489	GSE180090, GSE193642	atac_pop2_114_2266	Blood	PBMC		female	25		Bulk ATAC
+GSM5815490	GSE180090, GSE193642	atac_pop2_115_2267	Blood	PBMC		female	23		Bulk ATAC
+GSM5815491	GSE180090, GSE193642	atac_pop2_1895_s10	Blood	PBMC		male	19		Bulk ATAC
+GSM5815492	GSE180090, GSE193642	atac_pop2_57983_162	Blood	PBMC		female	18		Bulk ATAC
+GSM5815493	GSE180090, GSE193642	atac_pop2_57983_163	Blood	PBMC		female	18		Bulk ATAC
+GSM5815494	GSE180090, GSE193642	atac_pop3_113_2265	Blood	PBMC		female	22		Bulk ATAC
+GSM5815495	GSE180090, GSE193642	atac_pop3_114_2266	Blood	PBMC		female	25		Bulk ATAC
+GSM5815496	GSE180090, GSE193642	atac_pop3_1895_s11	Blood	PBMC		male	19		Bulk ATAC
+GSM5815497	GSE180090, GSE193642	atac_pop3_2206_s16	Blood	PBMC		male	26		Bulk ATAC
+GSM5815498	GSE180090, GSE193642	atac_pop3_57983_162	Blood	PBMC		female	18		Bulk ATAC
+GSM5815499	GSE180090, GSE193642	atac_pop3_57983_163	Blood	PBMC		female	18		Bulk ATAC
+GSM5815500	GSE180090, GSE193642	atac_pop3_red_115_2267	Blood	PBMC		female	23		Bulk ATAC
+GSM5815501	GSE180090, GSE193642	atac_popa_1464_s2	Blood	PBMC		female	27		Bulk ATAC
+GSM5815502	GSE180090, GSE193642	atac_popa_1895_s13	Blood	PBMC		male	19		Bulk ATAC
+GSM5815503	GSE180090, GSE193642	atac_popa_207_1177	Blood	PBMC		female	48		Bulk ATAC
+GSM5815504	GSE180090, GSE193642	atac_popa_208_2308	Blood	PBMC		female	21		Bulk ATAC
+GSM5815506	GSE180090, GSE193642	atac_popa_66294_512	Blood	PBMC		female	31		Bulk ATAC
+GSM5906273	GSE196987, GSE196990	hd_ad_multiomeatac-seq_	Blood	PBMC		male	68		Single-cell ATAC
+GSM5906274	GSE196987, GSE196990	hda_multiomeatac-seq_	Blood	PBMC		female	36		Single-cell ATAC
+GSM5906275	GSE196987, GSE196990	hdj_multiomeatac-seq_	Blood	PBMC		male	40		Single-cell ATAC
+GSM5906276	GSE196987, GSE196990	hdu_multiomeatac-seq_	Blood	PBMC		male	69		Single-cell ATAC
+GSM5906277	GSE196987, GSE196990	hdv_multiomeatac-seq_	Blood	PBMC		female	65		Single-cell ATAC
+GSM5906300	GSE196987, GSE196990	lgtd17_multiomeatac-seq_	Blood	PBMC		male	40		Single-cell ATAC
+GSM5906301	GSE196987, GSE196990	lgtd18_multiomeatac-seq_	Blood	PBMC		male	40		Single-cell ATAC
+GSM5906302	GSE196987, GSE196990	lgtd19_multiomeatac-seq_	Blood	PBMC		male	40		Single-cell ATAC
+GSM6135290	GSE202905	naïve_cd4_tcell_atacseq_adult_rep1	Blood	PBMC	Naive CD4 T cells	male			Bulk ATAC
+GSM6135291	GSE202905	naïve_cd4_tcell_atacseq_adult_rep2	Blood	PBMC	Naive CD4 T cells	male			Bulk ATAC
+GSM6135292	GSE202905	naïve_cd4_tcell_atacseq_adult_rep3	Blood	PBMC	Naive CD4 T cells	female			Bulk ATAC
+GSM6760057	GSE218918	hd_1	Blood	PBMC					Single-cell ATAC
+GSM6760058	GSE218918	hd_2	Blood	PBMC					Single-cell ATAC
+GSM6760059	GSE218918	hd_3	Blood	PBMC					Single-cell ATAC
+GSM7070270	GSE226267	pbmc_1086_healthy_control	Blood	PBMC		female	72		Single-cell ATAC
+GSM7070271	GSE226267	pbmc_1200_healthy_control	Blood	PBMC		male	63		Single-cell ATAC
+GSM7070272	GSE226267	pbmc_1154_alzheimers_disease	Blood	PBMC		male	81		Single-cell ATAC
+GSM7070273	GSE226267	pbmc_1081_healthy_control	Blood	PBMC		female	72		Single-cell ATAC
+GSM7070274	GSE226267	pbmc_1028_healthy_control	Blood	PBMC		male	66		Single-cell ATAC
+GSM7070275	GSE226267	pbmc_1241_alzheimers_disease	Blood	PBMC		female	78		Single-cell ATAC
+GSM7070276	GSE226267	pbmc_906_alzheimers_disease	Blood	PBMC		male	47		Single-cell ATAC
+GSM7070277	GSE226267	pbmc_1034_alzheimers_disease	Blood	PBMC		female	60		Single-cell ATAC
+GSM7070278	GSE226267	pbmc_1055_alzheimers_disease	Blood	PBMC		male	87		Single-cell ATAC
+GSM7070279	GSE226267	pbmc_1092_alzheimers_disease	Blood	PBMC		female	85		Single-cell ATAC
+GSM7070280	GSE226267	pbmc_1120_alzheimers_disease	Blood	PBMC		female	59		Single-cell ATAC
+GSM7070281	GSE226267	pbmc_1160_alzheimers_disease	Blood	PBMC		male	78		Single-cell ATAC
+GSM7070282	GSE226267	pbmc_1052_alzheimers_disease	Blood	PBMC		female	74		Single-cell ATAC
+GSM7070283	GSE226267	pbmc_516_alzheimers_disease	Blood	PBMC		male	66		Single-cell ATAC
+GSM7070284	GSE226267	pbmc_738_alzheimers_disease	Blood	PBMC		female	74		Single-cell ATAC
+GSM7070285	GSE226267	pbmc_911_healthy_control	Blood	PBMC		male	82		Single-cell ATAC
+GSM7070286	GSE226267	pbmc_1180_healthy_control	Blood	PBMC		female	63		Single-cell ATAC
+GSM7070287	GSE226267	pbmc_773_alzheimers_disease	Blood	PBMC		female	64		Single-cell ATAC
+GSM7070288	GSE226267	pbmc_863_alzheimers_disease	Blood	PBMC		male	66		Single-cell ATAC
+GSM7070289	GSE226267	pbmc_1279_healthy_control	Blood	PBMC		female	68		Single-cell ATAC
+GSM7070290	GSE226267	pbmc_598_healthy_control	Blood	PBMC		male	83		Single-cell ATAC
+GSM7070291	GSE226267	pbmc_917_alzheimers_disease	Blood	PBMC		male	84		Single-cell ATAC
+GSM7070292	GSE226267	pbmc_932_alzheimers_disease	Blood	PBMC		female	59		Single-cell ATAC
+GSM7070293	GSE226267	pbmc_659_healthy_control	Blood	PBMC		female	71		Single-cell ATAC
+GSM7070294	GSE226267	pbmc_780_healthy_control	Blood	PBMC		female	73		Single-cell ATAC
+GSM7070295	GSE226267	pbmc_802_alzheimers_disease	Blood	PBMC		male	79		Single-cell ATAC
+GSM7070296	GSE226267	pbmc_1020_healthy_control	Blood	PBMC		male	63		Single-cell ATAC
+GSM7070297	GSE226267	pbmc_942_alzheimers_disease	Blood	PBMC		male	61		Single-cell ATAC
+GSM7070298	GSE226267	pbmc_968_healthy_control	Blood	PBMC		male	78		Single-cell ATAC
+GSM7070299	GSE226267	pbmc_1147_alzheimers_disease	Blood	PBMC		male	75		Single-cell ATAC
+GSM7070300	GSE226267	pbmc_781_healthy_control	Blood	PBMC		female	72		Single-cell ATAC
+GSM7070301	GSE226267	pbmc_656_alzheimers_disease	Blood	PBMC		female	72		Single-cell ATAC
+GSM7070302	GSE226267	pbmc_912_healthy_control	Blood	PBMC		female	75		Single-cell ATAC
+GSM7070303	GSE226267	pbmc_978_healthy_control	Blood	PBMC		female	72		Single-cell ATAC
+GSM7070304	GSE226267	pbmc_1282_healthy_control	Blood	PBMC		male	69		Single-cell ATAC
+GSM7070305	GSE226267	pbmc_820_healthy_control	Blood	PBMC		male	87		Single-cell ATAC
+GSM7070306	GSE226267	pbmc_1162_healthy_control	Blood	PBMC		female	83		Single-cell ATAC
+GSM7070307	GSE226267	pbmc_989_healthy_control	Blood	PBMC		female	67		Single-cell ATAC
+GSM7070308	GSE226267	pbmc_1010_healthy_control	Blood	PBMC		female	74		Single-cell ATAC
+GSM7070309	GSE226267	pbmc_965_alzheimers_disease	Blood	PBMC		female	68		Single-cell ATAC
+GSM7070310	GSE226267	pbmc_921_alzheimers_disease	Blood	PBMC		male	85		Single-cell ATAC
+GSM7070311	GSE226267	pbmc_230_alzheimers_disease	Blood	PBMC		female	89		Single-cell ATAC
+GSM7070312	GSE226267	pbmc_960_healthy_control	Blood	PBMC		male	82		Single-cell ATAC
+GSM7070313	GSE226267	pbmc_836_healthy_control	Blood	PBMC		male	73		Single-cell ATAC
+GSM7070314	GSE226267	pbmc_1236_alzheimers_disease	Blood	PBMC		female	82		Single-cell ATAC
+GSM7070315	GSE226267	pbmc_947_alzheimers_disease	Blood	PBMC		male	62		Single-cell ATAC
+GSM7070316	GSE226267	pbmc_70_alzheimers_disease	Blood	PBMC		female	68		Single-cell ATAC
+GSM7070317	GSE226267	pbmc_254_alzheimers_disease	Blood	PBMC		male	73		Single-cell ATAC
+GSM7070318	GSE226267	pbmc_970_healthy_control	Blood	PBMC		male	70		Single-cell ATAC
+GSM7070319	GSE226267	pbmc_905_healthy_control	Blood	PBMC		male	87		Single-cell ATAC
+GSM7102945	GSE194028	vib_10xv1_1_v1_v1_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102946	GSE194028	vib_10xv1_2_v1_v2_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102947	GSE194028	cna_10xv2_1_v2_c1_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102948	GSE194028	cna_10xv2_2_v2_c2_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102949	GSE194028	txg_10xv2_1_v2_t1_	Blood	PBMC					Single-cell ATAC
+GSM7102950	GSE194028	txg_10xv2_2_v2_t2_	Blood	PBMC					Single-cell ATAC
+GSM7102951	GSE194028	vib_10xv2_1_v2_v1_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102952	GSE194028	vib_10xv2_2_v2_v2_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102953	GSE194028	cna_10xv11_1_v1_1_c1_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102954	GSE194028	cna_10xv11_2_v1_1_c2_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102955	GSE194028	cna_10xv11_3_v1_1_c3_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102956	GSE194028	cna_10xv11c_1_v1_1c_c1_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102957	GSE194028	cna_10xv11c_2_v1_1c_c2_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102958	GSE194028	sta_10xv11_1_v1_1_st1_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102959	GSE194028	sta_10xv11_2_v1_1_st2_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102960	GSE194028	txg_10xv11_1_v1_1_t1_	Blood	PBMC					Single-cell ATAC
+GSM7102961	GSE194028	bio_ddseq_1_ddseq_bi1_	Blood	PBMC					Single-cell ATAC
+GSM7102962	GSE194028	bio_ddseq_2_ddseq_bi2_	Blood	PBMC					Single-cell ATAC
+GSM7102963	GSE194028	bio_ddseq_3_ddseq_bi3_	Blood	PBMC					Single-cell ATAC
+GSM7102964	GSE194028	bio_ddseq_4_ddseq_bi4_	Blood	PBMC					Single-cell ATAC
+GSM7102965	GSE194028	har_ddseq_1_ddseq_h1_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102966	GSE194028	har_ddseq_2_ddseq_h2_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102967	GSE194028	ucs_ddseq_1_ddseq_u1_	Blood	PBMC					Single-cell ATAC
+GSM7102968	GSE194028	ucs_ddseq_2_ddseq_u2_	Blood	PBMC					Single-cell ATAC
+GSM7102969	GSE194028	epf_hydrop_1_hy_e1_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102970	GSE194028	epf_hydrop_2_hy_e2_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102971	GSE194028	epf_hydrop_3_hy_e3_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102972	GSE194028	epf_hydrop_4_hy_e4_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102973	GSE194028	vib_hydrop_1_hy_v1_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102974	GSE194028	vib_hydrop_1_hy_v2_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102975	GSE194028	cnag_hydrop_1_hy_c1_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102976	GSE194028	cnag_hydrop_2_hy_c2_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102977	GSE194028	cnag_hydrop_3_hy_c3_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102978	GSE194028	bro_mtscatac_1_mtscatac_br1_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102979	GSE194028	bro_mtscatac_2_mtscatac_br2_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102980	GSE194028	cna_mtscatac_1_mtscatac_c1_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102981	GSE194028	cna_mtscatac_2_mtscatac_c2_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102982	GSE194028	mdc_mtscatac_1_mtscatac_m1_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102983	GSE194028	mdc_mtscatac_2_mtscatac_m2_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102984	GSE194028	ohs_s3atac_1_s3_o1_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102985	GSE194028	ohs_s3atac_2_s3_o2_	Blood	PBMC					Single-cell ATAC
+GSM7102986	GSE194028	cna_10xmultiome_1_mo_c1_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102987	GSE194028	cna_10xmultiome_2_mo_c2_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102988	GSE194028	san_10xmultiome_1_mo_sa1_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102989	GSE194028	san_10xmultiome_2_mo_sa2_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102990	GSE194028	vib_10xmultiome_1_mo_v1_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102991	GSE194028	vib_10xmultiome_2_mo_v2_	Blood	Mixture of PBMC from 2 donors					Single-cell ATAC
+GSM7102992	GSE194028	cna_10xmultiome_1_rna_mo_c1_	Blood	Mixture of PBMC from 2 donors					Single-cell RNA
+GSM7102993	GSE194028	cna_10xmultiome_2_rna_mo_c2_	Blood	Mixture of PBMC from 2 donors					Single-cell RNA
+GSM7102994	GSE194028	san_10xmultiome_1_rna_mo_sa1_	Blood	Mixture of PBMC from 2 donors					Single-cell RNA
+GSM7102995	GSE194028	san_10xmultiome_2_rna_mo_sa2_	Blood	Mixture of PBMC from 2 donors					Single-cell RNA
+GSM7102996	GSE194028	vib_10xmultiome_1_rna_mo_v1_	Blood	Mixture of PBMC from 2 donors					Single-cell RNA
+GSM7102997	GSE194028	vib_10xmultiome_2_rna_mo_v2_	Blood	Mixture of PBMC from 2 donors					Single-cell RNA
+GSM7102998	GSE194028	cna_10xscrna_1	Blood	Mixture of PBMC from 2 donors					Single-cell RNA
+GSM7102999	GSE194028	cna_10xscrna_2	Blood	Mixture of PBMC from 2 donors					Single-cell RNA
+GSM7103000	GSE194028	cna_10xscrna_3	Blood	Mixture of PBMC from 2 donors					Single-cell RNA
+GSM7469464	GSE190004, GSE196990	hdi-cd14_s19_l002	Blood	PBMC		female			Bulk ATAC
+GSM7469465	GSE190004, GSE196990	hdp-cd34_s28_l001	Blood	PBMC		female			Bulk ATAC
+GSM7469466	GSE190004, GSE196990	hdq-cd14_s29_l001	Blood	PBMC		female			Bulk ATAC
+GSM7469467	GSE190004, GSE196990	hdt-cd14_s32_l001	Blood	PBMC		female			Bulk ATAC
+GSM7469468	GSE190004, GSE196990	hdw-cd14_s10_l001	Blood	PBMC		male			Bulk ATAC

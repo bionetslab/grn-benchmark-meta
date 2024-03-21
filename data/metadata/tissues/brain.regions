@@ -1,0 +1,116 @@
+Area	Name	Abbreviation	Brodmann Area
+Frontal Lobe	Superior Frontal Gyrus	SFG	6
+Frontal Lobe	Superior Frontal Gyrus	SFG	8
+Frontal Lobe	Middle Frontal Gyrus	MFG	9
+Frontal Lobe	Middle Frontal Gyrus	MFG	46
+Frontal Lobe	Inferior Frontal Gyrus	IFG	9
+Frontal Lobe	Inferior Frontal Gyrus	IFG	10
+Frontal Lobe	Inferior Frontal Gyrus	IFG	11
+Frontal Lobe	Inferior Frontal Gyrus	IFG	44
+Frontal Lobe	Inferior Frontal Gyrus	IFG	45
+Frontal Lobe	Precentral Gyrus	PCG	4
+Frontal Lobe	Orbitofrontal Cortex	OFC	10
+Frontal Lobe	Orbitofrontal Cortex	OFC	11
+Frontal Lobe	Orbitofrontal Cortex	OFC	12
+Frontal Lobe	Dorsolateral Prefrontal Cortex	DLPFC	9
+Frontal Lobe	Dorsolateral Prefrontal Cortex	DLPFC	46
+Frontal Lobe	Ventromedial Prefrontal Cortex	VMPFC	10
+Frontal Lobe	Ventromedial Prefrontal Cortex	VMPFC	11
+Frontal Lobe	Ventromedial Prefrontal Cortex	VMPFC	12
+Frontal Lobe	Frontal Pole	FP	10
+Frontal Lobe	Anterior Prefrontal Cortex	APFC	10
+Frontal Lobe	Anterior Prefrontal Cortex	APFC	11
+Frontal Lobe	Anterior Prefrontal Cortex	APFC	12
+Frontal Lobe	Frontal Orbital Cortex	FOC	10
+Frontal Lobe	Frontal Orbital Cortex	FOC	11
+Frontal Lobe	Frontal Operculum Cortex	FOC	44
+Frontal Lobe	Frontal Operculum Cortex	FOC	45
+Parietal Lobe	Postcentral Gyrus	PoCG	1
+Parietal Lobe	Postcentral Gyrus	PoCG	2
+Parietal Lobe	Postcentral Gyrus	PoCG	3
+Parietal Lobe	Supramarginal Gyrus	SMG	40
+Parietal Lobe	Angular Gyrus	AG	39
+Parietal Lobe	Precuneus	PC	5
+Parietal Lobe	Precuneus	PC	7
+Parietal Lobe	Posterior Parietal Cortex	PPC	5
+Parietal Lobe	Posterior Parietal Cortex	PPC	7
+Parietal Lobe	Intraparietal Sulcus	IPS	7
+Parietal Lobe	Retrosplenial Cortex	RC	26
+Parietal Lobe	Retrosplenial Cortex	RC	29
+Parietal Lobe	Retrosplenial Cortex	RC	30
+Parietal Lobe	Subparietal Sulcus	SPS	7
+Parietal Lobe	Medial Parietal Cortex	MPC	5
+Parietal Lobe	Medial Parietal Cortex	MPC	7
+Temporal Lobe	Superior Temporal Gyrus	STG	22
+Temporal Lobe	Superior Temporal Gyrus	STG	42
+Temporal Lobe	Middle Temporal Gyrus	MTG	21
+Temporal Lobe	Inferior Temporal Gyrus	ITG	20
+Temporal Lobe	Superior Temporal Sulcus	STS	
+Temporal Lobe	Transverse Temporal Gyrus	TTG	41
+Temporal Lobe	Transverse Temporal Gyrus	TTG	42
+Temporal Lobe	Heschl's Gyrus	HG	41
+Temporal Lobe	Temporal Pole	TP	38
+Temporal Lobe	Temporal Pole (Superior Temporal)	TPS	38
+Temporal Lobe	Temporal Pole (Middle Temporal)	TPM	21
+Occipital Lobe	Lingual Gyrus	LG	18
+Occipital Lobe	Fusiform Gyrus	FG	20
+Occipital Lobe	Cuneus	CUN	17
+Occipital Lobe	Cuneus	CUN	18
+Occipital Lobe	Pericalcarine Cortex	PCC	17
+Occipital Lobe	Peristriate Cortex	PC	18
+Limbic System	Hippocampus	HC	
+Limbic System	Amygdala	AMY	
+Limbic System	Cingulate Cortex	CC	24
+Limbic System	Cingulate Cortex	CC	32
+Limbic System	Parahippocampal Gyrus	PHG	30
+Limbic System	Parahippocampal Gyrus	PHG	36
+Limbic System	Anterior Cingulate Cortex	ACC	24
+Limbic System	Anterior Cingulate Cortex	ACC	32
+Limbic System	Subgenual Anterior Cingulate Cortex	SgACC	25
+Limbic System	Paracentral Lobule	PCL	24
+Limbic System	Paracentral Lobule	PCL	31
+Limbic System	Limbic Cortex	LC	23
+Limbic System	Limbic Cortex	LC	24
+Basal Ganglia	Striatum	ST	
+Basal Ganglia	Globus Pallidus	GP	
+Basal Ganglia	Putamen	PUT	
+Basal Ganglia	Caudate Nucleus	CN	
+Basal Ganglia	Substantia Nigra	SN	
+Basal Ganglia	Ventral Striatum	VS	
+Basal Ganglia	Lateral Globus Pallidus	LGP	
+Basal Ganglia	Medial Globus Pallidus	MGP	
+Thalamus	Medial Geniculate Nucleus	MGN	
+Thalamus	Pulvinar	PU	
+Thalamus	Anterior Thalamic Nuclei	ATN	10
+Thalamus	Anterior Thalamic Nuclei	ATN	12
+Thalamus	Mediodorsal Nucleus	MD	
+Hypothalamus	Ventromedial Hypothalamus	VMH	
+Hypothalamus	Lateral Hypothalamus	LH	
+Hypothalamus	Suprachiasmatic Nucleus	SCN	
+Cerebellum	Anterior Lobe	AL	
+Cerebellum	Posterior Lobe	PL	
+Cerebellum	Flocculonodular Lobe	FL	
+Cerebellum	Central Vermis	CV	1
+Cerebellum	Central Vermis	CV	2
+Cerebellum	Central Vermis	CV	3
+Cerebellum	Crus I	CI	
+Brainstem	Medulla	MED	
+Brainstem	Pons	PON	
+Brainstem	Midbrain	MB	
+Diencephalon	Epithalamus	EP	
+Diencephalon	Subthalamus	ST	
+Central Nervous System (CNS)	Spinal Cord	SC	
+Cerebral Cortex	Insular Cortex	IC	13
+Association Areas	Posterior Parietal Cortex	PPC	5
+Association Areas	Posterior Parietal Cortex	PPC	7
+Association Areas	Temporoparietal Junction	TPJ	
+Subcortical Nuclei	Amygdaloid Complex	AC	
+Subcortical Nuclei	Claustrum	CL	
+Subcortical Nuclei	Nucleus Accumbens		
+Sensorimotor Cortex	Primary Motor Cortex	PMC	4
+Sensorimotor Cortex	Primary Somatosensory Cortex	PSC	1
+Sensorimotor Cortex	Primary Somatosensory Cortex	PSC	2
+Sensorimotor Cortex	Primary Somatosensory Cortex	PSC	3
+Visual Cortex	Primary Visual Cortex	PVC	17
+Visual Cortex	Secondary Visual Cortex	SVC	18
+Visual Cortex	Secondary Visual Cortex	SVC	19

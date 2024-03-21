@@ -1,0 +1,27 @@
+sample_geo_accession	sample_series_id.x	sample_name	super_tissue	tissue	cell_type	sex	age	donor	technology
+GSM3712140	GSE129383	sample_2	Pancreas	pancreatic islets					Bulk ATAC
+GSM3712142	GSE129383	sample_4	Pancreas	pancreatic islets					Bulk ATAC
+GSM3712143	GSE129383	sample_5	Pancreas	pancreatic islets					Bulk ATAC
+GSM3712144	GSE129383	sample_6	Pancreas	pancreatic islets					Bulk ATAC
+GSM3712146	GSE129383	sample_8	Pancreas	pancreatic islets					Bulk ATAC
+GSM3712148	GSE129383	sample_10	Pancreas	pancreatic islets					Bulk ATAC
+GSM3712149	GSE129383	sample_11	Pancreas	pancreatic islets					Bulk ATAC
+GSM3712150	GSE129383	sample_12	Pancreas	pancreatic islets					Bulk ATAC
+GSM3712152	GSE129383	sample_14	Pancreas	pancreatic islets					Bulk ATAC
+GSM4973563	GSE163160	npod-6282_snatac_cb_	Pancreas	pancreas		male	14		Single-cell ATAC
+GSM4973564	GSE163160	npod-6251-1_snatac_cb_	Pancreas	pancreas		female	33		Single-cell ATAC
+GSM4973565	GSE163160	npod-6251-2_snatac_cb_	Pancreas	pancreas		female	33		Single-cell ATAC
+GSM4973566	GSE163160	npod-6007_snatac_cb_	Pancreas	pancreas		male	9		Single-cell ATAC
+GSM4973567	GSE163160	iidp-afc2208-2_snatac_cb_	Pancreas	pancreatic islets		male	33		Single-cell ATAC
+GSM4973568	GSE163160	iidp-aehu156_snatac_cb_	Pancreas	pancreatic islets		male	33		Single-cell ATAC
+GSM5203355	GSE169453, GSE171153	samp-692	Pancreas	Pancreatic Islets		male	37		Bulk ATAC
+GSM5203359	GSE169453, GSE171153	samp-1695	Pancreas	Pancreatic Islets		male	20		Bulk ATAC
+GSM5203364	GSE169453, GSE171153	samp-1696	Pancreas	Pancreatic Islets		male	24		Bulk ATAC
+GSM5203365	GSE169453, GSE171153	samp-1697	Pancreas	Pancreatic Islets		male	45		Bulk ATAC
+GSM5203369	GSE169453, GSE171153	samp-1136	Pancreas	Pancreatic Islets		male	45		Bulk ATAC
+GSM5203371	GSE169453, GSE171153	samp-1134	Pancreas	Pancreatic Islets		male	61		Bulk ATAC
+GSM5203377	GSE169453, GSE171153	samp-1137	Pancreas	Pancreatic Islets		male	48		Bulk ATAC
+GSM5203379	GSE169453, GSE171153	samp-1602	Pancreas	Pancreatic Islets		male	46		Bulk ATAC
+GSM5203382	GSE169453, GSE171153	samp-1501	Pancreas	Pancreatic Islets		female	45		Bulk ATAC
+GSM5203385	GSE169453, GSE171153	samp-1612	Pancreas	Pancreatic Islets		male	59		Bulk ATAC
+GSM5203388	GSE169453, GSE171153	samp-1606	Pancreas	Pancreatic Islets		male	51		Bulk ATAC

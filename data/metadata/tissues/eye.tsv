@@ -1,0 +1,153 @@
+sample_geo_accession	sample_series_id.x	sample_name	super_tissue	tissue	cell_type	sex	age	donor	technology
+GSM2640456	GSE99287	nor1_retina_macr	Eye	Retina		female	79	Donor 1	Bulk ATAC
+GSM2640457	GSE99287	nor1_retina_perl	Eye	Retina		female	79	Donor 1	Bulk ATAC
+GSM2640458	GSE99287	nor1_retina_perr	Eye	Retina		female	79	Donor 1	Bulk ATAC
+GSM2640459	GSE99287	nor2_retina_mac	Eye	Retina		female	84	Donor 2	Bulk ATAC
+GSM2640460	GSE99287	nor2_retina_per	Eye	Retina		female	84	Donor 2	Bulk ATAC
+GSM2640461	GSE99287	nor3_retina_macr	Eye	Retina		male	76	Donor 3	Bulk ATAC
+GSM2640462	GSE99287	nor4_retina_macl	Eye	Retina		male	92	Donor 4	Bulk ATAC
+GSM2640463	GSE99287	nor4_retina_macr	Eye	Retina		male	92	Donor 4	Bulk ATAC
+GSM2640464	GSE99287	nor4_retina_perl	Eye	Retina		male	92	Donor 4	Bulk ATAC
+GSM2640465	GSE99287	nor4_retina_perr	Eye	Retina		male	92	Donor 4	Bulk ATAC
+GSM2640466	GSE99287	nor5_retina_perr	Eye	Retina		female	92	Donor 5	Bulk ATAC
+GSM2640482	GSE99287	nor2_rpe_mac	Eye	RPE		female	84	Donor 2	Bulk ATAC
+GSM2640483	GSE99287	nor2_rpe_perl	Eye	RPE		female	84	Donor 2	Bulk ATAC
+GSM2640484	GSE99287	nor2_rpe_perr	Eye	RPE		female	84	Donor 2	Bulk ATAC
+GSM2640485	GSE99287	nor3_rpe_perr	Eye	RPE		male	76	Donor 3	Bulk ATAC
+GSM2640486	GSE99287	nor4_rpe_macl	Eye	RPE		male	92	Donor 4	Bulk ATAC
+GSM2640487	GSE99287	nor4_rpe_macr	Eye	RPE		male	92	Donor 4	Bulk ATAC
+GSM2640488	GSE99287	nor4_rpe_perl	Eye	RPE		male	92	Donor 4	Bulk ATAC
+GSM2640489	GSE99287	nor4_rpe_perr	Eye	RPE		male	92	Donor 4	Bulk ATAC
+GSM4710467	GSE155683	rna-seq_ad_cor_conj_257t	Eye	Cornea/Conjunctiva					Single-cell RNA
+GSM4710468	GSE155683	rna-seq_ad_cor_conj_246z	Eye	Cornea/Conjunctiva					Single-cell RNA
+GSM4710469	GSE155683	rna-seq_ad_cor_conj_719i	Eye	Cornea/Conjunctiva					Single-cell RNA
+GSM4710470	GSE155683	rna-seq_ad_cor_conj_283p	Eye	Cornea/Conjunctiva					Single-cell RNA
+GSM4710471	GSE155683	rna-seq_ad_cen_cor_c-4046	Eye	Central Cornea					Single-cell RNA
+GSM4710472	GSE155683	rna-seq_ad_limbal_ring_c-4046	Eye	Limbal Ring					Single-cell RNA
+GSM4710473	GSE155683	rna-seq_lsc_culture_on_feeders_c-4046	Eye	Limbal Ring					Single-cell RNA
+GSM4710474	GSE155683	rna-seq_lsc_culture_on_ham_c-4046	Eye	Limbal Ring					Single-cell RNA
+GSM4710475	GSE155683	rna-seq_ad_cor_limbal_dysplasia_782t	Eye	Cornea with Limbal Dysplasia					Single-cell RNA
+GSM4710476	GSE155683	rna-seq_ad_kera_cor_18	Eye	Keratoconus Cornea					Single-cell RNA
+GSM4710477	GSE155683	rna-seq_ad_kera_cor_43	Eye	Keratoconus Cornea					Single-cell RNA
+GSM4710478	GSE155683	atac-seq_ad_cor_conj_257t	Eye	Cornea/Conjunctiva					Single-cell ATAC
+GSM4710479	GSE155683	atac-seq_ad_cor_conj_246z	Eye	Cornea/Conjunctiva					Single-cell ATAC
+GSM4710480	GSE155683	atac-seq_ad_cor_conj_719i	Eye	Cornea/Conjunctiva					Single-cell ATAC
+GSM4710481	GSE155683	atac-seq_ad_cor_conj_283p	Eye	Cornea/Conjunctiva					Single-cell ATAC
+GSM5866073	GSE196235	human_retina_scatac_rep3_scatac_lgs1od_	Eye	Retina					Single-cell ATAC
+GSM5866074	GSE196235	human_retina_scatac_rep4_scatac_lgs1os_	Eye	Retina					Single-cell ATAC
+GSM5866075	GSE196235	human_retina_scatac_rep5_scatac_lgs2od_	Eye	Retina					Single-cell ATAC
+GSM5866076	GSE196235	human_retina_scatac_rep6_scatac_lgs2os_	Eye	Retina					Single-cell ATAC
+GSM5866077	GSE196235	human_retina_scatac_rep7_scatac_lgs3od_	Eye	Retina					Single-cell ATAC
+GSM5866078	GSE196235	human_retina_scatac_rep8_scatac_lgs3os_	Eye	Retina					Single-cell ATAC
+GSM5866079	GSE196235	human_retina_scatac_rep1_scatac_lvg1od_	Eye	Retina					Single-cell ATAC
+GSM5866080	GSE196235	human_retina_scatac_rep2_scatac_lvg1os_	Eye	Retina					Single-cell ATAC
+GSM5866081	GSE196235	human_retina_scrna_rep3_scrna_lgs1od_	Eye	Retina					Single-cell RNA
+GSM5866082	GSE196235	human_retina_scrna_rep4_scrna_lgs1os_	Eye	Retina					Single-cell RNA
+GSM5866083	GSE196235	human_retina_scrna_rep5_scrna_lgs2od_	Eye	Retina					Single-cell RNA
+GSM5866084	GSE196235	human_retina_scrna_rep6_scrna_lgs2os_	Eye	Retina					Single-cell RNA
+GSM5866085	GSE196235	human_retina_scrna_rep7_scrna_lgs3od_	Eye	Retina					Single-cell RNA
+GSM5866086	GSE196235	human_retina_scrna_rep8_scrna_lgs3os_	Eye	Retina					Single-cell RNA
+GSM5866087	GSE196235	human_retina_scrna_rep1_scrna_lvg1od_	Eye	Retina					Single-cell RNA
+GSM5866088	GSE196235	human_retina_scrna_rep2_scrna_lvg1os_	Eye	Retina					Single-cell RNA
+GSM6122977	GSE202472, GSE202474	retina_1_atac-seq	Eye	Retina		female	75		Bulk ATAC
+GSM6122978	GSE202472, GSE202474	retina_2_atac-seq	Eye	Retina		male	77		Bulk ATAC
+GSM6122979	GSE202472, GSE202474	retina_3_atac-seq	Eye	Retina		male	75		Bulk ATAC
+GSM6122980	GSE202472, GSE202474	retina_4_atac-seq	Eye	Retina		male	76		Bulk ATAC
+GSM6122981	GSE202472, GSE202474	retina_5_atac-seq	Eye	Retina		female	65		Bulk ATAC
+GSM6792819	GSE220155	donor_1_rpe_macula_gex	Eye	Macula				1	Single-cell RNA
+GSM6792820	GSE220155	donor_1_rpe_peripheral_gex	Eye	Retina periphery				1	Single-cell RNA
+GSM6792821	GSE220155	donor_2_rpe_macula_gex	Eye	Macula				2	Single-cell RNA
+GSM6792822	GSE220155	donor_2_rpe_peripheral_gex	Eye	Retina periphery				2	Single-cell RNA
+GSM6792823	GSE220155	donor_3_rpe_macula_gex	Eye	Macula				3	Single-cell RNA
+GSM6792824	GSE220155	donor_3_rpe_peripheral_gex	Eye	Retina periphery				3	Single-cell RNA
+GSM6792825	GSE220155	donor_4_rpe_macula_gex	Eye	Macula				4	Single-cell RNA
+GSM6792826	GSE220155	donor_4_rpe_peripheral_gex	Eye	Retina periphery				4	Single-cell RNA
+GSM6792827	GSE220155	donor_1_rpe_macula_atac	Eye	Macula				1	Single-cell ATAC
+GSM6792828	GSE220155	donor_1_rpe_peripheral_atac	Eye	Retina periphery				1	Single-cell ATAC
+GSM6792829	GSE220155	donor_2_rpe_macula_atac	Eye	Macula				2	Single-cell ATAC
+GSM6792830	GSE220155	donor_2_rpe_peripheral_atac	Eye	Retina periphery				2	Single-cell ATAC
+GSM6792831	GSE220155	donor_3_rpe_macula_atac	Eye	Macula				3	Single-cell ATAC
+GSM6792832	GSE220155	donor_3_rpe_peripheral_atac	Eye	Retina periphery				3	Single-cell ATAC
+GSM6792833	GSE220155	donor_4_rpe_macula_atac	Eye	Macula				4	Single-cell ATAC
+GSM6792834	GSE220155	donor_4_rpe_peripheral_atac	Eye	Retina periphery				4	Single-cell ATAC
+GSM7064213	GSE226108	17d013_neunt_lib	Eye	Retina periphery	neuron	male	65	17D013	Single-cell RNA
+GSM7064214	GSE226108	19_d003_atac_lib	Eye	Macula	""	male	86	19-D003	Single-cell ATAC
+GSM7064215	GSE226108	19_d005_atac_lib	Eye	Macula	""	male	53	19-D005	Single-cell ATAC
+GSM7064216	GSE226108	19_d006_atac_lib	Eye	Macula	""	male	90	19-D006	Single-cell ATAC
+GSM7064217	GSE226108	19_d007_atac_lib	Eye	Macula	""	male	66	19-D007	Single-cell ATAC
+GSM7064218	GSE226108	19_d008_atac_lib	Eye	Macula	""	female	64	19-D008	Single-cell ATAC
+GSM7064219	GSE226108	19_d009_atac_lib	Eye	Macula	""	male	68	19-D009	Single-cell ATAC
+GSM7064220	GSE226108	19_d010_atac_lib	Eye	Macula	""	female	88	19-D010	Single-cell ATAC
+GSM7064221	GSE226108	19_d011_atac_lib	Eye	Macula	""	female	90	19-D011	Single-cell ATAC
+GSM7064222	GSE226108	19_d019_atac_lib	Eye	Macula	""	female	82	19-D019	Single-cell ATAC
+GSM7064223	GSE226108	19d013_fovea_atac_lib	Eye	Fovea	""	female	78	19D013	Single-cell ATAC
+GSM7064224	GSE226108	19d013_fovea_lib	Eye	Fovea	""	female	78	19D013	Single-cell RNA
+GSM7064225	GSE226108	19d013_fovear_lib	Eye	Fovea	""	female	78	19D013	Single-cell RNA
+GSM7064226	GSE226108	19d013_mac_lib	Eye	Macula	""	female	78	19D013	Single-cell RNA
+GSM7064227	GSE226108	19d013_macular_atac_lib	Eye	Macula	""	female	78	19D013	Single-cell ATAC
+GSM7064228	GSE226108	19d013_neunt_lib	Eye	Retina periphery	neuron	female	78	19D013	Single-cell RNA
+GSM7064229	GSE226108	19d014_fovea_atac_lib	Eye	Macula	""	male	84	19D014	Single-cell ATAC
+GSM7064230	GSE226108	19d014_fovea_lib	Eye	Fovea	""	male	84	19D014	Single-cell RNA
+GSM7064231	GSE226108	19d014_fovear_lib	Eye	Fovea	""	male	84	19D014	Single-cell RNA
+GSM7064232	GSE226108	19d014_mac_lib	Eye	Macula	""	male	84	19D014	Single-cell RNA
+GSM7064233	GSE226108	19d014_neunt_2_lib	Eye	Retina periphery	neuron	male	84	19D014	Single-cell RNA
+GSM7064234	GSE226108	19d015_fovea_lib	Eye	Fovea	""	male	73	19D015	Single-cell RNA
+GSM7064235	GSE226108	19d015_mac_lib	Eye	Macula	""	male	73	19D015	Single-cell RNA
+GSM7064236	GSE226108	19d015_neunm_lib	Eye	Retina periphery	neuron	male	73	19D015	Single-cell RNA
+GSM7064237	GSE226108	19d015_neunt_lib	Eye	Retina periphery	neuron	male	73	19D015	Single-cell RNA
+GSM7064238	GSE226108	19d015_per_lib	Eye	Retina periphery	""	male	73	19D015	Single-cell RNA
+GSM7064239	GSE226108	19d016_atac_lib	Eye	Macula	""	male	83	19D016	Single-cell ATAC
+GSM7064240	GSE226108	19d016_mac_lib	Eye	Macula	""	male	83	19D016	Single-cell RNA
+GSM7064241	GSE226108	d001-12_neunm_lib	Eye	Retina periphery	neuron	female	78	D001-12	Single-cell RNA
+GSM7064242	GSE226108	d001-12_neunt_lib	Eye	Retina periphery	neuron	female	78	D001-12	Single-cell RNA
+GSM7064243	GSE226108	d005_13_atac_lib	Eye	Macula	""	male	80	D005-13	Single-cell ATAC
+GSM7064244	GSE226108	d009_13_atac_lib	Eye	Macula	""	male	85	D009-13	Single-cell ATAC
+GSM7064245	GSE226108	d013_13_atac_lib	Eye	Macula	""	male	69	D013-13	Single-cell ATAC
+GSM7064246	GSE226108	d017_13_atac_lib	Eye	Macula	""	male	65	D017-13	Single-cell ATAC
+GSM7064247	GSE226108	d018_13_atac_lib	Eye	Macula	""	female	90	D018-13	Single-cell ATAC
+GSM7064248	GSE226108	d019_13_atac_lib	Eye	Macula	""	male	82	D019-13	Single-cell ATAC
+GSM7064249	GSE226108	d021_13_atac_lib	Eye	Macula	""	male	86	D021-13	Single-cell ATAC
+GSM7064250	GSE226108	d026_13_atac_lib	Eye	Macula	""	male	81	D026-13	Single-cell ATAC
+GSM7064251	GSE226108	d027_13_atac_lib	Eye	Macula	""	male	77	D027-13	Single-cell ATAC
+GSM7064252	GSE226108	d028_13_atac_lib	Eye	Macula	""	male	67	D028-13	Single-cell ATAC
+GSM7884539	GSE247157	10x3_d030_13_macula_lib	Eye	Macula		female	73	D030-13	Single-cell RNA
+GSM7884540	GSE247157	10xatac_d013_13_hu_lobe_atac_lib	Eye	Retina periphery		male	69	D013-13	Single-cell ATAC
+GSM7884541	GSE247157	10xatac_d027_13_hu_lobe_atac_lib	Eye	Retina periphery		male	77	D027-13	Single-cell ATAC
+GSM7884542	GSE247157	10x3_d021_13_lib	Eye	Macula		male	86	D021-13	Single-cell RNA
+GSM7884543	GSE247157	10xatac_d030_13_atac_lib	Eye	Retina periphery		female	73	D030-13	Single-cell ATAC
+GSM7884544	GSE247157	10x3_19_d007_lib	Eye	Macula		male	66	19-D007	Single-cell RNA
+GSM7884545	GSE247157	10xatac_d021_13_hu_lobe_atac_lib	Eye	Retina periphery		male	86	D021-13	Single-cell ATAC
+GSM7884546	GSE247157	10x3_d019_13_lib	Eye	Macula		male	82	D019-13	Single-cell RNA
+GSM7884547	GSE247157	10xatac_19_d8_lobe_atac_lib	Eye	Retina periphery		female	64	19-D008	Single-cell ATAC
+GSM7884548	GSE247157	10xatac_19_d7_lobe_atac_lib	Eye	Retina periphery		male	66	19-D007	Single-cell ATAC
+GSM7884549	GSE247157	10xatac_d9_13_hu_lobe_atac_lib	Eye	Retina periphery		male	85	D009-13	Single-cell ATAC
+GSM7884550	GSE247157	10xatac_d5_13_hu_lobe_atac_lib	Eye	Retina periphery		male	80	D005-13	Single-cell ATAC
+GSM7884551	GSE247157	10x3_d009_13_lib	Eye	Macula		male	85	D009-13	Single-cell RNA
+GSM7884552	GSE247157	10xatac_19_d010_lobe_atac_lib	Eye	Retina periphery		female	88	19-D010	Single-cell ATAC
+GSM7884553	GSE247157	10x3_19_d009_lib	Eye	Macula		male	68	19-D009	Single-cell RNA
+GSM7884554	GSE247157	10xatac_19_d9_lobe_atac_lib	Eye	Retina periphery		male	68	19-D009	Single-cell ATAC
+GSM7884555	GSE247157	10x3_19_d019_lib	Eye	Macula		female	82	19-D019	Single-cell RNA
+GSM7884556	GSE247157	10x3_d017_13_lib	Eye	Macula		male	65	D017-13	Single-cell RNA
+GSM7884557	GSE247157	10x3_d013_13_lib	Eye	Macula		male	69	D013-13	Single-cell RNA
+GSM7884558	GSE247157	10xatac_d017_13_hu_lobe_atac_lib	Eye	Retina periphery		male	65	D017-13	Single-cell ATAC
+GSM7884559	GSE247157	10x3_19_d011_lib	Eye	Macula		female	90	19-D011	Single-cell RNA
+GSM7884560	GSE247157	10xatac_19_d3_hu_lobe_atac_lib	Eye	Retina periphery		male	86	19-D003	Single-cell ATAC
+GSM7884561	GSE247157	10x3_d005_13_lib	Eye	Macula		male	80	D005-13	Single-cell RNA
+GSM7884562	GSE247157	10x3_d028_13_lib	Eye	Macula		male	67	D028-13	Single-cell RNA
+GSM7884563	GSE247157	10xatac_19_d5_hu_lobe_atac_lib	Eye	Retina periphery		male	53	19-D005	Single-cell ATAC
+GSM7884564	GSE247157	10x3_19_d003_lib	Eye	Macula		male	86	19-D003	Single-cell RNA
+GSM7884565	GSE247157	10x3_d026_13_lib	Eye	Macula		male	81	D026-13	Single-cell RNA
+GSM7884566	GSE247157	10xatac_19_d011_hu_lobe_atac_lib	Eye	Retina periphery		female	90	19-D011	Single-cell ATAC
+GSM7884567	GSE247157	10xatac_19_d019_lobe_atac_lib	Eye	Retina periphery		female	82	19-D019	Single-cell ATAC
+GSM7884568	GSE247157	10x3_19_d005_lib	Eye	Macula		male	53	19-D005	Single-cell RNA
+GSM7884569	GSE247157	10x3_d027_13_lib	Eye	Macula		male	77	D027-13	Single-cell RNA
+GSM7884570	GSE247157	10xatac_d019_13_hu_lobe_atac_lib	Eye	Retina periphery		male	82	D019-13	Single-cell ATAC
+GSM7884571	GSE247157	10xatac_d028_13_hu_lobe_atac_lib	Eye	Retina periphery		male	67	D028-13	Single-cell ATAC
+GSM7884572	GSE247157	10xatac_d026_13_hu_lobe_atac_lib	Eye	Retina periphery		male	81	D026-13	Single-cell ATAC
+GSM7884573	GSE247157	10x3_19_d006_lib	Eye	Macula		male	90	19-D006	Single-cell RNA
+GSM7884574	GSE247157	10xatac_19_d6_hu_lobe_atac_lib	Eye	Retina periphery		male	90	19-D006	Single-cell ATAC
+GSM7884575	GSE247157	10x3_19_d008_lib	Eye	Macula		female	64	19-D008	Single-cell RNA
+GSM7884576	GSE247157	10xatac_d030_13_hu_lobe_atac_lib	Eye	Macula		female	73	D030-13	Single-cell ATAC
+GSM7884577	GSE247157	10x3_19_d010_lib	Eye	Macula		female	88	19-D010	Single-cell RNA
+GSM7884578	GSE247157	10xatac_d018_13_hu_lobe_atac_lib	Eye	Retina periphery		female	90	D018-13	Single-cell ATAC
+GSM7884579	GSE247157	10x3_d018_13_lib	Eye	Macula		female	90	D018-13	Single-cell RNA

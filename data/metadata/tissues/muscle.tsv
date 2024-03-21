@@ -1,0 +1,3 @@
+sample_geo_accession	sample_series_id.x	sample_name	super_tissue	tissue	cell_type	sex	age	donor	technology
+GSM5033002	GSE165414	fresh_human_sat_cell_rep1	Muscle	Muscle					Bulk ATAC
+GSM5033003	GSE165414	fresh_human_sat_cell_rep2	Muscle	Muscle					Bulk ATAC

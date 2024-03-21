@@ -1,0 +1,69 @@
+sample_geo_accession	sample_series_id.x	sample_name	super_tissue	tissue	cell_type	sex	age	donor	technology
+GSM4826470	GSE159314, GSE183806	nb_4	Tonsil	Tonsil	Naive B				Bulk ATAC
+GSM4826471	GSE159314, GSE183806	pc_3	Tonsil	Tonsil	Plasma cell				Bulk ATAC
+GSM4826472	GSE159314, GSE183806	gcb_1	Tonsil	Tonsil	Germinal Center B cell				Bulk ATAC
+GSM4826473	GSE159314, GSE183806	nb_5	Tonsil	Tonsil	Naive B				Bulk ATAC
+GSM4826474	GSE159314, GSE183806	pc_4	Tonsil	Tonsil	Plasma cell				Bulk ATAC
+GSM4826475	GSE159314, GSE183806	gcb_2	Tonsil	Tonsil	Germinal Center B cell				Bulk ATAC
+GSM4826476	GSE159314, GSE183806	nb_6	Tonsil	Tonsil	Naive B				Bulk ATAC
+GSM4826477	GSE159314, GSE183806	gcb_cb_1	Tonsil	Tonsil	Germinal Center B cell, centroblast				Bulk ATAC
+GSM4826478	GSE159314, GSE183806	gcb_cb_2	Tonsil	Tonsil	Germinal Center B cell, centroblast				Bulk ATAC
+GSM4826479	GSE159314, GSE183806	gcb_cb_3	Tonsil	Tonsil	Germinal Center B cell, centroblast				Bulk ATAC
+GSM4826480	GSE159314, GSE183806	gcb_cc_1	Tonsil	Tonsil	Germinal Center B cell, centrocyte				Bulk ATAC
+GSM4826481	GSE159314, GSE183806	gcb_cc_2	Tonsil	Tonsil	Germinal Center B cell, centrocyte				Bulk ATAC
+GSM4826482	GSE159314, GSE183806	gcb_cc_3	Tonsil	Tonsil	Germinal Center B cell, centrocyte				Bulk ATAC
+GSM4826483	GSE159314, GSE183806	mb_1	Tonsil	Tonsil	Memory B				Bulk ATAC
+GSM4826484	GSE159314, GSE183806	mb_2	Tonsil	Tonsil	Memory B				Bulk ATAC
+GSM4826485	GSE159314, GSE183806	nb_1	Tonsil	Tonsil	Naive B				Bulk ATAC
+GSM4826486	GSE159314, GSE183806	pc_1	Tonsil	Tonsil	Plasma cell				Bulk ATAC
+GSM4826487	GSE159314, GSE183806	gcb_cb_4	Tonsil	Tonsil	Germinal Center B cell, centroblast				Bulk ATAC
+GSM4826488	GSE159314, GSE183806	gcb_cb_5	Tonsil	Tonsil	Germinal Center B cell, centroblast				Bulk ATAC
+GSM4826489	GSE159314, GSE183806	mb_3	Tonsil	Tonsil	Memory B				Bulk ATAC
+GSM4826490	GSE159314, GSE183806	pc_2	Tonsil	Tonsil	Plasma cell				Bulk ATAC
+GSM4826491	GSE159314, GSE183806	gcb_cb_6	Tonsil	Tonsil	Germinal Center B cell, centroblast				Bulk ATAC
+GSM4826492	GSE159314, GSE183806	nb_2	Tonsil	Tonsil	Naive B				Bulk ATAC
+GSM4826493	GSE159314, GSE183806	gcb_cb_7	Tonsil	Tonsil	Germinal Center B cell, centroblast				Bulk ATAC
+GSM4826494	GSE159314, GSE183806	nb_3	Tonsil	Tonsil	Naive B				Bulk ATAC
+GSM5051493	GSE165860	tonsil_1a_scrna_seq	Tonsil	Tonsil					Single-cell RNA
+GSM5051494	GSE165860	tonsil_1b_scrna_seq	Tonsil	Tonsil					Single-cell RNA
+GSM5051495	GSE165860	tonsil_2a_scrna_seq	Tonsil	Tonsil					Single-cell RNA
+GSM5051496	GSE165860	tonsil_2b_scrna_seq	Tonsil	Tonsil					Single-cell RNA
+GSM5051497	GSE165860	tonsil_3a_scrna_seq	Tonsil	Tonsil					Single-cell RNA
+GSM5051498	GSE165860	tonsil_3b_scrna_seq	Tonsil	Tonsil					Single-cell RNA
+GSM5051499	GSE165860	tonsil_1a_scatc_seq	Tonsil	Tonsil					Single-cell ATAC
+GSM5051500	GSE165860	tonsil_1b_scatc_seq	Tonsil	Tonsil					Single-cell ATAC
+GSM5051501	GSE165860	tonsil_2a_scatc_seq	Tonsil	Tonsil					Single-cell ATAC
+GSM5051502	GSE165860	tonsil_2b_scatc_seq	Tonsil	Tonsil					Single-cell ATAC
+GSM5051503	GSE165860	tonsil_3a_scatc_seq	Tonsil	Tonsil					Single-cell ATAC
+GSM5051504	GSE165860	tonsil_3b_scatc_seq	Tonsil	Tonsil					Single-cell ATAC
+GSM5051505	GSE165860	tonsil_4_scatac-seq	Tonsil	Tonsil					Single-cell ATAC
+GSM5051506	GSE165860	tonsil_5_scatac-seq	Tonsil	Tonsil					Single-cell ATAC
+GSM5051507	GSE165860	tonsil_6_scatac-seq	Tonsil	Tonsil					Single-cell ATAC
+GSM5051508	GSE165860	tonsil_7_scatac-seq	Tonsil	Tonsil					Single-cell ATAC
+GSM5363301	GSE176367	pp_44_bulk_atac-seq_	Tonsil	Tonsil		male	14		Bulk ATAC
+GSM5363302	GSE176367	pp_69_bulk_atac-seq_	Tonsil	Tonsil		male	12		Bulk ATAC
+GSM5363303	GSE176367	pp_72_bulk_atac-seq_	Tonsil	Tonsil		male	29		Bulk ATAC
+GSM5363304	GSE176367	pp_73_bulk_atac-seq_	Tonsil	Tonsil		male	17		Bulk ATAC
+GSM5363305	GSE176367	pn_44_bulk_atac-seq_	Tonsil	Tonsil		male	13		Bulk ATAC
+GSM5363306	GSE176367	pn_45_bulk_atac-seq_	Tonsil	Tonsil		male	35		Bulk ATAC
+GSM5363307	GSE176367	pn_69_bulk_atac-seq_	Tonsil	Tonsil		male	12		Bulk ATAC
+GSM5363308	GSE176367	pn_72_bulk_atac-seq_	Tonsil	Tonsil		male	29		Bulk ATAC
+GSM5363309	GSE176367	pn_73_bulk_atac-seq_	Tonsil	Tonsil		male	17		Bulk ATAC
+GSM5363310	GSE176367	nn_44_bulk_atac-seq_	Tonsil	Tonsil		male	13		Bulk ATAC
+GSM5363311	GSE176367	nn_45_bulk_atac-seq_	Tonsil	Tonsil		male	35		Bulk ATAC
+GSM5363312	GSE176367	nn_69_bulk_atac-seq_	Tonsil	Tonsil		male	12		Bulk ATAC
+GSM5363313	GSE176367	nn_72_bulk_atac-seq_	Tonsil	Tonsil		male	29		Bulk ATAC
+GSM5363314	GSE176367	nn_73_bulk_atac-seq_	Tonsil	Tonsil		male	17		Bulk ATAC
+GSM5363315	GSE176367	nkp44_44_bulk_atac-seq_	Tonsil	Tonsil		male	13		Bulk ATAC
+GSM5363316	GSE176367	nkp44_45_bulk_atac-seq_	Tonsil	Tonsil		male	35		Bulk ATAC
+GSM5363317	GSE176367	nkp44_69_bulk_atac-seq_	Tonsil	Tonsil		male	12		Bulk ATAC
+GSM5363318	GSE176367	nkp44_72_bulk_atac-seq_	Tonsil	Tonsil		male	29		Bulk ATAC
+GSM5363319	GSE176367	nkp44_73_bulk_atac-seq_	Tonsil	Tonsil		male	17		Bulk ATAC
+GSM5363320	GSE176367	ilc2_44_bulk_atac-seq_	Tonsil	Tonsil		male	14		Bulk ATAC
+GSM5363321	GSE176367	ilc2_69_bulk_atac-seq_	Tonsil	Tonsil		male	12		Bulk ATAC
+GSM5363322	GSE176367	ilc2_72_bulk_atac-seq_	Tonsil	Tonsil		male	29		Bulk ATAC
+GSM5363323	GSE176367	ilc2_73_bulk_atac-seq_	Tonsil	Tonsil		male	17		Bulk ATAC
+GSM5363324	GSE176367	ilc1_44_bulk_atac-seq_	Tonsil	Tonsil		male	14		Bulk ATAC
+GSM5363325	GSE176367	ilc1_69_bulk_atac-seq_	Tonsil	Tonsil		male	12		Bulk ATAC
+GSM5363326	GSE176367	ilc1_72_bulk_atac-seq_	Tonsil	Tonsil		male	29		Bulk ATAC
+GSM5363327	GSE176367	ilc1_73_bulk_atac-seq_	Tonsil	Tonsil		male	17		Bulk ATAC
